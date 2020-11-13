@@ -72,9 +72,9 @@ J17.	Siliang Lu, Xiaoxian Wang. A New Methodology to Estimate the Rotating Phase
 
 J16.	Yongbin Liu, Zhijia Dai, Siliang Lu*, Fang Liu, Jiwen Zhao, Jiale Shen, Enhanced bearing fault detection using step-varying vibrational resonance based on Duffing oscillator nonlinear system, Shock and Vibration. Vol. 2017, Article ID 5716296.
 
-J15.	Xiaoxian Wang, Jie Guo*, Siliang Lu*, Changqing Shen, Qingbo He, A computer-vision-based rotating speed estimation method for motor bearing fault diagnosis. Measurement Science and Technology. 2017, Vol. 28, pp: 065012.
+J15.	Xiaoxian Wang, Jie Guo#, Siliang Lu#, Changqing Shen, Qingbo He, A computer-vision-based rotating speed estimation method for motor bearing fault diagnosis. Measurement Science and Technology. 2017, Vol. 28, pp: 065012.
 
-J14.	Yongbin Liu, Qiang Qian, Fang Liu*, Siliang Lu*, Qingbo He, Jiwen Zhao, wayside bearing fault diagnosis based on envelope analysis paved with time domain interpolation resampling and weighted correlation coefficient guided stochastic resonance, Shock and Vibration. 2017, Article ID: 3189135.
+J14.	Yongbin Liu, Qiang Qian, Fang Liu#, Siliang Lu#, Qingbo He, Jiwen Zhao, wayside bearing fault diagnosis based on envelope analysis paved with time domain interpolation resampling and weighted correlation coefficient guided stochastic resonance, Shock and Vibration. 2017, Article ID: 3189135.
 
 J13.	Peng Zhou, Siliang Lu*, Fang Liu, Yongbin Liu, Guihua Li, Jiwen Zhao, Novel synthetic index-based adaptive stochastic resonance method and its application in bearing fault diagnosis. Journal of Sound and Vibration. 2017, Vol. 391, pp: 194-210.
 
