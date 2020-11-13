@@ -38,9 +38,9 @@ Pr1. 安徽大学引进人才科研启动经费，20万，2015-07-01至2020-06-3
 
 J33 Huasong Tang, Siliang Lu*, Gang Qian, Jianming Ding, Yongbin Liu, Qunjing Wang, IoT-based Signal Enhancement and Compression Method for Efficient Motor Bearing Fault Diagnosis. IEEE Sensors Journal. 2020, DOI: DOI 10.1109/JSEN.2020.3017768.
 
-J32.	Xiaoxian Wang, Siliang Lu*, Shiwu Zhang*, Rotating Angle Estimation for Hybrid Stepper Motors with Application to Bearing Fault Diagnosis. IEEE Transactions on Instrumentation and Measurement. 2020, Vol. 69, pp: 5556-5568.
+J32.	Xiaoxian Wang, Siliang Lu#, Shiwu Zhang#, Rotating Angle Estimation for Hybrid Stepper Motors with Application to Bearing Fault Diagnosis. IEEE Transactions on Instrumentation and Measurement. 2020, Vol. 69, pp: 5556-5568.
 
-J31.	Qing Shu, Siliang Lu*, Min Xia*, Jianming Ding, Jiahao Niu, Yongbin Liu. Enhanced feature extraction method for motor fault diagnosis using low-quality vibration data from wireless sensor networks. Measurement Science and Technology. 2020, Vol. 31, pp: 045016.
+J31.	Qing Shu, Siliang Lu#, Min Xia#, Jianming Ding, Jiahao Niu, Yongbin Liu. Enhanced feature extraction method for motor fault diagnosis using low-quality vibration data from wireless sensor networks. Measurement Science and Technology. 2020, Vol. 31, pp: 045016.
 
 J30.	Hui Wang, Siliang Lu*, Gang Qian, Jianming Ding, Yongbin Liu, Qunjing Wang, A Two-Step Strategy for Online Fault Detection of High-Resistance Connection in BLDC Motor. IEEE Transactions on Power Electronics. 2020, Vol. 35, pp: 3043-3053.
 
