@@ -37,6 +37,8 @@ Pr2. 自适应随机共振滤波器理论及其在机械故障在线诊断中的
 Pr1. 安徽大学引进人才科研启动经费，20万，2015-07-01至2020-06-30，主持，结题。
 
 ### 代表性论文 (#为通信作者)
+J35 Xiaoxian Wang, Siliang Lu#, Wenbin Huang, Qunjing Wang, Shiwu Zhang#, Min Xia, Efficient Data Reduction at the Edge of Industrial Internet of Things for PMSM Bearing Fault Diagnosis, IEEE Transactions on Instrumentation and Measurement. 2021, DOI: 10.1109/TIM.2021.3051668.
+
 J34 Heng Sun, Min Xia, Yawei Hu#, Siliang Lu#, Yongbin Liu, Qunjing Wang, A new sorting feature-based temporal convolutional network for remaining useful life prediction of rotating machinery, Computers and Electrical Engineering. 2021, accepted.
 
 J33 Huasong Tang, Siliang Lu#, Gang Qian, Jianming Ding, Yongbin Liu, Qunjing Wang, IoT-based Signal Enhancement and Compression Method for Efficient Motor Bearing Fault Diagnosis. IEEE Sensors Journal. 2021, Vol. 21, pp: 1820-1828.
