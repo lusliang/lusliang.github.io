@@ -163,18 +163,20 @@ P1. 陆思良，周天昊，苏杰，张扬，一种冒泡排序算法演示装�
 6.	IEEE Transactions on Systems, Man and Cybernetics: Systems
 7.	IEEE Transactions on Industry Applications
 8.	IEEE Journal of Biomedical and Health Informatics
-9.	IEEE Access
-10.	IET Signal Processing 
-11.	IET Science, Measurement & Technology
-12.	Mechanical Systems and Signal Processing, Elsevier 
-13.	Journal of Sound and Vibration, Elsevier 
-14.	ISA Transactions, Elsevier 
-15.	Computers & Electrical Engineering, Elsevier
-16.	Chinese Journal of Physics, Elsevier
-17.	Optics and Laser Technology, Elsevier
-18.	Measurement, Elsevier
-19.	Journal of Vibration and Control, Sage
-20.	PIME, Part C: Journal of Mechanical Engineering Science, Sage
-21.	PIME, Part F: Journal of Rail and Rapid Transit, Sage
-22.	International Journal of Advanced Manufacturing Technology, Springer
-23.	Journal of Intelligent Manufacturing, Springer
+9.	IEEE Sensors Journal
+10.	IEEE Access
+11.	IET Signal Processing 
+12.	IET Science, Measurement & Technology
+13.	Mechanical Systems and Signal Processing, Elsevier 
+14.	Journal of Sound and Vibration, Elsevier 
+15.	ISA Transactions, Elsevier 
+16.	Computers & Electrical Engineering, Elsevier
+17.	Chinese Journal of Physics, Elsevier
+18.	Optics and Laser Technology, Elsevier
+19.	Measurement, Elsevier
+20.	Journal of Vibration and Control, Sage
+21.	PIME, Part C: Journal of Mechanical Engineering Science, Sage
+22.	PIME, Part F: Journal of Rail and Rapid Transit, Sage
+23.	International Journal of Advanced Manufacturing Technology, Springer
+24.	Journal of Intelligent Manufacturing, Springer
+25.	Measurement Science and Technology, IoP
