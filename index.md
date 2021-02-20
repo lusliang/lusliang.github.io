@@ -1,6 +1,6 @@
 ### 个人信息
 
-陆思良，博士，副教授，硕士生导师。分别于2010和2015年获中国科学技术大学机械设计制造及其自动化学士和精密仪器与机械博士学位。主要从事机电系统状态监测、故障诊断与智能运维研究。主持国家自然科学基金2项，安徽省自然科学基金1项，国家重点实验室开放课题2项、安徽省重点实验室开放课题1项，校企合作开发项目多项。在本领域权威期刊上发表SCI期刊论文60余篇，其中一作/通信作者论文30余篇，包括机械故障诊断领域权威期刊《Mechanical Systems and Signal Processing》(5篇)、电力电子领域权威期刊《IEEE Transactions on Power Electronics》(2篇)、控制和系统领域权威期刊《IEEE Transactions on Systems, Man and Cybernetics: Systems》、振动和声音领域权威期刊《Journal of Sound and Vibration》(8篇)、仪器和测量领域权威期刊《IEEE Transactions on Instrumentation and Measurement》(8篇)。文章在谷歌学术中被引用1300余次，H指数为23，i10指数为33。Web of Science核心数据库中SCI他引900余次，累计入选ESI前1%全球高被引论文2篇。担任50余个机电信号处理、故障诊断等领域的国内外期刊审稿人。申请/授权发明专利20余项。曾获中国电工技术学会科学技术奖一等奖、上海市科学技术二等奖、安徽省自然科学二等奖。担任IEEE Senior Member、中国振动工程学会转子动力学专业委员会理事、中国振动工程学会故障诊断专业委员会理事及青年工作委员会成员，安徽省机器人学会会员及青年工作委员会副主任委员、安徽省振动工程学会会员。
+陆思良，博士，副教授，硕士生导师。分别于2010和2015年获中国科学技术大学机械设计制造及其自动化学士和精密仪器与机械博士学位。主要从事机电系统状态监测、故障诊断与智能运维研究，近年来在三个主要研究方向取得系统性的创新成果：1）基于随机共振非线性滤波的微弱信号检测理论和应用；2）基于无编码器转速估计的变转速阶次分析故障诊断；3）基于边缘计算的实时在线信号处理与状态监测诊断。主持国家自然科学基金2项，安徽省自然科学基金1项，国家重点实验室开放课题2项、安徽省重点实验室开放课题1项，校企合作开发项目多项。在本领域期刊会议上发表论文近百篇，其中SCI期刊论文60余篇，一作/通信作者SCI论文30余篇，包括机械故障诊断领域权威期刊《Mechanical Systems and Signal Processing》(5篇)、电力电子领域权威期刊《IEEE Transactions on Power Electronics》(2篇)、控制和系统领域权威期刊《IEEE Transactions on Systems, Man and Cybernetics: Systems》、振动和声音领域权威期刊《Journal of Sound and Vibration》(8篇)、仪器和测量领域权威期刊《IEEE Transactions on Instrumentation and Measurement》(8篇)。文章在谷歌学术中被引用约1500次，H指数为24，i10指数为35。Web of Science核心数据库中SCI他引约1000次，累计入选ESI前1%全球高被引论文2篇。担任50余个机电信号处理、故障诊断等领域的国内外期刊审稿人。申请/授权发明专利20余项。曾获中国电工技术学会科学技术奖一等奖、上海市科学技术二等奖、安徽省自然科学二等奖。担任IEEE Senior Member、中国振动工程学会转子动力学专业委员会理事、中国振动工程学会故障诊断专业委员会理事及青年工作委员会成员，安徽省机器人学会会员及青年工作委员会副主任委员、安徽省振动工程学会会员。
 
 
 ### 教育经历
@@ -37,9 +37,9 @@ Pr2. 自适应随机共振滤波器理论及其在机械故障在线诊断中的
 Pr1. 安徽大学引进人才科研启动经费，20万，2015-07-01至2020-06-30，主持，结题。
 
 ### 代表性论文 (#为通信作者)
-J35 Xiaoxian Wang, Siliang Lu#, Wenbin Huang, Qunjing Wang, Shiwu Zhang#, Min Xia, Efficient Data Reduction at the Edge of Industrial Internet of Things for PMSM Bearing Fault Diagnosis, IEEE Transactions on Instrumentation and Measurement. 2021, DOI: 10.1109/TIM.2021.3051668.
+J35 Heng Sun, Min Xia, Yawei Hu#, Siliang Lu#, Yongbin Liu, Qunjing Wang, A new sorting feature-based temporal convolutional network for remaining useful life prediction of rotating machinery, Computers and Electrical Engineering. 2021, accepted.
 
-J34 Heng Sun, Min Xia, Yawei Hu#, Siliang Lu#, Yongbin Liu, Qunjing Wang, A new sorting feature-based temporal convolutional network for remaining useful life prediction of rotating machinery, Computers and Electrical Engineering. 2021, accepted.
+J34 Xiaoxian Wang, Siliang Lu#, Wenbin Huang, Qunjing Wang, Shiwu Zhang#, Min Xia, Efficient Data Reduction at the Edge of Industrial Internet of Things for PMSM Bearing Fault Diagnosis, IEEE Transactions on Instrumentation and Measurement. 2021, Vol. 70, p: 3508612.
 
 J33 Huasong Tang, Siliang Lu#, Gang Qian, Jianming Ding, Yongbin Liu, Qunjing Wang, IoT-based Signal Enhancement and Compression Method for Efficient Motor Bearing Fault Diagnosis. IEEE Sensors Journal. 2021, Vol. 21, pp: 1820-1828.
 
