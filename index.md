@@ -1,6 +1,6 @@
 ### 个人信息
 
-陆思良，博士，副教授，硕士生导师。分别于2010和2015年获中国科学技术大学机械设计制造及其自动化学士和精密仪器与机械博士学位。主要从事机电系统状态监测、故障诊断与智能运维研究，近年来在三个主要研究方向取得系统性的创新成果：1）基于随机共振非线性滤波的微弱信号检测理论和应用；2）基于无编码器转速估计的变转速阶次分析故障诊断；3）基于边缘计算的实时在线信号处理与状态监测诊断。主持国家自然科学基金2项，安徽省自然科学基金1项，国家重点实验室开放课题2项、安徽省重点实验室开放课题1项，校企合作开发项目多项。在本领域期刊会议上发表论文近100篇，其中SCI期刊论文60余篇，一作/通信作者SCI论文30余篇，包括机械故障诊断领域权威期刊《Mechanical Systems and Signal Processing》(5篇)、电力电子领域权威期刊《IEEE Transactions on Power Electronics》(2篇)、《IEEE Transactions on Energy Conversion》、控制和系统领域权威期刊《IEEE Transactions on Systems, Man and Cybernetics: Systems》、振动和声音领域权威期刊《Journal of Sound and Vibration》(8篇)、仪器和测量领域权威期刊《IEEE Transactions on Instrumentation and Measurement》(8篇)。文章在谷歌学术中被引用1500余次，H指数为24，i10指数为35。Web of Science核心数据库中SCI他引1000余次，累计入选ESI前1%全球高被引论文2篇。担任50余个机电信号处理、故障诊断等领域的国内外期刊审稿人。申请/授权发明专利20余项。曾获中国电工技术学会科学技术奖一等奖、上海市科学技术二等奖、安徽省自然科学二等奖。担任IEEE Senior Member、中国振动工程学会转子动力学专业委员会理事、中国振动工程学会故障诊断专业委员会理事及青年工作委员会成员，安徽省机器人学会会员及青年工作委员会副主任委员、安徽省振动工程学会会员。
+陆思良，博士，副教授，硕士生导师。分别于2010和2015年获中国科学技术大学机械设计制造及其自动化学士和精密仪器与机械博士学位。主要从事机电系统状态监测、故障诊断与智能运维研究，近年来在三个主要研究方向取得系统性的创新成果：1）基于随机共振非线性滤波的微弱信号检测理论和应用；2）基于无编码器转速估计的变转速阶次分析故障诊断；3）基于边缘计算的实时在线信号处理与状态监测诊断。主持国家自然科学基金2项，安徽省自然科学基金1项，国家重点实验室开放课题2项、安徽省重点实验室开放课题1项，校企合作开发项目多项。在本领域期刊会议上发表论文近100篇，其中SCI期刊论文60余篇，一作/通信作者SCI论文30余篇，包括机械故障诊断领域权威期刊《Mechanical Systems and Signal Processing》(5篇)、电力电子领域权威期刊《IEEE Transactions on Power Electronics》(2篇)、《IEEE Transactions on Energy Conversion》、控制和系统领域权威期刊《IEEE Transactions on Systems, Man and Cybernetics: Systems》、振动和声音领域权威期刊《Journal of Sound and Vibration》(8篇)、仪器和测量领域权威期刊《IEEE Transactions on Instrumentation and Measurement》(8篇)。文章在谷歌学术中被引用1500余次，H指数为24，i10指数为36。Web of Science核心数据库中SCI他引1000余次，累计入选ESI前1%全球高被引论文2篇。担任50余个机电信号处理、故障诊断等领域的国内外期刊审稿人。申请/授权发明专利20余项。曾获中国电工技术学会科学技术奖一等奖、上海市科学技术二等奖、安徽省自然科学二等奖。担任IEEE Senior Member、中国振动工程学会转子动力学专业委员会理事、中国振动工程学会故障诊断专业委员会理事及青年工作委员会成员，安徽省机器人学会会员及青年工作委员会副主任委员、安徽省振动工程学会会员。
 
 
 ### 教育经历
@@ -16,7 +16,9 @@
 3. 机器人
 
 ### 研究项目
-Pr10. 基于漏磁信号分析的电机在线监测与故障诊断研究，先见智控科技（常州）有限公司，2021.01-2021.12，主持，在研。
+Pr11.压力机故障诊断系统软件设计，北京机电研究所有限公司，2021.06-2021.08，主持，在研。
+
+Pr10.基于漏磁信号分析的电机在线监测与故障诊断研究，先见智控科技（常州）有限公司，2021.01-2021.12，主持，在研。
 
 Pr9. 微弱特征的噪声增强深度表示及其在机械早期故障诊断中的研究，国家自然科学基金，编号：52075002,2021.01至2024.12，主持，在研。
 
@@ -37,6 +39,8 @@ Pr2. 自适应随机共振滤波器理论及其在机械故障在线诊断中的
 Pr1. 安徽大学引进人才科研启动经费，2015-07-01至2020-06-30，主持，结题。
 
 ### 代表性论文 (#为通信作者)
+J36 Xiaoxian Wang, Siliang Lu#, Wenping Cao, Min Xia, Kang Chen, Jianming Ding, Shiwu Zhang#, Stray Flux-Based Rotation Angle Measurement for Bearing Fault Diagnosis in Variable-Speed BLDC Motors, IEEE Transactions on Energy Conversion, 2021, accepted, DOI: 10.1109/TEC.2021.3079444.
+
 J35 Heng Sun, Min Xia, Yawei Hu#, Siliang Lu#, Yongbin Liu, Qunjing Wang, A new sorting feature-based temporal convolutional network for remaining useful life prediction of rotating machinery, Computers and Electrical Engineering. 2021, accepted.
 
 J34 Xiaoxian Wang, Siliang Lu#, Wenbin Huang, Qunjing Wang, Shiwu Zhang#, Min Xia, Efficient Data Reduction at the Edge of Industrial Internet of Things for PMSM Bearing Fault Diagnosis, IEEE Transactions on Instrumentation and Measurement. 2021, Vol. 70, p: 3508612.
@@ -124,6 +128,7 @@ P2. 陆思良，苏云升，赵吉文，王骁贤，刘方，刘永斌，一种�
 P1. 陆思良，周天昊，苏杰，张扬，一种冒泡排序算法演示装置，ZL201710723948.3，授权,2018。
 
 ### 荣誉奖励
+2020年项目“复杂工况下设备故障信号调控与融合诊断理论方法”获安徽省自然科学奖二等奖
 
 2019年项目“高可靠性高效率新能源车用电驱动系统关键技术及产业化应用”获中国电工技术学会科学技术奖一等奖
 
