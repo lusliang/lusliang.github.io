@@ -113,6 +113,10 @@ J2. Siliang Lu, Qingbo He, Fanrang Kong. Stochastic Resonance with Woods-Saxon p
 
 J1. Siliang Lu, Qingbo He, Haibin Zhang, Shangbin Zhang, Fanrang Kong. Note: Signal amplification and filtering with a tristable stochastic resonance cantilever. Review of Scientific Instruments. 2013, Vol. 84(2), pp: 026110.
 
+中文论文：
+
+J1. 陆思良，苏云升，赵吉文，何清波，刘方，刘永斌，基于二维互补随机共振的轴承故障诊断方法研究，振动与冲击，2018，Vol. 37, No. 4, pp: 7-12+27. 
+
 ### 发明专利
 
 P8. 陆思良，汤华松，王骁贤，刘永斌，王群京，一种基于信号增强与压缩边缘计算的电机轴承故障诊断方法及装置，CN202010747947.4，实审。
