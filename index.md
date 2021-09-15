@@ -48,7 +48,7 @@ J37 Xiaoxian Wang, Siliang Lu#, Kang Chen, Qunjing Wang, Shiwu Zhang#, Bearing F
 
 J36 Xiaoxian Wang, Siliang Lu#, Wenping Cao, Min Xia, Kang Chen, Jianming Ding, Shiwu Zhang#, Stray Flux-Based Rotation Angle Measurement for Bearing Fault Diagnosis in Variable-Speed BLDC Motors, IEEE Transactions on Energy Conversion, 2021, accepted, DOI: 10.1109/TEC.2021.3079444.
 
-J35 Heng Sun, Min Xia, Yawei Hu#, Siliang Lu#, Yongbin Liu, Qunjing Wang, A new sorting feature-based temporal convolutional network for remaining useful life prediction of rotating machinery, Computers and Electrical Engineering. 2021, Vol. 95, : 107413.
+J35 Heng Sun, Min Xia, Yawei Hu#, Siliang Lu#, Yongbin Liu, Qunjing Wang, A new sorting feature-based temporal convolutional network for remaining useful life prediction of rotating machinery, Computers and Electrical Engineering. 2021, Vol. 95, p: 107413.
 
 J34 Xiaoxian Wang, Siliang Lu#, Wenbin Huang, Qunjing Wang, Shiwu Zhang#, Min Xia, Efficient Data Reduction at the Edge of Industrial Internet of Things for PMSM Bearing Fault Diagnosis, IEEE Transactions on Instrumentation and Measurement. 2021, Vol. 70, p: 3508612.
 
