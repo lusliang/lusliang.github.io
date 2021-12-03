@@ -46,7 +46,7 @@ Pr1. 多参量传感器信号测试，重庆大学-安徽大学合作开发项�
 ### 代表性论文 (#为通信作者)
 J37 Xiaoxian Wang, Siliang Lu#, Kang Chen, Qunjing Wang, Shiwu Zhang#, Bearing Fault Diagnosis of Switched Reluctance Motor in Electric Vehicle Powertrain via Multi-sensor Data Fusion, IEEE Transactions on Industrial Informatics, 2021, accepted, DOI: 10.1109/TII.2021.3095086.
 
-J36 Xiaoxian Wang, Siliang Lu#, Wenping Cao, Min Xia, Kang Chen, Jianming Ding, Shiwu Zhang#, Stray Flux-Based Rotation Angle Measurement for Bearing Fault Diagnosis in Variable-Speed BLDC Motors, IEEE Transactions on Energy Conversion, 2021, accepted, DOI: 10.1109/TEC.2021.3079444.
+J36 Xiaoxian Wang, Siliang Lu#, Wenping Cao, Min Xia, Kang Chen, Jianming Ding, Shiwu Zhang#, Stray Flux-Based Rotation Angle Measurement for Bearing Fault Diagnosis in Variable-Speed BLDC Motors, IEEE Transactions on Energy Conversion, 2021, Vol. 36, pp: 3156-3166.
 
 J35 Heng Sun, Min Xia, Yawei Hu#, Siliang Lu#, Yongbin Liu, Qunjing Wang, A new sorting feature-based temporal convolutional network for remaining useful life prediction of rotating machinery, Computers and Electrical Engineering. 2021, Vol. 95, p: 107413.
 
