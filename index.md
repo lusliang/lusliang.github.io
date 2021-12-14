@@ -1,6 +1,6 @@
 ### 个人信息
 
-陆思良，博士，副教授，硕士生导师。分别于2010和2015年获中国科学技术大学机械设计制造及其自动化学士和精密仪器与机械博士学位。主要从事机电系统状态监测、故障诊断与智能运维研究，近年来在三个主要研究方向取得系统性的创新成果：1）基于随机共振非线性滤波的微弱信号检测理论和应用；2）基于无编码器转速估计的变转速阶次分析故障诊断；3）基于边缘计算的实时在线信号处理与状态监测诊断。主持国家自然科学基金面上项目和青年项目，安徽省自然科学基金1项，国家重点实验室开放课题2项、安徽省重点实验室开放课题1项，校企合作开发项目多项。在本领域期刊会议上发表论文近100篇，其中SCI期刊论文60余篇，一作/通信作者SCI论文30余篇，包括机械故障诊断领域权威期刊《Mechanical Systems and Signal Processing》(5篇)、电力电子领域权威期刊《IEEE Transactions on Power Electronics》(2篇)、《IEEE Transactions on Energy Conversion》、《IEEE Transactions on Industrial Informatics》、控制和系统领域权威期刊《IEEE Transactions on Systems, Man and Cybernetics: Systems》、振动和声音领域权威期刊《Journal of Sound and Vibration》(8篇)、仪器和测量领域权威期刊《IEEE Transactions on Instrumentation and Measurement》(10篇)。文章在谷歌学术中被引用1700余次，H指数为25，i10指数为39。Web of Science核心数据库中SCI他引1200余次，累计入选ESI前1%全球高被引论文2篇。担任50余个机电信号处理、故障诊断等领域的国内外期刊审稿人。申请/授权发明专利20余项。入选斯坦福大学与Elsevier联合发布的全球前2%顶尖科学家榜单、获中国电工技术学会科学技术奖一等奖、上海市科学技术二等奖、安徽省自然科学二等奖。担任IEEE Senior Member、中国振动工程学会转子动力学专业委员会理事、中国振动工程学会故障诊断专业委员会理事及青年工作委员会成员，安徽省机器人学会会员及青年工作委员会副主任委员、安徽省振动工程学会理事。
+陆思良，博士，副教授，硕士生导师。分别于2010和2015年获中国科学技术大学机械设计制造及其自动化学士和精密仪器与机械博士学位。主要从事机电系统状态监测、故障诊断与智能运维研究，近年来在三个主要研究方向取得系统性的创新成果：1）基于随机共振非线性滤波的微弱信号检测理论和应用；2）基于无编码器转速估计的变转速阶次分析故障诊断；3）基于边缘计算的实时在线信号处理与状态监测诊断。主持国家自然科学基金面上项目和青年项目，安徽省自然科学基金1项，国家重点实验室开放课题2项、安徽省重点实验室开放课题1项，校企合作开发项目多项。在本领域期刊会议上发表论文近100篇，其中SCI期刊论文60余篇，一作/通信作者SCI论文30余篇，包括机械故障诊断领域权威期刊《Mechanical Systems and Signal Processing》(5篇)、电力电子领域权威期刊《IEEE Transactions on Power Electronics》(2篇)、《IEEE Transactions on Energy Conversion》、《IEEE Transactions on Industrial Informatics》(2篇)、控制和系统领域权威期刊《IEEE Transactions on Systems, Man and Cybernetics: Systems》、振动和声音领域权威期刊《Journal of Sound and Vibration》(8篇)、仪器和测量领域权威期刊《IEEE Transactions on Instrumentation and Measurement》(10篇)。文章在谷歌学术中被引用1700余次，H指数为25，i10指数为39。Web of Science核心数据库中SCI他引1200余次，累计入选ESI前1%全球高被引论文2篇。担任50余个机电信号处理、故障诊断等领域的国内外期刊审稿人。申请/授权发明专利20余项。入选斯坦福大学与Elsevier联合发布的全球前2%顶尖科学家榜单、获中国电工技术学会科学技术奖一等奖、上海市科学技术二等奖、安徽省自然科学二等奖。担任IEEE Senior Member、中国振动工程学会转子动力学专业委员会理事、中国振动工程学会故障诊断专业委员会理事及青年工作委员会成员，安徽省机器人学会会员及青年工作委员会副主任委员、安徽省振动工程学会理事。
 
 
 ### 教育经历
@@ -44,6 +44,8 @@ Pr2. 内嵌多参量感知系统传动装置，重庆大学-安徽大学合作�
 Pr1. 多参量传感器信号测试，重庆大学-安徽大学合作开发项目，2017.09至2018.08，主持，结题。
 
 ### 代表性论文 (#为通信作者)
+J38 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min xia#, Siliang Lu#, Bingyou Liu, Guoli Li, Wenping Cao, Real-time Defect Detection of Die Cast Rotor in Induction Motor Based on Circular Flux Sensing Coils, IEEE Transactions on Industrial Informatics, 2021, accepted.
+
 J37 Xiaoxian Wang, Siliang Lu#, Kang Chen, Qunjing Wang, Shiwu Zhang#, Bearing Fault Diagnosis of Switched Reluctance Motor in Electric Vehicle Powertrain via Multi-sensor Data Fusion, IEEE Transactions on Industrial Informatics, 2021, accepted, DOI: 10.1109/TII.2021.3095086.
 
 J36 Xiaoxian Wang, Siliang Lu#, Wenping Cao, Min Xia, Kang Chen, Jianming Ding, Shiwu Zhang#, Stray Flux-Based Rotation Angle Measurement for Bearing Fault Diagnosis in Variable-Speed BLDC Motors, IEEE Transactions on Energy Conversion, 2021, Vol. 36, pp: 3156-3166.
