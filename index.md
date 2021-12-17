@@ -44,7 +44,7 @@ Pr2. 内嵌多参量感知系统传动装置，重庆大学-安徽大学合作�
 Pr1. 多参量传感器信号测试，重庆大学-安徽大学合作开发项目，2017.09至2018.08，主持，结题。
 
 ### 代表性论文 (#为通信作者)
-J38 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min xia#, Siliang Lu#, Bingyou Liu, Guoli Li, Wenping Cao, Real-time Defect Detection of Die Cast Rotor in Induction Motor Based on Circular Flux Sensing Coils, IEEE Transactions on Industrial Informatics, 2021, DOI: 10.1109/TII.2021.3136560.
+J38 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia#, Siliang Lu#, Bingyou Liu, Guoli Li, Wenping Cao, Real-time Defect Detection of Die Cast Rotor in Induction Motor Based on Circular Flux Sensing Coils, IEEE Transactions on Industrial Informatics, 2021, DOI: 10.1109/TII.2021.3136560.
 
 J37 Xiaoxian Wang, Siliang Lu#, Kang Chen, Qunjing Wang, Shiwu Zhang#, Bearing Fault Diagnosis of Switched Reluctance Motor in Electric Vehicle Powertrain via Multi-sensor Data Fusion, IEEE Transactions on Industrial Informatics, 2021, accepted, DOI: 10.1109/TII.2021.3095086.
 
