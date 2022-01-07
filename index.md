@@ -46,7 +46,7 @@ Pr1. 多参量传感器信号测试，重庆大学-安徽大学合作开发项�
 ### 代表性论文 (#为通信作者)
 J38 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia#, Siliang Lu#, Bingyou Liu, Guoli Li, Wenping Cao, Real-time Defect Detection of Die Cast Rotor in Induction Motor Based on Circular Flux Sensing Coils, IEEE Transactions on Industrial Informatics, 2021, DOI: 10.1109/TII.2021.3136560.
 
-J37 Xiaoxian Wang, Siliang Lu#, Kang Chen, Qunjing Wang, Shiwu Zhang#, Bearing Fault Diagnosis of Switched Reluctance Motor in Electric Vehicle Powertrain via Multi-sensor Data Fusion, IEEE Transactions on Industrial Informatics, 2021, accepted, DOI: 10.1109/TII.2021.3095086.
+J37 Xiaoxian Wang, Siliang Lu#, Kang Chen, Qunjing Wang, Shiwu Zhang#, Bearing Fault Diagnosis of Switched Reluctance Motor in Electric Vehicle Powertrain via Multi-sensor Data Fusion, IEEE Transactions on Industrial Informatics, 2022, Vol. 18, pp: 2452-2464.
 
 J36 Xiaoxian Wang, Siliang Lu#, Wenping Cao, Min Xia, Kang Chen, Jianming Ding, Shiwu Zhang#, Stray Flux-Based Rotation Angle Measurement for Bearing Fault Diagnosis in Variable-Speed BLDC Motors, IEEE Transactions on Energy Conversion, 2021, Vol. 36, pp: 3156-3166.
 
