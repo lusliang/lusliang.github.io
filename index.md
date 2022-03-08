@@ -131,6 +131,49 @@ J2. Siliang Lu, Qingbo He, Fanrang Kong. Stochastic Resonance with Woods-Saxon p
 
 J1. Siliang Lu, Qingbo He, Haibin Zhang, Shangbin Zhang, Fanrang Kong. Note: Signal amplification and filtering with a tristable stochastic resonance cantilever. Review of Scientific Instruments. 2013, Vol. 84(2), pp: 026110.
 
+### 主要合作论文
+
+J20. Min Xia, Haidong Shao, Darren Williams, Siliang Lu, Lei Shu, Clarence W. de Silva, Intelligent fault diagnosis of machinery using digital twin-assisted deep transfer learning, Reliability Engineering and System Safety, 2021, 215: 107938.
+
+J19. Mingfeng Shi, Zheng Cao, Yongbin Liu, Fang Liu, Siliang Lu, Guoli Li, Feature extraction method of rolling bearing based on adaptive divergence matrix linear discriminant analysis, Measurement Science and Technology, 2021, 32: 075003.
+
+J18. Fang Liu, Haidong Huang, Yongbin Liu, Bing He, Xiaowen Dong, Siliang Lu, Bin Ju, Zheng Cao, Performance Degradation Assessment for Coaxial Bearings Using Kernel JADE and Two-Class Model, IEEE Transactions on Instrumentation and Measurement. 2021, 70: 350112.
+
+J17. Qiang Xue, Boyu Xu, Changbo He, Fang Liu, Bin Ju, Siliang Lu, Yongbin Liu, Feature Extraction Using Hierarchical Dispersion Entropy for Rolling Bearing Fault Diagnosis, IEEE Transactions on Instrumentation and Measurement. 2021, 70: 3521311.
+
+J16. Changbo He, Jerome Antoni, Alessandro Paolo Daga, Hongkun Li, Ning Chu, Siliang Lu, Zhixiong Li, An Improved Key-Phase-Free Blade Tip-Timing Technique for Nonstationary Test Conditions and Its Application on Large-Scale Centrifugal Compressor Blades, IEEE Transactions on Instrumentation and Measurement. 2021, 70: 3504516.
+
+J15. Fang Liu, Ruixiang Wu, Fanrong Teng, Yongbin Liu, Siliang Lu, Bin Ju, Zheng Cao, A Two-Stage Learning Model for Track-Side Acoustic Bearing Fault Diagnosis, IEEE Transactions on Instrumentation and Measurement. 2021, 70: 3516512.
+
+J14. Zhixiang Chen, Changbo He, Yongbin Liu, Siliang Lu, Fang Liu, Guoli Li, Incipient Fault Feature Extraction of Rolling Bearing Based on Optimized Singular Spectrum Decomposition, IEEE Sensors Journal, 2021, 21(18): 20362-20374.
+
+J13. Juan Xu, Yongfang Shi, Xiaohui Yuan, Siliang Lu, Cross-Category Mechanical Fault Diagnosis Based on Deep Few-Shot Learning, IEEE Sensors Journal, 2021, 21(24): 27698-27709.
+
+J12. Lei Xue, Qunjing Wang, Siliang Lu, Guoli Li, Runyu Tang, Attitude estimation of a permanent magnet spherical motor based on an improved fast discriminative scale space tracking algorithm, Measurement Science and Technology, 2020, 31: 055005.
+
+J11. Yiping Rong, Qunjing Wang , Siliang Lu, Guoli Li, Yin Lu, Jiazi Xu, Improving attitude detection performance for spherical motors using a MEMS inertial measurement sensor, IET Electric Power Applications, 2019, 13(2): 198-205.
+
+J10. Yi Xia, Siliang Lu, Convolutional sparse coding with periodic overlapped group sparsity for rolling element bearing fault diagnosis, Measurement Science and Technology, 2018, 29: 115103.
+
+J9. Lin Geng, Feng Xie, Siliang Lu, Reconstructing non-stationary surface normal velocity of a planar structure using pressure-velocity probes, Applied Acoustics, 2108, 134: 46–53.
+
+J8. Qingbo He, Yanyan Xu, Siliang Lu, Yong Shao, Frequency-shift vibro-acoustic modulation
+driven by low-frequency broadband excitations in a bistable cantilever oscillator, Measurement Science and Technology, 2017, 28: 037002.
+
+J7. Cristian Lopez, Wei Zhong, Siliang Lu, Feiyun Cong, Ignacio Cortese, Stochastic resonance in an underdamped system with FitzHug-Nagumo potential for weak signal detection, Journal of Sound and Vibration, 2017, 411: 34-46.
+
+J6: Juncai Song, Fei Dong, Jiwen Zhao, Siliang Lu, Shaokun Dou, Hui Wang, Optimal design of permanent magnet linear synchronous motors based on Taguchi method, IET Electric Power Applications, 2017, 11(1): 41-48.
+
+J5. Haibin Zhang, Siliang Lu, Qingbo He, Fanrang Kong, Multi-bearing defect detection with trackside acoustic signal based on apseudo time–frequency analysis and Dopplerlet filter, Mechanical Systems and Signal Processing, 2016, 70-71: 176–200.
+
+J4. Shangbin Zhang, Siliang Lu, Qingbo He, Fanrang Kong, Time-varying singular value decomposition for periodic transient identification in bearing fault diagnosis, Journal of Sound and Vibration, 2016, 379: 213–231.
+
+J3. Yongbin Liu, Bing He, Fang Liu, Siliang Lu, Yilei Zhao, Feature fusion using kernel joint approximate diagonalization of eigen-matrices for rolling bearing fault identification, Journal of Sound and Vibration, 2016, 385: 389–401.
+
+J2. Jie Guo, Chang'an Zhu, Siliang Lu, Dashan Zhang, Chunyu Zhang, Vision-based measurement for rotational speed by improving Lucas–Kanade template tracking algorithm, Applied Optics, 2016, 55(25): 7186-7194.
+
+J1. Qingbo He, Yanyan Xu, Siliang Lu, Daoyi Dai, Out-of-resonance vibration modulation of ultrasound with a nonlinear oscillator for microcrack detection in a cantilever beam, Applied Physics Letters, 2014, 104: 171903.
+
 中文论文：
 
 J8. 韩朋朋，贺长波，陆思良，基于参数优化变分模态分解与循环平稳分析的轴承早期故障诊断方法研究，机电工程，2022，接收。
