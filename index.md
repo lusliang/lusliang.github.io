@@ -133,6 +133,8 @@ J1. Siliang Lu, Qingbo He, Haibin Zhang, Shangbin Zhang, Fanrang Kong. Note: Sig
 
 ### 主要合作论文
 
+J21. Cristian López, Ángel Naranjo, Siliang Lu, Keegan James Moore, Hidden Markov Model based Stochastic Resonance and its Application to Bearing Fault Diagnosis, Journal of Sound and Vibration, 2022, Accepted.
+
 J20. Min Xia, Haidong Shao, Darren Williams, Siliang Lu, Lei Shu, Clarence W. de Silva, Intelligent fault diagnosis of machinery using digital twin-assisted deep transfer learning, Reliability Engineering and System Safety, 2021, 215: 107938.
 
 J19. Mingfeng Shi, Zheng Cao, Yongbin Liu, Fang Liu, Siliang Lu, Guoli Li, Feature extraction method of rolling bearing based on adaptive divergence matrix linear discriminant analysis, Measurement Science and Technology, 2021, 32: 075003.
