@@ -135,7 +135,7 @@ J1. Siliang Lu, Qingbo He, Haibin Zhang, Shangbin Zhang, Fanrang Kong. Note: Sig
 
 J22. Xin Li, Haidong Shao, Siliang Lu, Jiawei Xiang, Baoping Cai, Highly-efficient fault diagnosis of rotating machinery under time-varying speeds using LSISMM and small infrared thermal images, IEEE Transactions on Systems, Man, and Cybernetics: Systems, DOI: 10.1109/TSMC.2022.3151185.
 
-J21. Cristian López, Ángel Naranjo, Siliang Lu, Keegan James Moore, Hidden Markov Model based Stochastic Resonance and its Application to Bearing Fault Diagnosis, Journal of Sound and Vibration, 2022, Accepted.
+J21. Cristian López, Ángel Naranjo, Siliang Lu, Keegan James Moore, Hidden Markov Model based Stochastic Resonance and its Application to Bearing Fault Diagnosis, Journal of Sound and Vibration, 2022, 528: 116890.
 
 J20. Min Xia, Haidong Shao, Darren Williams, Siliang Lu, Lei Shu, Clarence W. de Silva, Intelligent fault diagnosis of machinery using digital twin-assisted deep transfer learning, Reliability Engineering and System Safety, 2021, 215: 107938.
 
