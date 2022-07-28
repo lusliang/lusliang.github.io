@@ -302,26 +302,27 @@ P1. 陆思良，周天昊，苏杰，张扬，一种冒泡排序算法演示装�
 6.	IEEE Transactions on Instrumentation and Measurement
 7.	IEEE Transactions on Systems, Man and Cybernetics: Systems
 8.	IEEE Transactions on Industry Applications
-9.	IEEE Journal of Emerging and Selected Topics in Power Electronics
-10.	IEEE Journal of Biomedical and Health Informatics
-11.	IEEE Internet of Things Journal
-12.	IEEE Systems Journal
-13.	IEEE Sensors Journal
-14.	IET Signal Processing 
-15.	IET Science, Measurement & Technology
-16.	Mechanical Systems and Signal Processing, Elsevier 
-17.	Journal of Sound and Vibration, Elsevier 
-18.	ISA Transactions, Elsevier 
-19.	Reliability Engineering and System Safety, Elsevier
-20.	Applied Acoustics, Elsevier
-21.	Engineering Failure Analysis, Elsevier
-22.	Computers & Electrical Engineering, Elsevier
-23.	Chinese Journal of Physics, Elsevier
-24.	Optics and Laser Technology, Elsevier
-25.	Measurement, Elsevier
-26.	Journal of Vibration and Control, Sage
-27.	PIME, Part C: Journal of Mechanical Engineering Science, Sage
-28.	PIME, Part F: Journal of Rail and Rapid Transit, Sage
-29.	International Journal of Advanced Manufacturing Technology, Springer
-30.	Journal of Intelligent Manufacturing, Springer
-31.	Measurement Science and Technology, IoP
+9.	IEEE Transactions on Neural Networks and Learning Systems
+10.	IEEE Journal of Emerging and Selected Topics in Power Electronics
+11.	IEEE Journal of Biomedical and Health Informatics
+12.	IEEE Internet of Things Journal
+13.	IEEE Systems Journal
+14.	IEEE Sensors Journal
+15.	IET Signal Processing 
+16.	IET Science, Measurement & Technology
+17.	Mechanical Systems and Signal Processing, Elsevier 
+18.	Journal of Sound and Vibration, Elsevier 
+19.	ISA Transactions, Elsevier 
+20.	Reliability Engineering and System Safety, Elsevier
+21.	Applied Acoustics, Elsevier
+22.	Engineering Failure Analysis, Elsevier
+23.	Computers & Electrical Engineering, Elsevier
+24.	Chinese Journal of Physics, Elsevier
+25.	Optics and Laser Technology, Elsevier
+26.	Measurement, Elsevier
+27.	Journal of Vibration and Control, Sage
+28.	PIME, Part C: Journal of Mechanical Engineering Science, Sage
+29.	PIME, Part F: Journal of Rail and Rapid Transit, Sage
+30.	International Journal of Advanced Manufacturing Technology, Springer
+31.	Journal of Intelligent Manufacturing, Springer
+32.	Measurement Science and Technology, IoP
