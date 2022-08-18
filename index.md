@@ -301,31 +301,32 @@ P1. 陆思良，周天昊，苏杰，张扬，一种冒泡排序算法演示装�
 3.	IEEE Transactions on Power Electronics
 4.	IEEE Transactions on Circuits and Systems I: Regular Papers
 5.	IEEE/ASME Transactions on Mechatronics
-6.	IEEE Transactions on Instrumentation and Measurement
-7.	IEEE Transactions on Systems, Man and Cybernetics: Systems
-8.	IEEE Transactions on Industry Applications
-9.	IEEE Transactions on Neural Networks and Learning Systems
-10.	IEEE Journal of Emerging and Selected Topics in Power Electronics
-11.	IEEE Journal of Biomedical and Health Informatics
-12.	IEEE Internet of Things Journal
-13.	IEEE Systems Journal
-14.	IEEE Sensors Journal
-15.	IET Signal Processing 
-16.	IET Science, Measurement & Technology
-17.	Mechanical Systems and Signal Processing, Elsevier 
-18.	Journal of Sound and Vibration, Elsevier 
-19.	ISA Transactions, Elsevier
-20.	Information Fusion, Elsevier 
-21.	Reliability Engineering and System Safety, Elsevier
-22.	Applied Acoustics, Elsevier
-23.	Engineering Failure Analysis, Elsevier
-24.	Computers & Electrical Engineering, Elsevier
-25.	Chinese Journal of Physics, Elsevier
-26.	Optics and Laser Technology, Elsevier
-27.	Measurement, Elsevier
-28.	Journal of Vibration and Control, Sage
-29.	PIME, Part C: Journal of Mechanical Engineering Science, Sage
-30.	PIME, Part F: Journal of Rail and Rapid Transit, Sage
-31.	International Journal of Advanced Manufacturing Technology, Springer
-32.	Journal of Intelligent Manufacturing, Springer
-33.	Measurement Science and Technology, IoP
+6.	IEEE Transactions on Reliability
+7.	IEEE Transactions on Instrumentation and Measurement
+8.	IEEE Transactions on Systems, Man and Cybernetics: Systems
+9.	IEEE Transactions on Industry Applications
+10.	IEEE Transactions on Neural Networks and Learning Systems
+11.	IEEE Journal of Emerging and Selected Topics in Power Electronics
+12.	IEEE Journal of Biomedical and Health Informatics
+13.	IEEE Internet of Things Journal
+14.	IEEE Systems Journal
+15.	IEEE Sensors Journal
+16.	IET Signal Processing 
+17.	IET Science, Measurement & Technology
+18.	Mechanical Systems and Signal Processing, Elsevier 
+19.	Journal of Sound and Vibration, Elsevier 
+20.	ISA Transactions, Elsevier
+21.	Information Fusion, Elsevier 
+22.	Reliability Engineering and System Safety, Elsevier
+23.	Applied Acoustics, Elsevier
+24.	Engineering Failure Analysis, Elsevier
+25.	Computers & Electrical Engineering, Elsevier
+26.	Chinese Journal of Physics, Elsevier
+27.	Optics and Laser Technology, Elsevier
+28.	Measurement, Elsevier
+29.	Journal of Vibration and Control, Sage
+30.	PIME, Part C: Journal of Mechanical Engineering Science, Sage
+31.	PIME, Part F: Journal of Rail and Rapid Transit, Sage
+32.	International Journal of Advanced Manufacturing Technology, Springer
+33.	Journal of Intelligent Manufacturing, Springer
+34.	Measurement Science and Technology, IoP
