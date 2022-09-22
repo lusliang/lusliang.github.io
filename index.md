@@ -322,17 +322,18 @@ P1. 陆思良，周天昊，苏杰，张扬，一种冒泡排序算法演示装�
 18.	Mechanical Systems and Signal Processing, Elsevier 
 19.	Journal of Sound and Vibration, Elsevier 
 20.	ISA Transactions, Elsevier
-21.	Information Fusion, Elsevier 
-22.	Reliability Engineering and System Safety, Elsevier
-23.	Applied Acoustics, Elsevier
-24.	Engineering Failure Analysis, Elsevier
-25.	Computers & Electrical Engineering, Elsevier
-26.	Chinese Journal of Physics, Elsevier
-27.	Optics and Laser Technology, Elsevier
-28.	Measurement, Elsevier
-29.	Journal of Vibration and Control, Sage
-30.	PIME, Part C: Journal of Mechanical Engineering Science, Sage
-31.	PIME, Part F: Journal of Rail and Rapid Transit, Sage
-32.	International Journal of Advanced Manufacturing Technology, Springer
-33.	Journal of Intelligent Manufacturing, Springer
-34.	Measurement Science and Technology, IoP
+21.	Information Fusion, Elsevier
+22.	Chaos, Solitons and Fractals, Elsevier 
+23.	Reliability Engineering and System Safety, Elsevier
+24.	Applied Acoustics, Elsevier
+25.	Engineering Failure Analysis, Elsevier
+26.	Computers & Electrical Engineering, Elsevier
+27.	Chinese Journal of Physics, Elsevier
+28.	Optics and Laser Technology, Elsevier
+29.	Measurement, Elsevier
+30.	Journal of Vibration and Control, Sage
+31.	PIME, Part C: Journal of Mechanical Engineering Science, Sage
+32.	PIME, Part F: Journal of Rail and Rapid Transit, Sage
+33.	International Journal of Advanced Manufacturing Technology, Springer
+34.	Journal of Intelligent Manufacturing, Springer
+35.	Measurement Science and Technology, IoP
