@@ -82,7 +82,15 @@ Pr2. 基于矫正算法的办公人群坐姿矫正与护眼系统一体化设计
 
 Pr1. 基于机器视觉技术的算法演示机器人系统设计，大学生创新训练项目，校级，指导教师，2016。 
 
+### Published Book
 
+Advanced Sensors and Sensing Technologies for Electric Vehicles, Edited by Wenping Cao and Siliang Lu, AIP Publishing LLC, Melville, New York, ISBN: 978-0-7354-2519-4 (Online), 2022.
+
+Also contribute to 2 chapters:
+
+C1 Hui Wang, Gang Qian, Wenping Cao, and Siliang Lu, A two-step online fault detection method for high-resistance connection faults in a vehicular BLDC motor, in Advanced Sensors and Sensing Technologies for Electric Vehicles, edited by W. Cao and S. Lu (AIP Publishing, Melville, New York, 2022), pp. 1-1–1-22.
+
+C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, Real-time defect detection of die cast rotor in EV induction motor based on circular flux sensing coils, in Advanced Sensors and Sensing Technologies for Electric Vehicles, edited by W. Cao and S. Lu (AIP Publishing, Melville, New York, 2022), pp. 2-1–2-26.
 
 ### 代表性论文 (#为通信作者)
 J39 Hui Wang, Jiliang Wang, Xiaoxian Wang, Siliang Lu#, Cungang Hu#, Wenping Cao#, Detection and Evaluation of the Inter-turn Short Circuit Fault in a BLDC-Based Hub Motor, IEEE Transactions on Industrial Electronics, 2022, DOI: 10.1109/TIE.2022.3167167.
