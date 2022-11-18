@@ -1,6 +1,6 @@
 ### 个人信息
 
-陆思良，博士，副教授，博士/硕士生导师，连续入选斯坦福大学与Elsevier联合发布的全球前2%顶尖科学家榜单。分别于2010和2015年获中国科学技术大学机械设计制造及其自动化学士和精密仪器与机械博士学位。主要从事机电系统创新设计、状态监测、故障诊断与智能运维研究，近年来在三个主要研究方向取得系统性的创新成果：1）基于随机共振非线性滤波的微弱信号检测理论和应用，综述：https://doi.org/10.1016/j.ymssp.2018.06.032 ；2）基于无编码器转速估计的变转速阶次分析故障诊断，综述：https://ieeexplore.ieee.org/document/8675968/ ；3）基于边缘计算的实时在线信号处理与状态监测诊断，视频：https://www.bilibili.com/video/av338361439?from=search&seid=13292917389133890727&spm_id_from=333.337.0.0 。主持国家自然科学基金面上项目和青年项目，安徽省自然科学基金1项，国家重点实验室开放课题2项、安徽省重点实验室开放课题1项，校企合作开发项目多项。在本领域期刊会议上发表论文近100篇，其中SCI期刊论文70余篇，一作/通信作者SCI论文30余篇，包括机械故障诊断、振动声音处理领域权威期刊《Mechanical Systems and Signal Processing》(5篇)、《Journal of Sound and Vibration》(9篇)；电力电子、控制系统、仪器测试领域权威期刊《IEEE Transactions on Systems, Man and Cybernetics: Systems》(2篇)、《IEEE Transactions on Industrial Informatics》(2篇)、《IEEE Transactions on Industrial Electronics》、《IEEE Transactions on Power Electronics》(2篇)、《IEEE Transactions on Instrumentation and Measurement》(10篇)、《IEEE Transactions on Energy Conversion》、《IEEE Sensors Journal》（6篇）。文章在谷歌学术中被引用2200余次，H指数为29，i10指数为50。Web of Science核心数据库中SCI他引1500余次，累计入选ESI前1%全球高被引论文2篇。担任国际期刊《IEEE Transactions on Instrumentation and Measurement》副主编（Associate Editor）、《Journal of Dynamics, Monitoring and Diagnostics》编委；担任50余个机电信号处理、故障诊断等领域的国内外期刊审稿人；担任国家自然科学基金同行评议专家。申请/授权发明专利20余项。获中国电工技术学会科学技术奖一等奖、上海市科学技术二等奖、安徽省自然科学二等奖。担任IEEE Senior Member、中国振动工程学会转子动力学专业委员会理事、中国振动工程学会故障诊断专业委员会理事及青年工作委员会成员，安徽省机器人学会会员及青年工作委员会副主任委员、安徽省振动工程学会理事。
+陆思良，博士，副教授，博士/硕士生导师，连续入选斯坦福大学与Elsevier联合发布的全球前2%顶尖科学家榜单。分别于2010和2015年获中国科学技术大学机械设计制造及其自动化学士和精密仪器与机械博士学位。主要从事机电系统创新设计、状态监测、故障诊断与智能运维研究，近年来在三个主要研究方向取得系统性的创新成果：1）基于随机共振非线性滤波的微弱信号检测理论和应用，综述：https://doi.org/10.1016/j.ymssp.2018.06.032 ；2）基于无编码器转速估计的变转速阶次分析故障诊断，综述：https://ieeexplore.ieee.org/document/8675968/ ；3）基于边缘计算的实时在线信号处理与状态监测诊断，视频：https://www.bilibili.com/video/av338361439?from=search&seid=13292917389133890727&spm_id_from=333.337.0.0 。主持国家自然科学基金面上项目和青年项目，安徽省自然科学基金1项，国家重点实验室开放课题2项、安徽省重点实验室开放课题1项，校企合作开发项目多项。在本领域期刊会议上发表论文近100篇，其中SCI期刊论文70余篇，一作/通信作者SCI论文30余篇，包括机械故障诊断、振动声音处理领域权威期刊《Mechanical Systems and Signal Processing》(5篇)、《Journal of Sound and Vibration》(9篇)；电力电子、控制系统、仪器测试领域权威期刊《IEEE Transactions on Systems, Man and Cybernetics: Systems》(2篇)、《IEEE Transactions on Industrial Informatics》(2篇)、《IEEE Transactions on Industrial Electronics》、《IEEE Transactions on Power Electronics》(2篇)、《IEEE Transactions on Instrumentation and Measurement》(10篇)、《IEEE Transactions on Energy Conversion》、《IEEE Sensors Journal》（6篇）。文章在谷歌学术中被引用2300余次，H指数为29，i10指数为50。Web of Science核心数据库中SCI他引1500余次，累计入选ESI前1%全球高被引论文3篇。担任国际期刊《IEEE Transactions on Instrumentation and Measurement》副主编（Associate Editor）、《Journal of Dynamics, Monitoring and Diagnostics》编委；担任50余个机电信号处理、故障诊断等领域的国内外期刊审稿人；担任国家自然科学基金同行评议专家。申请/授权发明专利20余项。获中国电工技术学会科学技术奖一等奖、上海市科学技术二等奖、安徽省自然科学二等奖。担任IEEE Senior Member、中国振动工程学会转子动力学专业委员会理事、中国振动工程学会故障诊断专业委员会理事及青年工作委员会成员，安徽省机器人学会会员及青年工作委员会副主任委员、安徽省振动工程学会理事。
 
 ### 联系方式
 
@@ -58,7 +58,7 @@ Pr1. 多参量传感器信号测试，重庆大学-安徽大学合作开发项�
 
 教学教研项目
 
-Pr12. 基于沉浸式案例教学的研究生科研训练方法探索，新时代育人质量工程项目（研究生教育）教研项目，负责人，2022。
+Pr12. 基于沉浸式案例教学的研究生科研训练方法探索，安徽省新时代育人质量工程项目（研究生教育）教研项目，负责人，2022。
 
 Pr11. 安徽大学-国仪量子实践教育基地，安徽大学实践教育基地项目，负责人，2022。
 
