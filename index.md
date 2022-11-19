@@ -95,7 +95,7 @@ C1 Hui Wang, Gang Qian, Wenping Cao, and Siliang Lu, A two-step online fault det
 C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, Real-time defect detection of die cast rotor in EV induction motor based on circular flux sensing coils, in Advanced Sensors and Sensing Technologies for Electric Vehicles, edited by W. Cao and S. Lu (AIP Publishing, Melville, New York, 2022), pp. 2-1–2-26.
 
 ### 代表性论文 (#为通信作者)
-J39 Hui Wang, Jiliang Wang, Xiaoxian Wang, Siliang Lu#, Cungang Hu#, Wenping Cao#, Detection and Evaluation of the Inter-turn Short Circuit Fault in a BLDC-Based Hub Motor, IEEE Transactions on Industrial Electronics, 2022, DOI: 10.1109/TIE.2022.3167167.
+J39 Hui Wang, Jiliang Wang, Xiaoxian Wang, Siliang Lu#, Cungang Hu#, Wenping Cao#, Detection and Evaluation of the Inter-turn Short Circuit Fault in a BLDC-Based Hub Motor, IEEE Transactions on Industrial Electronics, 2023, Vol. 70(3), pp: 3055-3068.
 
 J38 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia#, Siliang Lu#, Bingyou Liu, Guoli Li, Wenping Cao, Real-time Defect Detection of Die Cast Rotor in Induction Motor Based on Circular Flux Sensing Coils, IEEE Transactions on Industrial Informatics, 2022, Vol. 18, pp: 9271-9282.
 
