@@ -95,9 +95,9 @@ C1 Hui Wang, Gang Qian, Wenping Cao, and Siliang Lu, A two-step online fault det
 C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, Real-time defect detection of die cast rotor in EV induction motor based on circular flux sensing coils, in Advanced Sensors and Sensing Technologies for Electric Vehicles, edited by W. Cao and S. Lu (AIP Publishing, Melville, New York, 2022), pp. 2-1–2-26.
 
 ### 代表性论文 (#为通信作者)
-J41 Qingyun Zhu, Jingfeng Lu, Xiaoxian Wang, Hui Wang, Siliang Lu#, Clarence de Silva, Min Xia#, Real-time Quality Inspection of Motor Rotor Using Cost-effective Intelligent Edge System, IEEE Internet of Things Journal, 2022, Accepted.
+J41 Qingyun Zhu, Jingfeng Lu, Xiaoxian Wang, Hui Wang, Siliang Lu#, Clarence de Silva, Min Xia#, Real-time Quality Inspection of Motor Rotor Using Cost-effective Intelligent Edge System, IEEE Internet of Things Journal, 2022, DOI: 10.1109/JIOT.2022.3228869.
 
-J40 Lv Chen, Kang An, Dali Huang, Xiaoxian Wang#, Min Xia#, and Siliang Lu#, Noise-Boosted Convolutional Neural Network for Edge-based Motor Fault Diagnosis with Limited Samples, IEEE Transactions on Industrial Informatics, 2022, Accepted.
+J40 Lv Chen, Kang An, Dali Huang, Xiaoxian Wang#, Min Xia#, and Siliang Lu#, Noise-Boosted Convolutional Neural Network for Edge-based Motor Fault Diagnosis with Limited Samples, IEEE Transactions on Industrial Informatics, 2022, DOI: 10.1109/TII.2022.3228902.
 
 J39 Hui Wang, Jiliang Wang, Xiaoxian Wang, Siliang Lu#, Cungang Hu#, Wenping Cao#, Detection and Evaluation of the Inter-turn Short Circuit Fault in a BLDC-Based Hub Motor, IEEE Transactions on Industrial Electronics, 2023, Vol. 70(3), pp: 3055-3068.
 
