@@ -109,11 +109,11 @@ J37 Xiaoxian Wang, Siliang Lu#, Kang Chen, Qunjing Wang, Shiwu Zhang#, Bearing F
 
 J36 Xiaoxian Wang, Siliang Lu#, Wenping Cao, Min Xia, Kang Chen, Jianming Ding, Shiwu Zhang#, Stray Flux-Based Rotation Angle Measurement for Bearing Fault Diagnosis in Variable-Speed BLDC Motors, IEEE Transactions on Energy Conversion, 2021, Vol. 36, pp: 3156-3166.
 
-J35 Heng Sun, Min Xia, Yawei Hu#, Siliang Lu#, Yongbin Liu, Qunjing Wang, A new sorting feature-based temporal convolutional network for remaining useful life prediction of rotating machinery, Computers and Electrical Engineering. 2021, Vol. 95, p: 107413.
+J35 Xiaoxian Wang, Siliang Lu#, Wenbin Huang, Qunjing Wang, Shiwu Zhang#, Min Xia, Efficient Data Reduction at the Edge of Industrial Internet of Things for PMSM Bearing Fault Diagnosis, IEEE Transactions on Instrumentation and Measurement. 2021, Vol. 70, p: 3508612.
 
-J34 Xiaoxian Wang, Siliang Lu#, Wenbin Huang, Qunjing Wang, Shiwu Zhang#, Min Xia, Efficient Data Reduction at the Edge of Industrial Internet of Things for PMSM Bearing Fault Diagnosis, IEEE Transactions on Instrumentation and Measurement. 2021, Vol. 70, p: 3508612.
+J34 Huasong Tang, Siliang Lu#, Gang Qian, Jianming Ding, Yongbin Liu, Qunjing Wang, IoT-based Signal Enhancement and Compression Method for Efficient Motor Bearing Fault Diagnosis. IEEE Sensors Journal. 2021, Vol. 21, pp: 1820-1828.
 
-J33 Huasong Tang, Siliang Lu#, Gang Qian, Jianming Ding, Yongbin Liu, Qunjing Wang, IoT-based Signal Enhancement and Compression Method for Efficient Motor Bearing Fault Diagnosis. IEEE Sensors Journal. 2021, Vol. 21, pp: 1820-1828.
+J33 Heng Sun, Min Xia, Yawei Hu#, Siliang Lu#, Yongbin Liu, Qunjing Wang, A new sorting feature-based temporal convolutional network for remaining useful life prediction of rotating machinery, Computers and Electrical Engineering. 2021, Vol. 95, p: 107413.
 
 J32.	Xiaoxian Wang, Siliang Lu#, Shiwu Zhang#, Rotating Angle Estimation for Hybrid Stepper Motors with Application to Bearing Fault Diagnosis. IEEE Transactions on Instrumentation and Measurement. 2020, Vol. 69, pp: 5556-5568.
 
@@ -227,6 +227,8 @@ J2. Jie Guo, Chang'an Zhu, Siliang Lu, Dashan Zhang, Chunyu Zhang, Vision-based 
 J1. Qingbo He, Yanyan Xu, Siliang Lu, Daoyi Dai, Out-of-resonance vibration modulation of ultrasound with a nonlinear oscillator for microcrack detection in a cantilever beam, Applied Physics Letters, 2014, 104: 171903.
 
 中文论文：
+
+J12. 张凌寒，陆思良，基于量子遗传算法优化的空间魔法波形装置动态网格坐标误差分析，齐齐哈尔大学学报（自然科学版），2022，接收。
 
 J11. 陈康，安康，王骁贤，宋俊材，陆思良，基于振动和电流信号深度融合的电机转速估计及轴承故障诊断，轴承，2022，接收。
 
