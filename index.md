@@ -396,3 +396,4 @@ T1. 电机故障诊断，苏州大学轨道交通学院，2016年。
 33.	International Journal of Advanced Manufacturing Technology, Springer
 34.	Journal of Intelligent Manufacturing, Springer
 35.	Measurement Science and Technology, IoP
+36.	Energy Science & Engineering, Wiley
