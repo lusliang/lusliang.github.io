@@ -7,6 +7,7 @@
 2）基于无编码器转速估计的变转速阶次分析故障诊断，综述：https://ieeexplore.ieee.org/document/8675968/
 
 3）基于边缘计算的实时在线信号处理与状态监测诊断，综述：https://ieeexplore.ieee.org/document/10026418
+B站公开课：https://www.bilibili.com/video/BV1AR4y1u74b/
 
 主持国家自然科学基金面上项目和青年项目各1项，安徽省高校“优青”科研项目1项，安徽省高校优秀青年人才支持项目1项，安徽省自然科学基金1项，国家重点实验室开放课题2项、安徽省重点实验室开放课题1项，校企合作开发项目多项。在本领域期刊会议上发表论文近100篇，其中SCI期刊论文70余篇，一作/通信作者SCI论文40余篇，包括机械电子、控制系统、仪器测试领域权威期刊《IEEE Transactions on Systems, Man and Cybernetics: Systems》(2篇)、《IEEE Transactions on Industrial Informatics》(3篇)、《IEEE Transactions on Industrial Electronics》、《IEEE Transactions on Power Electronics》(2篇)、《IEEE Transactions on Instrumentation and Measurement》(12篇)、《IEEE Transactions on Energy Conversion》、《IEEE Internet of Things Journal》（2篇）、《IEEE Sensors Journal》（6篇）、《Mechanical Systems and Signal Processing》(5篇)、《Journal of Sound and Vibration》(9篇)。文章在谷歌学术中被引用2500余次，H指数为30，i10指数为51。Web of Science核心数据库中SCI他引1800余次，累计入选ESI前1%全球高被引论文3篇。担任国际期刊《IEEE Transactions on Instrumentation and Measurement》Associate Editor、《Journal of Dynamics, Monitoring and Diagnostics》编委；《西南交通大学学报》青年编委；担任50余个机电信号处理、故障诊断等领域的国内外期刊审稿人；担任国家自然科学基金同行评议专家。申请/授权国家发明专利20余项。获中国电工技术学会科学技术奖一等奖、上海市科学技术二等奖、安徽省自然科学二等奖。担任IEEE Senior Member、中国机械工程学会设备智能运维分会委员、中国振动工程学会转子动力学专业委员会理事、中国振动工程学会故障诊断专业委员会理事及青年工作委员会成员、安徽省机器人学会青年工作委员会副主任委员、安徽省振动工程学会理事。
 
