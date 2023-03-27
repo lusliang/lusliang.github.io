@@ -384,21 +384,22 @@ T1. 电机故障诊断，苏州大学轨道交通学院，2016年。
 16.	IET Signal Processing 
 17.	IET Science, Measurement & Technology
 18.	Mechanical Systems and Signal Processing, Elsevier 
-19.	Journal of Sound and Vibration, Elsevier 
-20.	ISA Transactions, Elsevier
-21.	Information Fusion, Elsevier
-22.	Chaos, Solitons and Fractals, Elsevier 
-23.	Reliability Engineering and System Safety, Elsevier
-24.	Applied Acoustics, Elsevier
-25.	Engineering Failure Analysis, Elsevier
-26.	Computers & Electrical Engineering, Elsevier
-27.	Chinese Journal of Physics, Elsevier
-28.	Optics and Laser Technology, Elsevier
-29.	Measurement, Elsevier
-30.	Journal of Vibration and Control, Sage
-31.	PIME, Part C: Journal of Mechanical Engineering Science, Sage
-32.	PIME, Part F: Journal of Rail and Rapid Transit, Sage
-33.	International Journal of Advanced Manufacturing Technology, Springer
-34.	Journal of Intelligent Manufacturing, Springer
-35.	Measurement Science and Technology, IoP
-36.	Energy Science & Engineering, Wiley
+19.	Journal of Sound and Vibration, Elsevier
+20.	Expert Systems With Applications, Elsevier 
+21.	ISA Transactions, Elsevier
+22.	Information Fusion, Elsevier
+23.	Chaos, Solitons and Fractals, Elsevier 
+24.	Reliability Engineering and System Safety, Elsevier
+25.	Applied Acoustics, Elsevier
+26.	Engineering Failure Analysis, Elsevier
+27.	Computers & Electrical Engineering, Elsevier
+28.	Chinese Journal of Physics, Elsevier
+29.	Optics and Laser Technology, Elsevier
+30.	Measurement, Elsevier
+31.	Journal of Vibration and Control, Sage
+32.	PIME, Part C: Journal of Mechanical Engineering Science, Sage
+33.	PIME, Part F: Journal of Rail and Rapid Transit, Sage
+34.	International Journal of Advanced Manufacturing Technology, Springer
+35.	Journal of Intelligent Manufacturing, Springer
+36.	Measurement Science and Technology, IoP
+37.	Energy Science & Engineering, Wiley
