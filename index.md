@@ -114,13 +114,13 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 ### 代表性论文 (#为通信作者)
 
-J43 Juncai Song, Shuo Liu, Zhangling Duan, Xianhong Wu, Wei Ding, Xiaoxian Wang#, Siliang Lu#, DPMSLM Demagnetization Fault Detection Based on Texture Feature Analysis of Grayscale Fusion Image, IEEE Transactions on Instrumentation and Measurement, 2023, accepted, DOI: 10.1109/TIM.2023.3259035.
+J43 Siliang Lu, Jingfeng Lu, Kang An, Xiaoxian Wang, Qingbo He, Edge Computing on IoT for Machine Signal Processing and Fault Diagnosis: A Review, IEEE Internet of Things Journal, 2023, DOI: 10.1109/JIOT.2023.3239944. 
 
-J42 Siliang Lu, Jingfeng Lu, Kang An, Xiaoxian Wang, Qingbo He, Edge Computing on IoT for Machine Signal Processing and Fault Diagnosis: A Review, IEEE Internet of Things Journal, 2023, DOI: 10.1109/JIOT.2023.3239944. 
+J42 Qingyun Zhu, Jingfeng Lu, Xiaoxian Wang, Hui Wang, Siliang Lu#, Clarence de Silva, Min Xia#, Real-time Quality Inspection of Motor Rotor Using Cost-effective Intelligent Edge System, IEEE Internet of Things Journal, 2023, DOI: 10.1109/JIOT.2022.3228869.
 
-J41 Qingyun Zhu, Jingfeng Lu, Xiaoxian Wang, Hui Wang, Siliang Lu#, Clarence de Silva, Min Xia#, Real-time Quality Inspection of Motor Rotor Using Cost-effective Intelligent Edge System, IEEE Internet of Things Journal, 2023, DOI: 10.1109/JIOT.2022.3228869.
+J41 Lv Chen, Kang An, Dali Huang, Xiaoxian Wang#, Min Xia#, and Siliang Lu#, Noise-Boosted Convolutional Neural Network for Edge-based Motor Fault Diagnosis with Limited Samples, IEEE Transactions on Industrial Informatics, 2023, DOI: 10.1109/TII.2022.3228902.
 
-J40 Lv Chen, Kang An, Dali Huang, Xiaoxian Wang#, Min Xia#, and Siliang Lu#, Noise-Boosted Convolutional Neural Network for Edge-based Motor Fault Diagnosis with Limited Samples, IEEE Transactions on Industrial Informatics, 2023, DOI: 10.1109/TII.2022.3228902.
+J40 Juncai Song, Shuo Liu, Zhangling Duan, Xianhong Wu, Wei Ding, Xiaoxian Wang#, Siliang Lu#, DPMSLM Demagnetization Fault Detection Based on Texture Feature Analysis of Grayscale Fusion Image, IEEE Transactions on Instrumentation and Measurement, 2023, Vol. 72, 3510512.
 
 J39 Hui Wang, Jiliang Wang, Xiaoxian Wang, Siliang Lu#, Cungang Hu#, Wenping Cao#, Detection and Evaluation of the Inter-turn Short Circuit Fault in a BLDC-Based Hub Motor, IEEE Transactions on Industrial Electronics, 2023, Vol. 70(3), pp: 3055-3068.
 
