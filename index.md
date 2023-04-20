@@ -201,7 +201,7 @@ J2. Siliang Lu, Qingbo He, Fanrang Kong. Stochastic Resonance with Woods-Saxon p
 J1. Siliang Lu, Qingbo He, Haibin Zhang, Shangbin Zhang, Fanrang Kong. Note: Signal amplification and filtering with a tristable stochastic resonance cantilever. Review of Scientific Instruments. 2013, Vol. 84(2), pp: 026110.
 
 ### 主要合作论文
-J23. Xi Chen, Hui Wang, Siliang Lu, Ruqiang Yan, Bearing Remaining Useful Life Prediction Using Federated Learning with Taylor-Expansion Network Pruning, IEEE Transactions on Instrumentation and Measurement, Accepted, 2023.
+J23. Xi Chen, Hui Wang, Siliang Lu, Ruqiang Yan, Bearing Remaining Useful Life Prediction Using Federated Learning with Taylor-Expansion Network Pruning, IEEE Transactions on Instrumentation and Measurement, 2023, 72: 3512610.
 
 J22. Xin Li, Haidong Shao, Siliang Lu, Jiawei Xiang, Baoping Cai, Highly-efficient fault diagnosis of rotating machinery under time-varying speeds using LSISMM and small infrared thermal images, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(12): 7328-7340.
 
@@ -347,6 +347,8 @@ P1. 陆思良，周天昊，苏杰，张扬，一种冒泡排序算法演示装�
 2011年获安徽省“挑战杯”学术科技竞赛特等奖
 
 ### 受邀学术报告
+
+T8. 边缘智能驱动的设备状态实时监测与控制，上海工程技术大学城市轨道交通学院，2023年。
 
 T7. 电机无编码器转速估计及变转速工况阶次分析故障诊断，中国矿业大学机电工程学院，2022年。
 
