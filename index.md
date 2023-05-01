@@ -10,7 +10,7 @@
 
 B站公开课：https://www.bilibili.com/video/BV1AR4y1u74b/
 
-主持国家自然科学基金面上项目和青年项目各1项，安徽省高校“优青”科研项目1项，安徽省高校优秀青年人才支持项目1项，安徽省自然科学基金1项，国家重点实验室开放课题2项、安徽省重点实验室开放课题1项，校企合作开发项目多项。在本领域期刊会议上发表论文近100篇，其中SCI期刊论文70余篇，一作/通信作者SCI论文40余篇，包括机械电子、控制系统、仪器测试领域权威期刊《IEEE Transactions on Systems, Man and Cybernetics: Systems》(2篇)、《IEEE Transactions on Industrial Informatics》(3篇)、《IEEE Transactions on Industrial Electronics》、《IEEE Transactions on Power Electronics》(2篇)、《IEEE Transactions on Instrumentation and Measurement》(13篇)、《IEEE Transactions on Energy Conversion》、《IEEE Internet of Things Journal》（2篇）、《IEEE Sensors Journal》（6篇）、《Mechanical Systems and Signal Processing》(5篇)、《Journal of Sound and Vibration》(9篇)。文章在谷歌学术中被引用2600余次，H指数为30，i10指数为51。Web of Science核心数据库中SCI他引1800余次，累计入选ESI前1%全球高被引论文3篇。担任国际期刊《IEEE Transactions on Instrumentation and Measurement》Associate Editor、《Journal of Dynamics, Monitoring and Diagnostics》编委；《西南交通大学学报》青年编委；担任50余个机电信号处理、故障诊断等领域的国内外期刊审稿人；担任国家自然科学基金同行评议专家。申请/授权国家发明专利20余项。获中国电工技术学会科学技术奖一等奖、上海市科学技术二等奖、安徽省自然科学二等奖。担任IEEE Senior Member、中国机械工程学会设备智能运维分会委员、中国振动工程学会转子动力学专业委员会理事、中国振动工程学会故障诊断专业委员会理事及青年工作委员会成员、安徽省机器人学会青年工作委员会副主任委员、安徽省振动工程学会理事。
+主持国家自然科学基金面上项目和青年项目各1项，安徽省高校“优青”科研项目1项，安徽省高校优秀青年人才支持项目1项，安徽省自然科学基金1项，国家重点实验室开放课题2项、安徽省重点实验室开放课题1项，校企合作开发项目多项。在本领域期刊会议上发表论文近100篇，其中SCI期刊论文70余篇，一作/通信作者SCI论文40余篇，包括机械电子、控制系统、仪器测试领域权威期刊《IEEE Transactions on Systems, Man and Cybernetics: Systems》(2篇)、《IEEE Transactions on Industrial Informatics》(3篇)、《IEEE Transactions on Industrial Electronics》、《IEEE Transactions on Power Electronics》(2篇)、《IEEE Transactions on Instrumentation and Measurement》(13篇)、《IEEE Transactions on Energy Conversion》、《IEEE Internet of Things Journal》（2篇）、《IEEE Sensors Journal》（6篇）、《Mechanical Systems and Signal Processing》(5篇)、《Journal of Sound and Vibration》(9篇)。文章在谷歌学术中被引用2600余次，H指数为30，i10指数为54。Web of Science核心数据库中SCI他引1800余次，累计入选ESI前1%全球高被引论文3篇。担任国际期刊《IEEE Transactions on Instrumentation and Measurement》Associate Editor、《Journal of Dynamics, Monitoring and Diagnostics》编委；《西南交通大学学报》青年编委；担任50余个机电信号处理、故障诊断等领域的国内外期刊审稿人；担任国家自然科学基金同行评议专家。申请/授权国家发明专利20余项。获中国电工技术学会科学技术奖一等奖、上海市科学技术二等奖、安徽省自然科学二等奖。担任IEEE Senior Member、中国机械工程学会设备智能运维分会委员、中国振动工程学会转子动力学专业委员会理事、中国振动工程学会故障诊断专业委员会理事及青年工作委员会成员、安徽省机器人学会青年工作委员会副主任委员、安徽省振动工程学会理事。
 
 ### 联系方式
 
@@ -112,19 +112,19 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 ### 代表性论文 (#为通信作者)
 
-J44 Kang An, Jingfeng Lu, Quanjing Zhu, Xiaoxian Wang, Clarence W. de Silva, Min Xia#, Siliang Lu#, Edge Solution for Real-time Motor Fault Diagnosis Based on Efficient Convolutional Neural Network, IEEE Transactions on Instrumentation and Measurement, 2023, accepted.
+J41 Kang An, Jingfeng Lu, Quanjing Zhu, Xiaoxian Wang, Clarence W. de Silva, Min Xia#, Siliang Lu#, Edge Solution for Real-time Motor Fault Diagnosis Based on Efficient Convolutional Neural Network, IEEE Transactions on Instrumentation and Measurement, 2023, accepted.
 
-J43 Siliang Lu, Jingfeng Lu, Kang An, Xiaoxian Wang, Qingbo He, Edge Computing on IoT for Machine Signal Processing and Fault Diagnosis: A Review, IEEE Internet of Things Journal, 2023, DOI: 10.1109/JIOT.2023.3239944. 
+J40 Siliang Lu, Jingfeng Lu, Kang An, Xiaoxian Wang, Qingbo He, Edge Computing on IoT for Machine Signal Processing and Fault Diagnosis: A Review, IEEE Internet of Things Journal, 2023, DOI: 10.1109/JIOT.2023.3239944. 
 
-J42 Lv Chen, Kang An, Dali Huang, Xiaoxian Wang#, Min Xia#, and Siliang Lu#, Noise-Boosted Convolutional Neural Network for Edge-based Motor Fault Diagnosis with Limited Samples, IEEE Transactions on Industrial Informatics, 2023, DOI: 10.1109/TII.2022.3228902.
+J39 Lv Chen, Kang An, Dali Huang, Xiaoxian Wang#, Min Xia#, and Siliang Lu#, Noise-Boosted Convolutional Neural Network for Edge-based Motor Fault Diagnosis with Limited Samples, IEEE Transactions on Industrial Informatics, 2023, DOI: 10.1109/TII.2022.3228902.
 
-J41 Qingyun Zhu, Jingfeng Lu, Xiaoxian Wang, Hui Wang, Siliang Lu#, Clarence de Silva, Min Xia#, Real-time Quality Inspection of Motor Rotor Using Cost-effective Intelligent Edge System, IEEE Internet of Things Journal, 2023, Vol. 10, pp: 7393-7404.
+J38 Qingyun Zhu, Jingfeng Lu, Xiaoxian Wang, Hui Wang, Siliang Lu#, Clarence de Silva, Min Xia#, Real-time Quality Inspection of Motor Rotor Using Cost-effective Intelligent Edge System, IEEE Internet of Things Journal, 2023, Vol. 10, pp: 7393-7404.
 
-J40 Juncai Song, Shuo Liu, Zhangling Duan, Xianhong Wu, Wei Ding, Xiaoxian Wang#, Siliang Lu#, DPMSLM Demagnetization Fault Detection Based on Texture Feature Analysis of Grayscale Fusion Image, IEEE Transactions on Instrumentation and Measurement, 2023, Vol. 72, 3510512.
+J37 Juncai Song, Shuo Liu, Zhangling Duan, Xianhong Wu, Wei Ding, Xiaoxian Wang#, Siliang Lu#, DPMSLM Demagnetization Fault Detection Based on Texture Feature Analysis of Grayscale Fusion Image, IEEE Transactions on Instrumentation and Measurement, 2023, Vol. 72, 3510512.
 
-J39 Hui Wang, Jiliang Wang, Xiaoxian Wang, Siliang Lu#, Cungang Hu#, Wenping Cao#, Detection and Evaluation of the Inter-turn Short Circuit Fault in a BLDC-Based Hub Motor, IEEE Transactions on Industrial Electronics, 2023, Vol. 70(3), pp: 3055-3068.
+J36 Hui Wang, Jiliang Wang, Xiaoxian Wang, Siliang Lu#, Cungang Hu#, Wenping Cao#, Detection and Evaluation of the Inter-turn Short Circuit Fault in a BLDC-Based Hub Motor, IEEE Transactions on Industrial Electronics, 2023, Vol. 70(3), pp: 3055-3068.
 
-J38 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia#, Siliang Lu#, Bingyou Liu, Guoli Li, Wenping Cao, Real-time Defect Detection of Die Cast Rotor in Induction Motor Based on Circular Flux Sensing Coils, IEEE Transactions on Industrial Informatics, 2022, Vol. 18, pp: 9271-9282.
+J35 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia#, Siliang Lu#, Bingyou Liu, Guoli Li, Wenping Cao, Real-time Defect Detection of Die Cast Rotor in Induction Motor Based on Circular Flux Sensing Coils, IEEE Transactions on Industrial Informatics, 2022, Vol. 18, pp: 9271-9282.
 
 J34 Xiaoxian Wang, Siliang Lu#, Kang Chen, Qunjing Wang, Shiwu Zhang#, Bearing Fault Diagnosis of Switched Reluctance Motor in Electric Vehicle Powertrain via Multi-sensor Data Fusion, IEEE Transactions on Industrial Informatics, 2022, Vol. 18, pp: 2452-2464.
 
