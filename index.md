@@ -110,7 +110,7 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 ### 代表性论文 (#为通信作者)
 
-J41 Kang An, Jingfeng Lu, Quanjing Zhu, Xiaoxian Wang, Clarence W. de Silva, Min Xia#, Siliang Lu#, Edge Solution for Real-time Motor Fault Diagnosis Based on Efficient Convolutional Neural Network, IEEE Transactions on Instrumentation and Measurement, 2023, accepted.
+J41 Kang An, Jingfeng Lu, Quanjing Zhu, Xiaoxian Wang, Clarence W. de Silva, Min Xia#, Siliang Lu#, Edge Solution for Real-time Motor Fault Diagnosis Based on Efficient Convolutional Neural Network, IEEE Transactions on Instrumentation and Measurement, 2023, DOI: 10.1109/TIM.2023.3276513.
 
 J40 Siliang Lu, Jingfeng Lu, Kang An, Xiaoxian Wang, Qingbo He, Edge Computing on IoT for Machine Signal Processing and Fault Diagnosis: A Review, IEEE Internet of Things Journal, 2023, DOI: 10.1109/JIOT.2023.3239944. 
 
