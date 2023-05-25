@@ -193,7 +193,7 @@ J2. Siliang Lu, Qingbo He, Fanrang Kong. Stochastic Resonance with Woods-Saxon p
 J1. Siliang Lu, Qingbo He, Haibin Zhang, Shangbin Zhang, Fanrang Kong. Note: Signal amplification and filtering with a tristable stochastic resonance cantilever. Review of Scientific Instruments. 2013, Vol. 84(2), pp: 026110.
 
 ### 主要合作论文
-J25. Yunhan Ling, Dianyu Fu, Peng Jiang, Yong Sun, Chao Yuan, Dali Huang, Jingfeng Lu, and Siliang Lu, Lightweight and intelligent model based on enhanced sparse filtering for rotating machine fault diagnosis, Transactions of the Institute of Measurement and Control, 2023, acepted.
+J25. Yunhan Ling, Dianyu Fu, Peng Jiang, Yong Sun, Chao Yuan, Dali Huang, Jingfeng Lu, and Siliang Lu, Lightweight and intelligent model based on enhanced sparse filtering for rotating machine fault diagnosis, Transactions of the Institute of Measurement and Control, 2023, accepted.
 
 J24. Jiancong Shi, Xinglong Wang, Siliang Lu, Jinde Zheng, Hui Dong, Jun Zhang, An adversarial multi-source data subdomain adaptation model: A promising tool for fault diagnosis of induction motor under cross-operating conditions, IEEE Transactions on Instrumentation and Measurement, 2023, DOI: 10.1109/TIM.2023.3280493.
 
