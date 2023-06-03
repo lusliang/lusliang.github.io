@@ -110,15 +110,15 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 ### 代表性论文 (#为通信作者)
 
-J41 Kang An, Jingfeng Lu, Quanjing Zhu, Xiaoxian Wang, Clarence W. de Silva, Min Xia#, Siliang Lu#, Edge Solution for Real-time Motor Fault Diagnosis Based on Efficient Convolutional Neural Network, IEEE Transactions on Instrumentation and Measurement, 2023, DOI: 10.1109/TIM.2023.3276513.
+J41 Siliang Lu, Jingfeng Lu, Kang An, Xiaoxian Wang, Qingbo He, Edge Computing on IoT for Machine Signal Processing and Fault Diagnosis: A Review, IEEE Internet of Things Journal, 2023, DOI: 10.1109/JIOT.2023.3239944. 
 
-J40 Siliang Lu, Jingfeng Lu, Kang An, Xiaoxian Wang, Qingbo He, Edge Computing on IoT for Machine Signal Processing and Fault Diagnosis: A Review, IEEE Internet of Things Journal, 2023, DOI: 10.1109/JIOT.2023.3239944. 
+J40 Lv Chen, Kang An, Dali Huang, Xiaoxian Wang#, Min Xia#, and Siliang Lu#, Noise-Boosted Convolutional Neural Network for Edge-based Motor Fault Diagnosis with Limited Samples, IEEE Transactions on Industrial Informatics, 2023, DOI: 10.1109/TII.2022.3228902.
 
-J39 Lv Chen, Kang An, Dali Huang, Xiaoxian Wang#, Min Xia#, and Siliang Lu#, Noise-Boosted Convolutional Neural Network for Edge-based Motor Fault Diagnosis with Limited Samples, IEEE Transactions on Industrial Informatics, 2023, DOI: 10.1109/TII.2022.3228902.
+J39 Kang An, Jingfeng Lu, Quanjing Zhu, Xiaoxian Wang, Clarence W. de Silva, Min Xia#, Siliang Lu#, Edge Solution for Real-time Motor Fault Diagnosis Based on Efficient Convolutional Neural Network, IEEE Transactions on Instrumentation and Measurement, 2023, Vol. 72, pp: 3516912.
 
 J38 Qingyun Zhu, Jingfeng Lu, Xiaoxian Wang, Hui Wang, Siliang Lu#, Clarence de Silva, Min Xia#, Real-time Quality Inspection of Motor Rotor Using Cost-effective Intelligent Edge System, IEEE Internet of Things Journal, 2023, Vol. 10, pp: 7393-7404.
 
-J37 Juncai Song, Shuo Liu, Zhangling Duan, Xianhong Wu, Wei Ding, Xiaoxian Wang#, Siliang Lu#, DPMSLM Demagnetization Fault Detection Based on Texture Feature Analysis of Grayscale Fusion Image, IEEE Transactions on Instrumentation and Measurement, 2023, Vol. 72, 3510512.
+J37 Juncai Song, Shuo Liu, Zhangling Duan, Xianhong Wu, Wei Ding, Xiaoxian Wang#, Siliang Lu#, DPMSLM Demagnetization Fault Detection Based on Texture Feature Analysis of Grayscale Fusion Image, IEEE Transactions on Instrumentation and Measurement, 2023, Vol. 72, pp: 3510512.
 
 J36 Hui Wang, Jiliang Wang, Xiaoxian Wang, Siliang Lu#, Cungang Hu#, Wenping Cao#, Detection and Evaluation of the Inter-turn Short Circuit Fault in a BLDC-Based Hub Motor, IEEE Transactions on Industrial Electronics, 2023, Vol. 70(3), pp: 3055-3068.
 
