@@ -193,7 +193,7 @@ J2. Siliang Lu, Qingbo He, Fanrang Kong. Stochastic Resonance with Woods-Saxon p
 J1. Siliang Lu, Qingbo He, Haibin Zhang, Shangbin Zhang, Fanrang Kong. Note: Signal amplification and filtering with a tristable stochastic resonance cantilever. Review of Scientific Instruments. 2013, Vol. 84(2), pp: 026110.
 
 ### 主要合作论文
-J26. Wenping Cao, Rongqing Huang, Hui Wang, Siliang Lu, Yawei Hu, Cungang Hu, Xiaoyan Huang, Analysis of Inter-Turn Short-Circuit Faults in Brushless DC Motors Based on Magnetic Leakage Flux and Back Propagation Neural Network, accepted, 2023, DOI: 10.1109/TEC.2023.3285899.
+J26. Wenping Cao, Rongqing Huang, Hui Wang, Siliang Lu, Yawei Hu, Cungang Hu, Xiaoyan Huang, Analysis of Inter-Turn Short-Circuit Faults in Brushless DC Motors Based on Magnetic Leakage Flux and Back Propagation Neural Network, IEEE Transactions on Energy Conversion, accepted, 2023, DOI: 10.1109/TEC.2023.3285899.
 
 J25. Yunhan Ling, Dianyu Fu, Peng Jiang, Yong Sun, Chao Yuan, Dali Huang, Jingfeng Lu, and Siliang Lu, Lightweight and intelligent model based on enhanced sparse filtering for rotating machine fault diagnosis, Transactions of the Institute of Measurement and Control, 2023, accepted.
 
