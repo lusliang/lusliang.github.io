@@ -110,6 +110,8 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 ### 代表性论文 (#为通信作者)
 
+J42 Xiaoxian Wang, Shiwu Zhang, Juncai Song, Yongbin Liu, Siliang Lu#, Magnetic signal denoising based on auxiliary sensor array and deep noise reconstruction, Engineering Applications of Artificial Intelligence, 2023, accepted.
+
 J41 Siliang Lu, Jingfeng Lu, Kang An, Xiaoxian Wang, Qingbo He, Edge Computing on IoT for Machine Signal Processing and Fault Diagnosis: A Review, IEEE Internet of Things Journal, 2023, DOI: 10.1109/JIOT.2023.3239944. 
 
 J40 Lv Chen, Kang An, Dali Huang, Xiaoxian Wang#, Min Xia#, and Siliang Lu#, Noise-Boosted Convolutional Neural Network for Edge-based Motor Fault Diagnosis with Limited Samples, IEEE Transactions on Industrial Informatics, 2023, DOI: 10.1109/TII.2022.3228902.
