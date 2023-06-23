@@ -112,15 +112,15 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2023:
 
-J68 Xiaoxian Wang, Shiwu Zhang, Juncai Song, Yongbin Liu, Siliang Lu#, Magnetic signal denoising based on auxiliary sensor array and deep noise reconstruction, Engineering Applications of Artificial Intelligence, 2023, accepted.
+J68. Xiaoxian Wang, Shiwu Zhang, Juncai Song, Yongbin Liu, Siliang Lu#, Magnetic signal denoising based on auxiliary sensor array and deep noise reconstruction, Engineering Applications of Artificial Intelligence, 2023, accepted.
 
-J67 Siliang Lu, Jingfeng Lu, Kang An, Xiaoxian Wang, Qingbo He, Edge Computing on IoT for Machine Signal Processing and Fault Diagnosis: A Review, IEEE Internet of Things Journal, 2023, Vol. 10, Issue 13, pp: 11093-11116. 
+J67. Yunhan Ling, Dianyu Fu, Peng Jiang, Yong Sun, Chao Yuan, Dali Huang, Jingfeng Lu, and Siliang Lu, Lightweight and intelligent model based on enhanced sparse filtering for rotating machine fault diagnosis, Transactions of the Institute of Measurement and Control, 2023, accepted.
 
-J66 Lv Chen, Kang An, Dali Huang, Xiaoxian Wang#, Min Xia#, and Siliang Lu#, Noise-Boosted Convolutional Neural Network for Edge-based Motor Fault Diagnosis with Limited Samples, IEEE Transactions on Industrial Informatics, 2023, DOI: 10.1109/TII.2022.3228902.
+J66 Lv Chen, Kang An, Dali Huang, Xiaoxian Wang#, Min Xia#, and Siliang Lu#, Noise-Boosted Convolutional Neural Network for Edge-based Motor Fault Diagnosis with Limited Samples, IEEE Transactions on Industrial Informatics, 2023, accepted, DOI: 10.1109/TII.2022.3228902.
 
 J65. Wenping Cao, Rongqing Huang, Hui Wang, Siliang Lu, Yawei Hu, Cungang Hu, Xiaoyan Huang, Analysis of Inter-Turn Short-Circuit Faults in Brushless DC Motors Based on Magnetic Leakage Flux and Back Propagation Neural Network, IEEE Transactions on Energy Conversion, accepted, 2023, DOI: 10.1109/TEC.2023.3285899.
 
-J64. Yunhan Ling, Dianyu Fu, Peng Jiang, Yong Sun, Chao Yuan, Dali Huang, Jingfeng Lu, and Siliang Lu, Lightweight and intelligent model based on enhanced sparse filtering for rotating machine fault diagnosis, Transactions of the Institute of Measurement and Control, 2023, accepted.
+J64. Siliang Lu, Jingfeng Lu, Kang An, Xiaoxian Wang, Qingbo He, Edge Computing on IoT for Machine Signal Processing and Fault Diagnosis: A Review, IEEE Internet of Things Journal, 2023, Vol. 10, Issue 13, pp: 11093-11116. 
 
 J63. Jiancong Shi, Xinglong Wang, Siliang Lu, Jinde Zheng, Hui Dong, Jun Zhang, An adversarial multi-source data subdomain adaptation model: A promising tool for fault diagnosis of induction motor under cross-operating conditions, IEEE Transactions on Instrumentation and Measurement, 2023, 72: 3519014.
 
