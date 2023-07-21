@@ -118,6 +118,8 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2023:
 
+J70. Xi Chen, Hui Wang, Siliang Lu, Jiawen Xu, Ruqiang Yan, Remaining useful life prediction of turbofan engine using global health degradation representation in federated learning, Reliability Engineering and System Safety, 2023, accepted, doi: 10.1016/j.ress.2023.109511.
+
 J69. Changbo He, Pengpeng Han, Jingfeng Lu, Xiaoxian Wang, Juncai Song#, Zhixiong Li, Siliang Lu#, Real-Time Fault Diagnosis of Motor Bearing via Improved Cyclostationary Analysis Implemented onto Edge Computing System, IEEE Transactions on Instrumentation and Measurement, 2023, accepted, DOI: 10.1109/TIM.2023.3295476.
  
 J68. Yunhan Ling, Dianyu Fu, Peng Jiang, Yong Sun, Chao Yuan, Dali Huang, Jingfeng Lu, and Siliang Lu, Lightweight and intelligent model based on enhanced sparse filtering for rotating machine fault diagnosis, Transactions of the Institute of Measurement and Control, 2023, accepted, DOI: 10.1177/01423312231185702.
