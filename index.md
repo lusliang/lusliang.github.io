@@ -118,15 +118,15 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2023:
 
-J70. Xi Chen, Hui Wang, Siliang Lu, Jiawen Xu, Ruqiang Yan, Remaining useful life prediction of turbofan engine using global health degradation representation in federated learning, Reliability Engineering and System Safety, 2023, accepted, doi: 10.1016/j.ress.2023.109511.
-
-J69. Changbo He, Pengpeng Han, Jingfeng Lu, Xiaoxian Wang, Juncai Song#, Zhixiong Li, Siliang Lu#, Real-Time Fault Diagnosis of Motor Bearing via Improved Cyclostationary Analysis Implemented onto Edge Computing System, IEEE Transactions on Instrumentation and Measurement, 2023, accepted, DOI: 10.1109/TIM.2023.3295476.
+J70. Changbo He, Pengpeng Han, Jingfeng Lu, Xiaoxian Wang, Juncai Song#, Zhixiong Li, Siliang Lu#, Real-Time Fault Diagnosis of Motor Bearing via Improved Cyclostationary Analysis Implemented onto Edge Computing System, IEEE Transactions on Instrumentation and Measurement, 2023, accepted, DOI: 10.1109/TIM.2023.3295476.
  
-J68. Yunhan Ling, Dianyu Fu, Peng Jiang, Yong Sun, Chao Yuan, Dali Huang, Jingfeng Lu, and Siliang Lu, Lightweight and intelligent model based on enhanced sparse filtering for rotating machine fault diagnosis, Transactions of the Institute of Measurement and Control, 2023, accepted, DOI: 10.1177/01423312231185702.
+J69. Yunhan Ling, Dianyu Fu, Peng Jiang, Yong Sun, Chao Yuan, Dali Huang, Jingfeng Lu, and Siliang Lu, Lightweight and intelligent model based on enhanced sparse filtering for rotating machine fault diagnosis, Transactions of the Institute of Measurement and Control, 2023, accepted, DOI: 10.1177/01423312231185702.
 
-J67. Lv Chen, Kang An, Dali Huang, Xiaoxian Wang#, Min Xia#, and Siliang Lu#, Noise-Boosted Convolutional Neural Network for Edge-based Motor Fault Diagnosis with Limited Samples, IEEE Transactions on Industrial Informatics, 2023, accepted, DOI: 10.1109/TII.2022.3228902.
+J68. Lv Chen, Kang An, Dali Huang, Xiaoxian Wang#, Min Xia#, and Siliang Lu#, Noise-Boosted Convolutional Neural Network for Edge-based Motor Fault Diagnosis with Limited Samples, IEEE Transactions on Industrial Informatics, 2023, accepted, DOI: 10.1109/TII.2022.3228902.
 
-J66. Wenping Cao, Rongqing Huang, Hui Wang, Siliang Lu, Yawei Hu, Cungang Hu, Xiaoyan Huang, Analysis of Inter-Turn Short-Circuit Faults in Brushless DC Motors Based on Magnetic Leakage Flux and Back Propagation Neural Network, IEEE Transactions on Energy Conversion, accepted, 2023, DOI: 10.1109/TEC.2023.3285899.
+J67. Wenping Cao, Rongqing Huang, Hui Wang, Siliang Lu, Yawei Hu, Cungang Hu, Xiaoyan Huang, Analysis of Inter-Turn Short-Circuit Faults in Brushless DC Motors Based on Magnetic Leakage Flux and Back Propagation Neural Network, IEEE Transactions on Energy Conversion, accepted, 2023, DOI: 10.1109/TEC.2023.3285899.
+
+J66. Xi Chen, Hui Wang, Siliang Lu, Jiawen Xu, Ruqiang Yan, Remaining useful life prediction of turbofan engine using global health degradation representation in federated learning, Reliability Engineering and System Safety, 2023, Vol. 239, pp: 109511.
 
 J65. Xiaoxian Wang, Shiwu Zhang, Juncai Song, Yongbin Liu, Siliang Lu#, Magnetic signal denoising based on auxiliary sensor array and deep noise reconstruction, Engineering Applications of Artificial Intelligence, 2023, Vol. 125, pp: 106713.
 
