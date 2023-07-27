@@ -118,7 +118,7 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2023:
 
-J71. Wenping Cao, Haohua Li, Cungang Hu, Hui Wang, Rongqing Huang, Siliang Lu, Huang, Xiaoyan, Diagnosis of High-Resistance Connection Faults in PMSMs Based on GMR and Deep Learning, IEEE Transactions on Industrial Electronics, 2023, accepted.
+J71. Wenping Cao, Haohua Li, Cungang Hu, Hui Wang, Rongqing Huang, Siliang Lu, Xiaoyan Huang, Diagnosis of High-Resistance Connection Faults in PMSMs Based on GMR and Deep Learning, IEEE Transactions on Industrial Electronics, 2023, accepted.
 
 J70. Changbo He, Pengpeng Han, Jingfeng Lu, Xiaoxian Wang, Juncai Song#, Zhixiong Li, Siliang Lu#, Real-Time Fault Diagnosis of Motor Bearing via Improved Cyclostationary Analysis Implemented onto Edge Computing System, IEEE Transactions on Instrumentation and Measurement, 2023, accepted, DOI: 10.1109/TIM.2023.3295476.
  
