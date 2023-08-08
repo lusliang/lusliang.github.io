@@ -118,7 +118,8 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2023:
 
-J71. Wenping Cao, Haohua Li, Cungang Hu, Hui Wang, Rongqing Huang, Siliang Lu, Xiaoyan Huang, Diagnosis of High-Resistance Connection Faults in PMSMs Based on GMR and Deep Learning, IEEE Transactions on Industrial Electronics, 2023, accepted.
+J71. Wenping Cao, Haohua Li, Cungang Hu, Hui Wang, Rongqing Huang, Siliang Lu, Xiaoyan Huang, Diagnosis of High-Resistance Connection Faults in PMSMs Based on GMR and Deep Learning, IEEE Transactions on Industrial Electronics, 2023, accepted, DOI:
+10.1109/TIE.2023.3303635.
 
 J70. Wenping Cao, Rongqing Huang, Hui Wang, Siliang Lu, Yawei Hu, Cungang Hu, Xiaoyan Huang, Analysis of Inter-Turn Short-Circuit Faults in Brushless DC Motors Based on Magnetic Leakage Flux and Back Propagation Neural Network, IEEE Transactions on Energy Conversion, accepted, 2023, DOI: 10.1109/TEC.2023.3285899.
  
