@@ -325,6 +325,8 @@ P1. 陆思良，周天昊，苏杰，张扬，一种冒泡排序算法演示装�
 
 2023年Outstanding Reviewer for IEEE Transactions on Instrumentation and Measurement
 
+2022年入选安徽大学“至诚至坚优秀人才”计划
+
 2022年获第二十一届全国大学生机器人大赛RoboMaster机甲大师高校联盟赛步兵对抗赛（手动步兵组）全国二等奖。
 
 2022年全国设备监测诊断与维护学术会议优秀论文奖：变转速工况下基于多传感器信号深度特征融合的电机故障诊断研究。(10/304)
