@@ -432,10 +432,11 @@ T1. 电机故障诊断，苏州大学轨道交通学院，2016年。
 29.	Chinese Journal of Physics, Elsevier
 30.	Optics and Laser Technology, Elsevier
 31.	Measurement, Elsevier
-32.	Journal of Vibration and Control, Sage
-33.	PIME, Part C: Journal of Mechanical Engineering Science, Sage
-34.	PIME, Part F: Journal of Rail and Rapid Transit, Sage
-35.	International Journal of Advanced Manufacturing Technology, Springer
-36.	Journal of Intelligent Manufacturing, Springer
-37.	Measurement Science and Technology, IoP
-38.	Energy Science & Engineering, Wiley
+32.	Advanced Engineering Informatics, Elsevier
+33.	Journal of Vibration and Control, Sage
+34.	PIME, Part C: Journal of Mechanical Engineering Science, Sage
+35.	PIME, Part F: Journal of Rail and Rapid Transit, Sage
+36.	International Journal of Advanced Manufacturing Technology, Springer
+37.	Journal of Intelligent Manufacturing, Springer
+38.	Measurement Science and Technology, IoP
+39.	Energy Science & Engineering, Wiley
