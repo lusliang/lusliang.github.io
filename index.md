@@ -116,6 +116,8 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2023:
 
+J72. Jingfeng Lu, Kang An, Xiaoxian Wang, Juncai Song, Feng Xie#, Siliang Lu#, Compressed Channel-based Edge Computing for Online Motor Fault Diagnosis with Privacy Protection, IEEE Transactions on Instrumentation and Measurement, 2023, accepted.
+
 J71. Wenping Cao, Haohua Li, Cungang Hu, Hui Wang, Rongqing Huang, Siliang Lu, Xiaoyan Huang, Diagnosis of High-Resistance Connection Faults in PMSMs Based on GMR and Deep Learning, IEEE Transactions on Industrial Electronics, 2023, accepted, DOI:
 10.1109/TIE.2023.3303635.
 
