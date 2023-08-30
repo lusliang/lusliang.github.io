@@ -1,6 +1,6 @@
 ### 个人信息
 
-陆思良，博士，副教授，博士/硕士生导师，连续入选斯坦福大学与Elsevier联合发布的全球前2%顶尖科学家榜单。分别于2010和2015年获中国科学技术大学机械设计制造及其自动化学士和精密仪器与机械博士学位。主要从事机电系统创新设计、状态监测、故障诊断与智能运维研究，近年来在三个主要研究方向取得系统性的创新成果：
+陆思良，博士，副教授，博士/硕士生导师，连续入选斯坦福大学与Elsevier联合发布的全球前2%顶尖科学家榜单，入选安徽省优青。分别于2010和2015年获中国科学技术大学机械设计制造及其自动化学士和精密仪器与机械博士学位。主要从事机电系统创新设计、状态监测、故障诊断与智能运维研究，近年来在三个主要研究方向取得系统性的创新成果：
 
 1）基于随机共振非线性滤波的微弱信号检测理论和应用，综述：https://doi.org/10.1016/j.ymssp.2018.06.032
 
@@ -10,7 +10,7 @@
 
 B站公开课：https://www.bilibili.com/video/BV1AR4y1u74b/
 
-主持国家自然科学基金面上项目2项和青年项目1项，安徽省高校优青科研项目1项，安徽省高校优秀青年人才支持项目1项，安徽省自然科学基金1项，国家重点实验室开放课题2项、安徽省重点实验室开放课题1项，校企合作开发项目多项。在本领域期刊会议上发表论文100余篇，其中SCI期刊论文80余篇，一作/通信作者SCI论文40余篇，包括机械电子、控制系统、仪器测试领域知名期刊《IEEE Transactions on Systems, Man and Cybernetics: Systems》(2篇)、《IEEE Transactions on Industrial Informatics》(3篇)、《IEEE Transactions on Industrial Electronics》（2篇）、《IEEE Transactions on Power Electronics》(2篇)、《IEEE Transactions on Instrumentation and Measurement》(10+篇)、《IEEE Transactions on Energy Conversion》(2篇)、《IEEE Internet of Things Journal》（2篇）、《IEEE Sensors Journal》（6篇）、《Mechanical Systems and Signal Processing》(5篇)、《Journal of Sound and Vibration》(9篇)、《Reliability Engineering and System Safety》（2篇）、《Engineering Applications of Artificial Intelligence》。文章在谷歌学术中被引用约3000次，H指数为32，i10指数为58。Web of Science核心数据库中SCI他引约2200次，累计入选ESI前1%全球高被引论文4篇。担任国际期刊《IEEE Transactions on Instrumentation and Measurement》Associate Editor、《Journal of Dynamics, Monitoring and Diagnostics》编委；《西南交通大学学报》青年编委；担任50余个机电信号处理、故障诊断等领域的国内外期刊审稿人；担任国家自然科学基金同行评议专家。申请/授权国家发明专利20余项。获中国电工技术学会科学技术奖一等奖、上海市科学技术二等奖、安徽省自然科学二等奖。担任IEEE Senior Member、中国机械工程学会设备智能运维分会委员、中国振动工程学会转子动力学专业委员会理事、中国振动工程学会故障诊断专业委员会理事及青年工作委员会成员、安徽省机器人学会青年工作委员会副主任委员、安徽省振动工程学会理事。
+主持国家自然科学基金面上项目2项和青年项目1项，安徽省优青科研项目1项，安徽省高校优青科研项目1项，安徽省高校优秀青年人才支持项目1项，安徽省自然科学基金1项，国家重点实验室开放课题2项、安徽省重点实验室开放课题1项，校企合作开发项目多项。在本领域期刊会议上发表论文100余篇，其中SCI期刊论文80余篇，一作/通信作者SCI论文40余篇，包括机械电子、控制系统、仪器测试领域知名期刊《IEEE Transactions on Systems, Man and Cybernetics: Systems》(2篇)、《IEEE Transactions on Industrial Informatics》(3篇)、《IEEE Transactions on Industrial Electronics》（2篇）、《IEEE Transactions on Power Electronics》(2篇)、《IEEE Transactions on Instrumentation and Measurement》(10+篇)、《IEEE Transactions on Energy Conversion》(2篇)、《IEEE Internet of Things Journal》（2篇）、《IEEE Sensors Journal》（6篇）、《Mechanical Systems and Signal Processing》(5篇)、《Journal of Sound and Vibration》(9篇)、《Reliability Engineering and System Safety》（2篇）、《Engineering Applications of Artificial Intelligence》。文章在谷歌学术中被引用约3000次，H指数为32，i10指数为58。Web of Science核心数据库中SCI他引约2200次，累计入选ESI前1%全球高被引论文4篇。担任国际期刊《IEEE Transactions on Instrumentation and Measurement》Associate Editor、《Journal of Dynamics, Monitoring and Diagnostics》编委；《西南交通大学学报》青年编委；担任50余个机电信号处理、故障诊断等领域的国内外期刊审稿人；担任国家自然科学基金同行评议专家。申请/授权国家发明专利20余项。获中国电工技术学会科学技术奖一等奖、上海市科学技术二等奖、安徽省自然科学二等奖。担任IEEE Senior Member、中国机械工程学会设备智能运维分会委员、中国振动工程学会转子动力学专业委员会理事、中国振动工程学会故障诊断专业委员会理事及青年工作委员会成员、安徽省机器人学会青年工作委员会副主任委员、安徽省振动工程学会理事。
 
 ### 联系方式
 
@@ -32,9 +32,11 @@ Email: silianglu@ahu.edu.cn; lusliang@mail.ustc.edu.cn
 
 纵向项目：
 
-Pr10. 面向物联网在线监测的噪声强化全模拟电路物理神经网络研究，国家自然科学基金面上项目，编号：52375522，2024.01至2027.12，主持，在研。
+Pr11. 面向物联网在线监测的噪声强化全模拟电路物理神经网络研究，国家自然科学基金面上项目，编号：52375522，2024.01至2027.12，主持，在研。
 
-Pr9. 微弱特征的噪声增强深度表示及其在机械早期故障诊断中的研究，国家自然科学基金面上项目，编号：52075002，2021.01至2024.12，主持，在研。
+Pr10. 微弱特征的噪声增强深度表示及其在机械早期故障诊断中的研究，国家自然科学基金面上项目，编号：52075002，2021.01至2024.12，主持，在研。
+
+Pr9. 动力电池制造品质无损伤高精度抗干扰检测的关键理论研究，安徽省自然科学基金优青项目，编号：2308085Y03，2023至2026，主持，在研。
 
 Pr8. 安徽省科研编制计划项目，优秀青年科研项目，2022，编号：2022AH030016，主持，在研。
 
