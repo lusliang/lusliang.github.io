@@ -325,8 +325,6 @@ P1. 陆思良，周天昊，苏杰，张扬，一种冒泡排序算法演示装�
 
 ### 荣誉奖励
 
-2023年入选安徽省青年拔尖人才项目青年学者
-
 2023年Outstanding Reviewer for IEEE Transactions on Instrumentation and Measurement
 
 2023年获第九届中国国际“互联网+”大学生创新创业大赛省赛银奖（指导教师）
