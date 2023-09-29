@@ -118,14 +118,14 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2023:
 
-J72. Jingfeng Lu, Kang An, Xiaoxian Wang, Juncai Song, Feng Xie#, Siliang Lu#, Compressed Channel-based Edge Computing for Online Motor Fault Diagnosis with Privacy Protection, IEEE Transactions on Instrumentation and Measurement, 2023, accepted.
-
-J71. Wenping Cao, Haohua Li, Cungang Hu, Hui Wang, Rongqing Huang, Siliang Lu, Xiaoyan Huang, Diagnosis of High-Resistance Connection Faults in PMSMs Based on GMR and Deep Learning, IEEE Transactions on Industrial Electronics, 2023, accepted, DOI:
+J72. Wenping Cao, Haohua Li, Cungang Hu, Hui Wang, Rongqing Huang, Siliang Lu, Xiaoyan Huang, Diagnosis of High-Resistance Connection Faults in PMSMs Based on GMR and Deep Learning, IEEE Transactions on Industrial Electronics, 2023, accepted, DOI:
 10.1109/TIE.2023.3303635.
 
-J70. Wenping Cao, Rongqing Huang, Hui Wang, Siliang Lu, Yawei Hu, Cungang Hu, Xiaoyan Huang, Analysis of Inter-Turn Short-Circuit Faults in Brushless DC Motors Based on Magnetic Leakage Flux and Back Propagation Neural Network, IEEE Transactions on Energy Conversion, accepted, 2023, DOI: 10.1109/TEC.2023.3285899.
+J71. Wenping Cao, Rongqing Huang, Hui Wang, Siliang Lu, Yawei Hu, Cungang Hu, Xiaoyan Huang, Analysis of Inter-Turn Short-Circuit Faults in Brushless DC Motors Based on Magnetic Leakage Flux and Back Propagation Neural Network, IEEE Transactions on Energy Conversion, accepted, 2023, DOI: 10.1109/TEC.2023.3285899.
  
-J69. Yunhan Ling, Dianyu Fu, Peng Jiang, Yong Sun, Chao Yuan, Dali Huang, Jingfeng Lu, and Siliang Lu, Lightweight and intelligent model based on enhanced sparse filtering for rotating machine fault diagnosis, Transactions of the Institute of Measurement and Control, 2023, accepted, DOI: 10.1177/01423312231185702.
+J70. Yunhan Ling, Dianyu Fu, Peng Jiang, Yong Sun, Chao Yuan, Dali Huang, Jingfeng Lu, and Siliang Lu, Lightweight and intelligent model based on enhanced sparse filtering for rotating machine fault diagnosis, Transactions of the Institute of Measurement and Control, 2023, accepted, DOI: 10.1177/01423312231185702.
+
+J69. Jingfeng Lu, Kang An, Xiaoxian Wang, Juncai Song, Feng Xie#, Siliang Lu#, Compressed Channel-based Edge Computing for Online Motor Fault Diagnosis with Privacy Protection, IEEE Transactions on Instrumentation and Measurement, 2023, Vol. 72, pp: 6505112.
 
 J68. Changbo He, Pengpeng Han, Jingfeng Lu, Xiaoxian Wang, Juncai Song#, Zhixiong Li, Siliang Lu#, Real-Time Fault Diagnosis of Motor Bearing via Improved Cyclostationary Analysis Implemented onto Edge Computing System, IEEE Transactions on Instrumentation and Measurement, 2023, Vol. 72, pp: 3524011.
 
