@@ -332,6 +332,8 @@ P1. 陆思良，周天昊，苏杰，张扬，一种冒泡排序算法演示装�
 
 ### 荣誉奖励
 
+2023年在“第二十二届全国大学生机器人大赛RoboMaster2023机甲大师高校联盟赛”步兵对抗赛中获得机器人实战奖全国三等奖（指导教师）
+
 2023年论文“Teaching Enhancing Ability of Scientific Paper Writing: A Case Study in the Fields of Instrumentation and Measurement”获得International Conference on Sensing, Measurement and Data Analytics in the era of Artificial Intelligence (ICSMD 2023) best poster paper award
 
 2023年“基于噪声增强卷积神经网络的电机故障诊断方法及其边缘计算实现”获得首届2023北京交叉科学大会优秀报告
@@ -348,7 +350,7 @@ P1. 陆思良，周天昊，苏杰，张扬，一种冒泡排序算法演示装�
 
 2022年入选安徽大学“至诚至坚优秀人才”计划
 
-2022年获第二十一届全国大学生机器人大赛RoboMaster机甲大师高校联盟赛步兵对抗赛（手动步兵组）全国二等奖。
+2022年获第二十一届全国大学生机器人大赛RoboMaster机甲大师高校联盟赛步兵对抗赛（手动步兵组）全国二等奖（指导教师）
 
 2022年全国设备监测诊断与维护学术会议优秀论文奖：变转速工况下基于多传感器信号深度特征融合的电机故障诊断研究。(10/304)
 
