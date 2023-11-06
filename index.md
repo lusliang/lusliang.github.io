@@ -332,7 +332,9 @@ P1. 陆思良，周天昊，苏杰，张扬，一种冒泡排序算法演示装�
 
 ### 荣誉奖励
 
-2023年“基于噪声增强卷积神经网络的电机故障诊断方法及其边缘计算实现”获得首届2023北京交叉科学大会优秀报告。
+2023年论文“Teaching Enhancing Ability of Scientific Paper Writing: A Case Study in the Fields of Instrumentation and Measurement”获得International Conference on Sensing, Measurement and Data Analytics in the era of Artificial Intelligence (ICSMD 2023) best poster paper award
+
+2023年“基于噪声增强卷积神经网络的电机故障诊断方法及其边缘计算实现”获得首届2023北京交叉科学大会优秀报告
 
 2023年入选安徽省青年拔尖人才计划项目
 
