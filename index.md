@@ -121,7 +121,7 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2023:
 
-J73. Linghan Zhang, Juncai Song, Xiaoxian Wang, Jingfeng Lu, Siliang Lu, High-Resistance Connection Fault Diagnosis of SRM Based on Multi-Sensor Calibrated Transformer with Shifted Windows, IEEE Sensors Journal, 2023, accepted.
+J73. Linghan Zhang, Juncai Song, Xiaoxian Wang, Jingfeng Lu, Siliang Lu, High-Resistance Connection Fault Diagnosis of SRM Based on Multi-Sensor Calibrated Transformer with Shifted Windows, IEEE Sensors Journal, 2023, accepted, DOI: 10.1109/JSEN.2023.3331695.
 
 J72. Wenping Cao, Haohua Li, Cungang Hu, Hui Wang, Rongqing Huang, Siliang Lu, Xiaoyan Huang, Diagnosis of High-Resistance Connection Faults in PMSMs Based on GMR and Deep Learning, IEEE Transactions on Industrial Electronics, 2023, accepted, DOI:
 10.1109/TIE.2023.3303635.
