@@ -1,6 +1,6 @@
 ### 个人信息
 
-陆思良，博士，副教授，博士/硕士生导师，连续入选斯坦福大学与Elsevier联合发布的全球前2%顶尖科学家榜单，入选安徽省优青、安徽省青年拔尖人才。分别于2010和2015年获中国科学技术大学机械设计制造及其自动化学士和精密仪器与机械博士学位。主要从事机电系统创新设计与智能运维、边缘计算与嵌入式系统、信息处理与人工智能、机器人与工业工厂自动化研究。主持国家自然科学基金面上项目2项和青年项目1项，安徽省自然科学基金优青项目1项，安徽省高校优青科研项目1项，安徽省高校优秀青年人才支持项目1项，安徽省自然科学基金青年项目1项，国家重点实验室开放课题2项、安徽省重点实验室开放课题1项，校企合作开发项目多项；2020年至今连续入选斯坦福大学与Elsevier联合发布的全球前2%顶尖科学家“年度影响力榜单”并于2023年入选“终身科学影响力榜单（1960-2023）”；2023年入选安徽省青年拔尖人才计划。在本领域期刊会议上发表论文100余篇，其中SCI期刊论文80余篇，一作/通信作者SCI论文40余篇，包括机械电子、控制系统、仪器测试领域知名期刊《IEEE Transactions on Systems, Man and Cybernetics: Systems》(2篇)、《IEEE Transactions on Industrial Informatics》(3篇)、《IEEE Transactions on Industrial Electronics》（2篇）、《IEEE Transactions on Power Electronics》(2篇)、《IEEE Transactions on Instrumentation and Measurement》(10+篇)、《IEEE Transactions on Energy Conversion》(2篇)、《IEEE Internet of Things Journal》（2篇）、《IEEE Sensors Journal》（7篇）、《Mechanical Systems and Signal Processing》(5篇)、《Journal of Sound and Vibration》(9篇)、《Reliability Engineering and System Safety》（2篇）、《Engineering Applications of Artificial Intelligence》。文章在谷歌学术中被引用3000余次，H指数为32，i10指数为62。Web of Science核心数据库中SCI他引约2200次，累计入选ESI前1%全球高被引论文4篇。担任国际期刊《IEEE Transactions on Instrumentation and Measurement》Associate Editor、《Journal of Dynamics, Monitoring and Diagnostics》编委；《西南交通大学学报》青年编委；担任50余个机电信号处理、故障诊断等领域的国内外期刊审稿人；担任国家自然科学基金同行评议专家。申请/授权国家发明专利20余项。获中国电工技术学会科学技术奖一等奖、上海市科学技术二等奖、安徽省自然科学二等奖。担任IEEE Senior Member、中国机械工程学会设备智能运维分会委员、中国振动工程学会转子动力学专业委员会理事、中国振动工程学会故障诊断专业委员会理事及青年工作委员会成员、安徽省机器人学会青年工作委员会副主任委员、安徽省振动工程学会理事。
+陆思良，博士，副教授，博士/硕士生导师，连续入选斯坦福大学与Elsevier联合发布的全球前2%顶尖科学家榜单，入选安徽省优青、安徽省青年拔尖人才。分别于2010和2015年获中国科学技术大学机械设计制造及其自动化学士和精密仪器与机械博士学位。主要从事机电系统创新设计与智能运维、边缘计算与嵌入式系统、信息处理与人工智能、机器人与工业工厂自动化研究。主持国家自然科学基金面上项目2项和青年项目1项，安徽省自然科学基金优青项目1项，安徽省高校优青科研项目1项，安徽省高校优秀青年人才支持项目1项，安徽省自然科学基金青年项目1项，国家重点实验室开放课题2项、安徽省重点实验室开放课题1项，校企合作开发项目多项；2020年至今连续入选斯坦福大学与Elsevier联合发布的全球前2%顶尖科学家“年度影响力榜单”并于2023年入选“终身科学影响力榜单（1960-2023）”；2023年入选安徽省青年拔尖人才计划。在本领域期刊会议上发表论文100余篇，其中SCI期刊论文80余篇，一作/通信作者SCI论文40余篇，包括机械电子、控制系统、仪器测试领域知名期刊《IEEE Transactions on Systems, Man and Cybernetics: Systems》(2篇)、《IEEE Transactions on Industrial Informatics》(3篇)、《IEEE Transactions on Industrial Electronics》（2篇）、《IEEE Transactions on Power Electronics》(2篇)、《IEEE Transactions on Instrumentation and Measurement》(10+篇)、《IEEE Transactions on Energy Conversion》(2篇)、《IEEE Internet of Things Journal》（2篇）、《IEEE Sensors Journal》（7篇）、《Mechanical Systems and Signal Processing》(5篇)、《Journal of Sound and Vibration》(9篇)、《Reliability Engineering and System Safety》（2篇）、《Engineering Applications of Artificial Intelligence》。文章在谷歌学术中被引用3000余次，H指数为32，i10指数为62。Web of Science核心数据库中SCI他引约2200次，累计入选ESI前1%全球高被引论文5篇。担任国际期刊《IEEE Transactions on Instrumentation and Measurement》Associate Editor、《Journal of Dynamics, Monitoring and Diagnostics》编委；《西南交通大学学报》青年编委；担任50余个机电信号处理、故障诊断等领域的国内外期刊审稿人；担任国家自然科学基金同行评议专家。申请/授权国家发明专利20余项。获中国电工技术学会科学技术奖一等奖、上海市科学技术二等奖、安徽省自然科学二等奖。担任IEEE Senior Member、中国机械工程学会设备智能运维分会委员、中国振动工程学会转子动力学专业委员会理事、中国振动工程学会故障诊断专业委员会理事及青年工作委员会成员、安徽省机器人学会青年工作委员会副主任委员、安徽省振动工程学会理事。
 
 
 
@@ -140,7 +140,7 @@ J66. Xi Chen, Hui Wang, Siliang Lu, Jiawen Xu, Ruqiang Yan, Remaining useful lif
 
 J65. Xiaoxian Wang, Shiwu Zhang, Juncai Song, Yongbin Liu, Siliang Lu#, Magnetic signal denoising based on auxiliary sensor array and deep noise reconstruction, Engineering Applications of Artificial Intelligence, 2023, Vol. 125, pp: 106713.
 
-J64. Siliang Lu, Jingfeng Lu, Kang An, Xiaoxian Wang, Qingbo He, Edge Computing on IoT for Machine Signal Processing and Fault Diagnosis: A Review, IEEE Internet of Things Journal, 2023, Vol. 10, Issue 13, pp: 11093-11116. 
+J64. Siliang Lu, Jingfeng Lu, Kang An, Xiaoxian Wang, Qingbo He, Edge Computing on IoT for Machine Signal Processing and Fault Diagnosis: A Review, IEEE Internet of Things Journal, 2023, Vol. 10, Issue 13, pp: 11093-11116. (ESI Highly Cited Paper)
 
 J63. Jiancong Shi, Xinglong Wang, Siliang Lu, Jinde Zheng, Hui Dong, Jun Zhang, An adversarial multi-source data subdomain adaptation model: A promising tool for fault diagnosis of induction motor under cross-operating conditions, IEEE Transactions on Instrumentation and Measurement, 2023, 72: 3519014.
 
@@ -160,7 +160,7 @@ J57 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia#, Siliang Lu#, Bingyou Liu, Gu
 
 J56 Xiaoxian Wang, Siliang Lu#, Kang Chen, Qunjing Wang, Shiwu Zhang#, Bearing Fault Diagnosis of Switched Reluctance Motor in Electric Vehicle Powertrain via Multi-sensor Data Fusion, IEEE Transactions on Industrial Informatics, 2022, Vol. 18, pp: 2452-2464.
 
-J55. Xin Li, Haidong Shao, Siliang Lu, Jiawei Xiang, Baoping Cai, Highly-efficient fault diagnosis of rotating machinery under time-varying speeds using LSISMM and small infrared thermal images, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(12): 7328-7340.
+J55. Xin Li, Haidong Shao, Siliang Lu, Jiawei Xiang, Baoping Cai, Highly-efficient fault diagnosis of rotating machinery under time-varying speeds using LSISMM and small infrared thermal images, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(12): 7328-7340. (ESI Highly Cited Paper)
 
 J54. Cristian López, Ángel Naranjo, Siliang Lu, Keegan James Moore, Hidden Markov Model based Stochastic Resonance and its Application to Bearing Fault Diagnosis, Journal of Sound and Vibration, 2022, 528: 116890.
 
@@ -174,7 +174,7 @@ J51 Huasong Tang, Siliang Lu#, Gang Qian, Jianming Ding, Yongbin Liu, Qunjing Wa
 
 J50 Heng Sun, Min Xia, Yawei Hu#, Siliang Lu#, Yongbin Liu, Qunjing Wang, A new sorting feature-based temporal convolutional network for remaining useful life prediction of rotating machinery, Computers and Electrical Engineering. 2021, Vol. 95, p: 107413.
 
-J49. Min Xia, Haidong Shao, Darren Williams, Siliang Lu, Lei Shu, Clarence W. de Silva, Intelligent fault diagnosis of machinery using digital twin-assisted deep transfer learning, Reliability Engineering and System Safety, 2021, 215: 107938.
+J49. Min Xia, Haidong Shao, Darren Williams, Siliang Lu, Lei Shu, Clarence W. de Silva, Intelligent fault diagnosis of machinery using digital twin-assisted deep transfer learning, Reliability Engineering and System Safety, 2021, 215: 107938. (ESI Highly Cited Paper)
 
 J48. Mingfeng Shi, Zheng Cao, Yongbin Liu, Fang Liu, Siliang Lu, Guoli Li, Feature extraction method of rolling bearing based on adaptive divergence matrix linear discriminant analysis, Measurement Science and Technology, 2021, 32: 075003.
 
@@ -218,7 +218,7 @@ J31.	Siliang Lu, Zhijia Dai, Yongbin Liu, Guoqiang Liu, Hui Yang, Feifei Wang. D
 
 J30.	Siliang Lu, Yi Qin, Jun Hang, Baohua Zhang, Qunjing Wang. Adaptively Estimating Rotation Speed from DC Motor Current Ripple for Order Tracking and Fault Diagnosis. IEEE Transactions on Instrumentation and Measurement. 2019, Vol. 68, pp: 741-753.
 
-J29.	Siliang Lu, Qingbo He, Jun Wang. A review of stochastic resonance in rotating machine fault detection. Mechanical Systems and Signal Processing. 2019, Vol. 116, pp: 230-260.
+J29.	Siliang Lu, Qingbo He, Jun Wang. A review of stochastic resonance in rotating machine fault detection. Mechanical Systems and Signal Processing. 2019, Vol. 116, pp: 230-260. (ESI Highly Cited Paper)
 
 J28. Yiping Rong, Qunjing Wang , Siliang Lu, Guoli Li, Yin Lu, Jiazi Xu, Improving attitude detection performance for spherical motors using a MEMS inertial measurement sensor, IET Electric Power Applications, 2019, 13(2): 198-205.
 
@@ -244,7 +244,7 @@ J20.	Peng Zhou, Siliang Lu#, Fang Liu, Yongbin Liu, Guihua Li, Jiwen Zhao, Novel
 
 J19.	Siliang Lu, Qingbo He, Tao Yuan, Fanrang Kong. Online Fault Diagnosis of Motor Bearing via Stochastic–Resonance-based Adaptive Filter in an Embedded System. IEEE Transactions on Systems, Man and Cybernetics: Systems. 2017, Vol. 47, pp: 1111-1122.
 
-J18.	Siliang Lu, Qingbo He, Haibin Zhang, Fanrang Kong. Rotating machine fault diagnosis through enhanced stochastic resonance by full-wave signal construction. Mechanical Systems and Signal Processing. 2017, Vol. 85, pp: 82-97.
+J18.	Siliang Lu, Qingbo He, Haibin Zhang, Fanrang Kong. Rotating machine fault diagnosis through enhanced stochastic resonance by full-wave signal construction. Mechanical Systems and Signal Processing. 2017, Vol. 85, pp: 82-97. (ESI Highly Cited Paper)
 
 J17. Qingbo He, Yanyan Xu, Siliang Lu, Yong Shao, Frequency-shift vibro-acoustic modulation
 driven by low-frequency broadband excitations in a bistable cantilever oscillator, Measurement Science and Technology, 2017, 28: 037002.
