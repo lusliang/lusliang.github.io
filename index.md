@@ -412,6 +412,8 @@ P1. 陆思良，周天昊，苏杰，张扬，一种冒泡排序算法演示装�
 
 ### 受邀学术报告
 
+T9. 边缘智能驱动的设备状态实时监测与控制，南京信息工程大学自动化学院，2023年。
+
 T8. 边缘智能驱动的设备状态实时监测与控制，上海工程技术大学城市轨道交通学院，2023年。
 
 T7. 电机无编码器转速估计及变转速工况阶次分析故障诊断，中国矿业大学机电工程学院，2022年。
@@ -474,3 +476,4 @@ T1. 电机故障诊断，苏州大学轨道交通学院，2016年。
 40.	Journal of Intelligent Manufacturing, Springer
 41.	Measurement Science and Technology, IoP
 42.	Energy Science & Engineering, Wiley
+43.	CSEE Journal of Power and Energy Systems
