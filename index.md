@@ -126,7 +126,7 @@ J74. Wenping Cao, Haohua Li, Cungang Hu, Hui Wang, Rongqing Huang, Siliang Lu, X
 
 J73. Yunhan Ling, Dianyu Fu, Peng Jiang, Yong Sun, Chao Yuan, Dali Huang, Jingfeng Lu, and Siliang Lu, Lightweight and intelligent model based on enhanced sparse filtering for rotating machine fault diagnosis, Transactions of the Institute of Measurement and Control, 2024, accepted, DOI: 10.1177/01423312231185702.
 
-J72. Juncai Song, Xianhong Wu, Long Qian, Wenjun Lv, Xiaoxian Wang, Siliang Lu#, PMSLM Eccentricity Fault Diagnosis Based on Deep Feature Fusion of Stray Magnetic Field Signals, IEEE Transactions on Instrumentation and Measurement, 2024, Vol. 73, pp: 3506012.
+J72. Juncai Song, Xianhong Wu, Long Qian, Wenjun Lv, Xiaoxian Wang#, Siliang Lu#, PMSLM Eccentricity Fault Diagnosis Based on Deep Feature Fusion of Stray Magnetic Field Signals, IEEE Transactions on Instrumentation and Measurement, 2024, Vol. 73, pp: 3506012.
 
 2023:
 
