@@ -348,6 +348,8 @@ P1. 陆思良，周天昊，苏杰，张扬，一种冒泡排序算法演示装�
 
 ### 荣誉奖励
 
+2023年获Outstanding Associate Editor for IEEE Transactions on Instrumentation and Measurement
+
 2023年指导“基于准直驱直流无刷电机的机器人五杆腿的构建和控制（胡江涛）”获安徽省机器人学会优秀本科毕业论文。
 
 2023年在“第二十二届全国大学生机器人大赛RoboMaster2023机甲大师高校联盟赛”步兵对抗赛中获得机器人实战奖全国三等奖（指导教师）
