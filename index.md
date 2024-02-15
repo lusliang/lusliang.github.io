@@ -488,7 +488,8 @@ T1. 电机故障诊断，苏州大学轨道交通学院，2016年。
 40.	PIME, Part C: Journal of Mechanical Engineering Science, Sage
 41.	PIME, Part F: Journal of Rail and Rapid Transit, Sage
 42.	International Journal of Advanced Manufacturing Technology, Springer
-43.	Journal of Intelligent Manufacturing, Springer
-44.	Measurement Science and Technology, IoP
-45.	Energy Science & Engineering, Wiley
-46.	CSEE Journal of Power and Energy Systems
+43.	Journal of Mechanical Science and Technology, Springer
+44.	Journal of Intelligent Manufacturing, Springer
+45.	Measurement Science and Technology, IoP
+46.	Energy Science & Engineering, Wiley
+47.	CSEE Journal of Power and Energy Systems
