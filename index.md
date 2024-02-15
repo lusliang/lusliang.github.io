@@ -6,11 +6,11 @@
 
 近年来，在三个主要研究方向取得系统性的创新成果：
 
-1）基于随机共振非线性滤波的微弱信号检测理论和应用 (ESI高被引论文)，综述：https://doi.org/10.1016/j.ymssp.2018.06.032
+1）基于随机共振非线性滤波的微弱信号检测理论和应用，综述 (ESI高被引论文)：https://doi.org/10.1016/j.ymssp.2018.06.032
 
 2）基于无编码器转速估计的变转速阶次分析故障诊断，综述：https://ieeexplore.ieee.org/document/8675968/
 
-3）基于边缘计算的实时在线信号处理与状态监测诊断 (ESI高被引论文)，综述：https://ieeexplore.ieee.org/document/10026418
+3）基于边缘计算的实时在线信号处理与状态监测诊断，综述 (ESI高被引论文)：https://ieeexplore.ieee.org/document/10026418
 
 B站公开课：https://www.bilibili.com/video/BV1AR4y1u74b/
 
