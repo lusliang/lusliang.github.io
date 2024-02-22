@@ -132,7 +132,7 @@ J75. Yanping Wu, Juncai Song#, Xianhong Wu, Xiaoxian Wang, Siliang Lu#, Fault Di
 J74. Wenping Cao, Haohua Li, Cungang Hu, Hui Wang, Rongqing Huang, Siliang Lu, Xiaoyan Huang, Diagnosis of High-Resistance Connection Faults in PMSMs Based on GMR and Deep Learning, IEEE Transactions on Industrial Electronics, 2024, accepted, DOI:
 10.1109/TIE.2023.3303635.
 
-J73. Yunhan Ling, Dianyu Fu, Peng Jiang, Yong Sun, Chao Yuan, Dali Huang, Jingfeng Lu, and Siliang Lu, Lightweight and intelligent model based on enhanced sparse filtering for rotating machine fault diagnosis, Transactions of the Institute of Measurement and Control, 2024, accepted, DOI: 10.1177/01423312231185702.
+J73. Yunhan Ling, Dianyu Fu, Peng Jiang, Yong Sun, Chao Yuan, Dali Huang, Jingfeng Lu, and Siliang Lu, Lightweight and intelligent model based on enhanced sparse filtering for rotating machine fault diagnosis, Transactions of the Institute of Measurement and Control, 2024, Vol. 46(5) 858–870.
 
 J72. Juncai Song, Xianhong Wu, Long Qian, Wenjun Lv, Xiaoxian Wang#, Siliang Lu#, PMSLM Eccentricity Fault Diagnosis Based on Deep Feature Fusion of Stray Magnetic Field Signals, IEEE Transactions on Instrumentation and Measurement, 2024, Vol. 73, pp: 3506012.
 
