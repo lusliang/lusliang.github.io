@@ -514,3 +514,4 @@ T1. 电机故障诊断，苏州大学轨道交通学院，2016年。
 45.	Measurement Science and Technology, IoP
 46.	Energy Science & Engineering, Wiley
 47.	CSEE Journal of Power and Energy Systems
+48.	Research, a Science Partner Journal
