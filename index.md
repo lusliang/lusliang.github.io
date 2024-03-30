@@ -134,6 +134,8 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2024:
 
+J76. Xianhong Wu, Juncai Song#, Zhangling Duan, Xiaoxian Wang, Wei Ding, Jing Wu, Siliang Lu#, Air gap flux density measurement of PMSLM based on TMR sensing external stray magnetic field and CNN-LSTM, Measurement, 2024, accepted.
+
 J75. Yanping Wu, Juncai Song#, Xianhong Wu, Xiaoxian Wang, Siliang Lu#, Fault Diagnosis of Linear Guide Rails Based on SSTG Combined with CA-DenseNet, Journal of Dynamics, Monitoring and Diagnostics, 2024, accepted.
 
 J74. Wenping Cao, Haohua Li, Cungang Hu, Hui Wang, Rongqing Huang, Siliang Lu, Xiaoyan Huang, Diagnosis of High-Resistance Connection Faults in PMSMs Based on GMR and Deep Learning, IEEE Transactions on Industrial Electronics, 2024, accepted, DOI:
