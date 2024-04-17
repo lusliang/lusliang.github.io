@@ -128,6 +128,10 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2024:
 
+J79. Zhangling Duan, Zhi Peng, Juncai Song#, Haoyuan Xia, Kun Wang, Jintao Yang, Zhen Li, Siliang Lu#, An Intelligent Complex Power Quality Disturbance Recognition Method Based on Two Dimension Encoding Conversion and Machine Vison, Electric Power Systems Research, 2024, accepted.
+
+J78. Juncai Song, Houhong Han, Xianhong Wu, Jingfeng Lu, Xiaoxian Wang, Siliang Lu#, Multisource Deep Feature Fusion of Optimized Symmetrized Dot Patterns for SRM Fault Diagnosis, IEEE Transactions on Instrumentation and Measurement, 2024, accepted.
+
 J77. Yanping Wu, Juncai Song#, Xianhong Wu, Xiaoxian Wang, Siliang Lu#, Fault Diagnosis of Linear Guide Rails Based on SSTG Combined with CA-DenseNet, Journal of Dynamics, Monitoring and Diagnostics, 2024, Vol. 3(1), pp: 1-10.
 
 J76. Wenping Cao, Haohua Li, Cungang Hu, Hui Wang, Rongqing Huang, Siliang Lu, Xiaoyan Huang, Diagnosis of High-Resistance Connection Faults in PMSMs Based on GMR and Deep Learning, IEEE Transactions on Industrial Electronics, 2024, Vol. 71(7), pp: 7918-7926.
