@@ -513,5 +513,6 @@ T1. 电机故障诊断，苏州大学轨道交通学院，2016年。
 45.	Journal of Vibration Engineering & Technologies, Springer
 46.	Measurement Science and Technology, IoP
 47.	Energy Science & Engineering, Wiley
-48.	CSEE Journal of Power and Energy Systems
-49.	Research, a Science Partner Journal
+48.	Journal of Food Process Engineering, Wiley
+49.	CSEE Journal of Power and Energy Systems
+50.	Research, a Science Partner Journal
