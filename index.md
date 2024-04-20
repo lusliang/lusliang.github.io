@@ -132,7 +132,7 @@ J80. Juncai Song, Long Qian, Xianhong Wu, Jing Wu, Siliang Lu, Xiaoxian Wang, DP
 
 J79. Juncai Song, Houhong Han, Xianhong Wu, Jingfeng Lu, Xiaoxian Wang, Siliang Lu#, Multisource Deep Feature Fusion of Optimized Symmetrized Dot Patterns for SRM Fault Diagnosis, IEEE Transactions on Instrumentation and Measurement, 2024, accepted.
 
-J78. Zhangling Duan, Zhi Peng, Juncai Song#, Siliang Lu#, An intelligent complex power quality disturbance recognition method based on two dimension encoding conversion and machine vison, Electric Power Systems Research, 2024, Vol. 232, pp: 110413.
+J78. Zhangling Duan, Zhi Peng, Juncai Song#, Siliang Lu#, An intelligent complex power quality disturbance recognition method based on two dimension encoding conversion and machine vision, Electric Power Systems Research, 2024, Vol. 232, pp: 110413.
 
 J77. Yanping Wu, Juncai Song#, Xianhong Wu, Xiaoxian Wang, Siliang Lu#, Fault Diagnosis of Linear Guide Rails Based on SSTG Combined with CA-DenseNet, Journal of Dynamics, Monitoring and Diagnostics, 2024, Vol. 3(1), pp: 1-10.
 
@@ -316,11 +316,11 @@ J20. 钱龙，吴先红，宋俊材，陆思良，王骁贤，基于杂散磁场
 
 J19. 丁伟，宋俊材，陆思良，王骁贤，基于多通道信号二维递归融合和ECA-ConvNeXt的永磁同步电机高阻接触故障诊断，电工技术学报，2024，接收。
 
-J18. 陈曦，王辉，陆思良，严如强，ALC-PFL:基于个性化联邦学习的轴承寿命预测方法，仪器仪表学报，2024，接收。
+J18. 韩厚宏，宋俊材，陆思良，王骁贤，Convformer-NSE融合多源信号的开关磁阻电机故障诊断，机械科学与技术，2023，接收。
 
 J17. 丁伟，陈律，王骁贤，宋俊材，陆思良，基于一维噪声增强卷积神经网络的轴承剩余寿命预测，轴承，2023，接收。
 
-J16. 韩厚宏，宋俊材，陆思良，王骁贤，Convformer-NSE融合多源信号的开关磁阻电机故障诊断，机械科学与技术，2023，接收。
+J16. 陈曦，王辉，陆思良，严如强，ALC-PFL:基于个性化联邦学习的轴承寿命预测方法，仪器仪表学报，2023，44(12): 69-78。
 
 J15. 吴先红，宋俊材，王骁贤，陆思良, 基于杂散磁场感知与NBCNN-LSTM-Attention深度回归建模的永磁直线电机气隙磁密测量研究，仪器仪表学报,2023,44(07):305-314.
 
