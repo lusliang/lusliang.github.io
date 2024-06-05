@@ -128,9 +128,9 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2024:
 
-J81. Ruqiang Yan, Weihua Li, Siliang Lu, Min Xia, Zhuyun Chen, Zheng Zhou, Yasong Li, Jingfeng Lu, Transfer Learning for Prognostics and Health Management: Advances, Challenges, and Opportunities, Journal of Dynamics, Monitoring and Diagnostics, 2024, accepted.
+J81. Ruqiang Yan#, Weihua Li#, Siliang Lu#, Min Xia#, Zhuyun Chen, Zheng Zhou, Yasong Li, Jingfeng Lu, Transfer Learning for Prognostics and Health Management: Advances, Challenges, and Opportunities, Journal of Dynamics, Monitoring and Diagnostics, 2024, accepted.
 
-J80. Juncai Song, Long Qian, Xianhong Wu, Jing Wu, Siliang Lu, Xiaoxian Wang#, DPMSLM Eccentricity Fault Detection Based on Multi-view of Mystery Curve Transformation and Deep Feature Extraction, IEEE Sensors Journal, 2024, published online, DOI: 10.1109/JSEN.2024.3392755.
+J80. Juncai Song, Long Qian, Xianhong Wu, Jing Wu, Siliang Lu, Xiaoxian Wang#, DPMSLM Eccentricity Fault Detection Based on Multi-view of Mystery Curve Transformation and Deep Feature Extraction, IEEE Sensors Journal, 2024, Vol. 24(11), pp: 18219-18231.
 
 J79. Juncai Song, Houhong Han, Xianhong Wu, Jingfeng Lu, Xiaoxian Wang, Siliang Lu#, Multisource Deep Feature Fusion of Optimized Symmetrized Dot Patterns for SRM Fault Diagnosis, IEEE Transactions on Instrumentation and Measurement, 2024, Vol. 73, pp: 3520313.
 
