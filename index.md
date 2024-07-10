@@ -78,6 +78,8 @@ Pr2. 内嵌多参量感知系统传动装置，重庆大学-安徽大学合作�
 
 Pr1. 多参量传感器信号测试，重庆大学-安徽大学合作开发项目，2017.09至2018.08，主持，结题。
 
+Pr03. 乒乓球机器人技术研发，合肥磐石智能科技股份有限公司，2024，联合主持，结题。
+
 Pr02. 样本信号设计软件包，中国人民解放军特种电子装备修造厂，2021，联合主持，结题。
 
 Pr01. 四通道血管性能测试平台硬件电路研制，合肥欣畅源光电科技有限公司，2021，联合主持，结题。 
@@ -130,7 +132,9 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2024:
 
-J81. Ruqiang Yan#, Weihua Li#, Siliang Lu#, Min Xia#, Zhuyun Chen, Zheng Zhou, Yasong Li, Jingfeng Lu, Transfer Learning for Prognostics and Health Management: Advances, Challenges, and Opportunities, Journal of Dynamics, Monitoring and Diagnostics, 2024, accepted.
+J82. Ruqiang Yan#, Weihua Li#, Siliang Lu#, Min Xia#, Zhuyun Chen, Zheng Zhou, Yasong Li, Jingfeng Lu, Transfer Learning for Prognostics and Health Management: Advances, Challenges, and Opportunities, Journal of Dynamics, Monitoring and Diagnostics, 2024, accepted.
+
+J81. Hui Wang, Zhenyu Wu, Fatang Zhou, Wenping Cao, Cungang Hu, Siliang Lu, Diagnosis of Inter-Turn Short Circuit Fault in BLDCM Based on Coupled High-Frequency Signal Injection, IEEE Transactions on Instrumentation and Measurement, 2024, accepted. 
 
 J80. Juncai Song, Long Qian, Xianhong Wu, Jing Wu, Siliang Lu, Xiaoxian Wang#, DPMSLM Eccentricity Fault Detection Based on Multi-view of Mystery Curve Transformation and Deep Feature Extraction, IEEE Sensors Journal, 2024, Vol. 24(11), pp: 18219-18231.
 
