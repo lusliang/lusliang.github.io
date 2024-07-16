@@ -132,9 +132,9 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2024:
 
-J82. Ruqiang Yan#, Weihua Li#, Siliang Lu#, Min Xia#, Zhuyun Chen, Zheng Zhou, Yasong Li, Jingfeng Lu, Transfer Learning for Prognostics and Health Management: Advances, Challenges, and Opportunities, Journal of Dynamics, Monitoring and Diagnostics, 2024, accepted.
+J82. Hui Wang, Zhenyu Wu, Fatang Zhou, Wenping Cao, Cungang Hu, Siliang Lu, Diagnosis of Inter-Turn Short Circuit Fault in BLDCM Based on Coupled High-Frequency Signal Injection, IEEE Transactions on Instrumentation and Measurement, 2024, accepted.
 
-J81. Hui Wang, Zhenyu Wu, Fatang Zhou, Wenping Cao, Cungang Hu, Siliang Lu, Diagnosis of Inter-Turn Short Circuit Fault in BLDCM Based on Coupled High-Frequency Signal Injection, IEEE Transactions on Instrumentation and Measurement, 2024, accepted. 
+J81. Ruqiang Yan#, Weihua Li#, Siliang Lu#, Min Xia#, Zhuyun Chen, Zheng Zhou, Yasong Li, Jingfeng Lu, Transfer Learning for Prognostics and Health Management: Advances, Challenges, and Opportunities, Journal of Dynamics, Monitoring and Diagnostics, 2024, Vol. 3, pp: 60-82.
 
 J80. Juncai Song, Long Qian, Xianhong Wu, Jing Wu, Siliang Lu, Xiaoxian Wang#, DPMSLM Eccentricity Fault Detection Based on Multi-view of Mystery Curve Transformation and Deep Feature Extraction, IEEE Sensors Journal, 2024, Vol. 24(11), pp: 18219-18231.
 
