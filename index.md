@@ -132,9 +132,9 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2024:
 
-J83. Yu Wang, Dong Wang, Bingchang Hou, Siliang Lu, Zhike Peng, Robust Optimized Weights Spectrum: Enhanced Interpretable Fault Feature Extraction Method by Solving Frequency Fluctuation Problem, Mechanical Systems and Signal Processing, 2024, accepted.
+J83. Hui Wang, Zhenyu Wu, Fatang Zhou, Wenping Cao, Cungang Hu, Siliang Lu, Diagnosis of Inter-Turn Short Circuit Fault in BLDCM Based on Coupled High-Frequency Signal Injection, IEEE Transactions on Instrumentation and Measurement, 2024, accepted.
 
-J82. Hui Wang, Zhenyu Wu, Fatang Zhou, Wenping Cao, Cungang Hu, Siliang Lu, Diagnosis of Inter-Turn Short Circuit Fault in BLDCM Based on Coupled High-Frequency Signal Injection, IEEE Transactions on Instrumentation and Measurement, 2024, accepted.
+J82. Yu Wang, Dong Wang, Bingchang Hou, Siliang Lu, Zhike Peng, Robust Optimized Weights Spectrum: Enhanced Interpretable Fault Feature Extraction Method by Solving Frequency Fluctuation Problem, Mechanical Systems and Signal Processing, 2025, Vol. 222, pp: 111798.
 
 J81. Ruqiang Yan#, Weihua Li#, Siliang Lu#, Min Xia#, Zhuyun Chen, Zheng Zhou, Yasong Li, Jingfeng Lu, Transfer Learning for Prognostics and Health Management: Advances, Challenges, and Opportunities, Journal of Dynamics, Monitoring and Diagnostics, 2024, Vol. 3, pp: 60-82.
 
