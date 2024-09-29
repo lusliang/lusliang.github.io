@@ -144,7 +144,7 @@ J85. Zhangling Duan, Zhi Peng, Juncai Song, Xun Yang, Siliang Lu, Complex Power 
 
 J84. Bin Ju, Chao An, Yuzhi Gao, Ke Zhang, Siliang Lu#, Yongbin Liu, Stiffness Matching of Cantilever Beam at Multipositions for Diaphragm Volume Pump Driving, IEEE Transactions on Instrumentation and Measurement, 2024, accepted.
 
-J83. Hui Wang, Zhenyu Wu, Fatang Zhou, Wenping Cao, Cungang Hu, Siliang Lu, Diagnosis of Inter-Turn Short Circuit Fault in BLDCM Based on Coupled High-Frequency Signal Injection, IEEE Transactions on Instrumentation and Measurement, 2024, accepted.
+J83. Hui Wang, Zhenyu Wu, Fatang Zhou, Wenping Cao, Cungang Hu, Siliang Lu, Diagnosis of Inter-Turn Short Circuit Fault in BLDCM Based on Coupled High-Frequency Signal Injection, IEEE Transactions on Instrumentation and Measurement, 2024, Vol. 73, pp: 3532310.
 
 J82. Yu Wang, Dong Wang, Bingchang Hou, Siliang Lu, Zhike Peng, Robust Optimized Weights Spectrum: Enhanced Interpretable Fault Feature Extraction Method by Solving Frequency Fluctuation Problem, Mechanical Systems and Signal Processing, 2025, Vol. 222, pp: 111798.
 
