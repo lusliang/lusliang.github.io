@@ -138,7 +138,7 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2024:
 
-J86. Xi Chen, Siliang Lu, Hui Wang, Ruqiang Yan, Bearing Remaining Useful Life Prediction Using Client Selection and Personalized Aggregation Enhancement in Federated Learning, IEEE Internet of Things Journal, 2024, accepted.
+J86. Xi Chen, Siliang Lu, Hui Wang, Ruqiang Yan, Bearing Remaining Useful Life Prediction Using Client Selection and Personalized Aggregation Enhancement in Federated Learning, IEEE Internet of Things Journal, 2024, DOI: 10.1109/JIOT.2024.3456906.
 
 J85. Zhangling Duan, Zhi Peng, Juncai Song, Xun Yang, Siliang Lu, Complex Power Quality Disturbance Recognition Research Based on Deep Complementary Fusion of Two-dimensional Coding Transition, IEEE Transactions on Instrumentation and Measurement, 2024, accepted.
 
