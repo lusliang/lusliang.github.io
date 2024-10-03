@@ -543,15 +543,16 @@ T1. 电机故障诊断，苏州大学轨道交通学院，2016年。
 39.	Applied Mathematical Modelling, Elsevier
 40.	Applied Soft Computing, Elsevier
 41.	IFAC Mechatronics, Elsevier
-42.	Journal of Vibration and Control, Sage
-43.	PIME, Part C: Journal of Mechanical Engineering Science, Sage
-44.	PIME, Part F: Journal of Rail and Rapid Transit, Sage
-45.	International Journal of Advanced Manufacturing Technology, Springer
-46.	Journal of Mechanical Science and Technology, Springer
-47.	Journal of Intelligent Manufacturing, Springer
-48.	Journal of Vibration Engineering & Technologies, Springer
-49.	Measurement Science and Technology, IoP
-50.	Energy Science & Engineering, Wiley
-51.	Journal of Food Process Engineering, Wiley
-52.	CSEE Journal of Power and Energy Systems
-53.	Research, a Science Partner Journal
+42.	Structural Health Monitoring, Sage
+43.	Journal of Vibration and Control, Sage
+44.	PIME, Part C: Journal of Mechanical Engineering Science, Sage
+45.	PIME, Part F: Journal of Rail and Rapid Transit, Sage
+46.	International Journal of Advanced Manufacturing Technology, Springer
+47.	Journal of Mechanical Science and Technology, Springer
+48.	Journal of Intelligent Manufacturing, Springer
+49.	Journal of Vibration Engineering & Technologies, Springer
+50.	Measurement Science and Technology, IoP
+51.	Energy Science & Engineering, Wiley
+52.	Journal of Food Process Engineering, Wiley
+53.	CSEE Journal of Power and Energy Systems
+54.	Research, a Science Partner Journal
