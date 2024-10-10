@@ -402,6 +402,8 @@ P1. 陆思良，周天昊，苏杰，张扬，一种冒泡排序算法演示装�
 
 ### 荣誉奖励
 
+2024年论文《IEEE Transactions on Systems, Man and Cybernetics: Systems, 2022, 52(12): 7328-7340》获得Andrew P. Sage Best Transactions Paper Award
+
 2023年获Outstanding Associate Editor for IEEE Transactions on Instrumentation and Measurement
 
 2023年指导“基于准直驱直流无刷电机的机器人五杆腿的构建和控制（胡江涛）”获安徽省机器人学会优秀本科毕业论文。
