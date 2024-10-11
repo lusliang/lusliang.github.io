@@ -140,9 +140,9 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 J86. Xi Chen, Siliang Lu, Hui Wang, Ruqiang Yan, Bearing Remaining Useful Life Prediction Using Client Selection and Personalized Aggregation Enhancement in Federated Learning, IEEE Internet of Things Journal, 2024, DOI: 10.1109/JIOT.2024.3456906.
 
-J85. Zhangling Duan, Zhi Peng, Juncai Song, Xun Yang, Siliang Lu, Complex Power Quality Disturbance Recognition Research Based on Deep Complementary Fusion of Two-dimensional Coding Transition, IEEE Transactions on Instrumentation and Measurement, 2024, accepted.
+J85. Bin Ju#, Chao An, Yuzhi Gao, Ke Zhang, Siliang Lu#, Yongbin Liu, Stiffness Matching of Cantilever Beam at Multipositions for Diaphragm Volume Pump Driving, IEEE Transactions on Instrumentation and Measurement, 2024, accepted.
 
-J84. Bin Ju, Chao An, Yuzhi Gao, Ke Zhang, Siliang Lu#, Yongbin Liu, Stiffness Matching of Cantilever Beam at Multipositions for Diaphragm Volume Pump Driving, IEEE Transactions on Instrumentation and Measurement, 2024, accepted.
+J84. Zhangling Duan, Zhi Peng, Juncai Song, Xun Yang, Siliang Lu, Complex Power Quality Disturbance Recognition Research Based on Deep Complementary Fusion of 2-D Coding Transition, IEEE Transactions on Instrumentation and Measurement, 2024, Vol. 73, pp: 3533912.
 
 J83. Hui Wang, Zhenyu Wu, Fatang Zhou, Wenping Cao, Cungang Hu, Siliang Lu, Diagnosis of Inter-Turn Short Circuit Fault in BLDCM Based on Coupled High-Frequency Signal Injection, IEEE Transactions on Instrumentation and Measurement, 2024, Vol. 73, pp: 3532310.
 
