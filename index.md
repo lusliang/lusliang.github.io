@@ -138,7 +138,7 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2024:
 
-J89. Changbo He, Longwei Chen, Nuo Sun, Peng Chen, Xuefang Xu, Siliang Lu#, Redundancy Modification and Potential Feature Reactivation Network for Predicting the Remaining Useful Life of Machines, IEEE Sensors Journal, 2024, accepted.
+J89. Changbo He, Longwei Chen, Nuo Sun, Peng Chen, Xuefang Xu, Siliang Lu#, Redundancy Modification and Potential Feature Reactivation Network for Predicting the Remaining Useful Life of Machines, IEEE Sensors Journal, 2024, DOI: 10.1109/JSEN.2024.3514168.
 
 J88. Juncai Song, Fei Li, Jiwen Zhao, Lijun Wang, Xiaoxian Wang, Yu Zhang, Siliang Lu#, DPMSLM Demagnetization Fault Diagnosis Based on Deep Feature Fusion of External Stray Flux Signal, IEEE Transactions on Industrial Informatics, 2024, DOI: 10.1109/TII.2024.3495770.
 
