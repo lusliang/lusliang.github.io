@@ -144,7 +144,7 @@ J88. Juncai Song, Fei Li, Jiwen Zhao, Lijun Wang, Xiaoxian Wang, Yu Zhang, Silia
 
 J87. Juncai Song, Jiyu Cao, Jiwen Zhao, Lijun Wang, Xianhong Wu, Xiaoxian Wang, Siliang Lu#, Accurate Detection and Evaluation of the Airgap Asymmetry Fault in DS-PMSLM Based on OSVT and ECA-ENet, IEEE Transactions on Transportation Electrification, 2024, DOI: 10.1109/TTE.2024.3495980.
 
-J86. Xi Chen, Siliang Lu, Hui Wang, Ruqiang Yan, Bearing Remaining Useful Life Prediction Using Client Selection and Personalized Aggregation Enhancement in Federated Learning, IEEE Internet of Things Journal, 2024, DOI: 10.1109/JIOT.2024.3456906.
+J86. Xi Chen, Siliang Lu, Hui Wang, Ruqiang Yan, Bearing Remaining Useful Life Prediction Using Client Selection and Personalized Aggregation Enhancement in Federated Learning, IEEE Internet of Things Journal, 2024, Vol. 11, Issue 24, pp: 40888-40896.
 
 J85. Bin Ju#, Chao An, Yuzhi Gao, Ke Zhang, Siliang Lu#, Yongbin Liu, Stiffness Matching of Cantilever Beam at Multipositions for Diaphragm Volume Pump Driving, IEEE Transactions on Instrumentation and Measurement, 2024, Vol.73, pp: 3542013.
 
