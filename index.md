@@ -138,6 +138,8 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2025:
 
+J91. Changbo He, Panpan Ma, Yali Zhi, Shaoliang Hu, Jinrui Wang, Zijian Qiao, Siliang Lu, Weak Fault Feature Extraction in Non-Gaussian Noise Interference Based on Adaptive Recombination Empirical Wavelet Transform Incorporated by Sparse Coding Shrinkage, Measurement Science and Technology, 2025, DOI: 10.1088/1361-6501/adaa92.
+
 J90. Jun Zhu, Yuanfan Wang, Hao Yan, Siliang Lu, A New Weighted Mechanism-based Partial Transfer Fault Diagnosis Method For Voltage Source Inverter, IEEE Transactions on Transportation Electrification, 2025, DOI: 10.1109/TTE.2025.3529764.
 
 J89. Changbo He, Longwei Chen, Nuo Sun, Peng Chen, Xuefang Xu, Siliang Lu#, Redundancy Modification and Potential Feature Reactivation Network for Predicting the Remaining Useful Life of Machines, IEEE Sensors Journal, 2024, DOI: 10.1109/JSEN.2024.3514168.
