@@ -138,6 +138,8 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2025:
 
+J93. Zhenyu Wu, Jianxiong Tao, Yongbin Liu, Tao He, Siliang Lu#, Detection of Structure Deformation and Insulation Condition for Transformer Windings Based on High-voltage Oscillating Wave, IEEE Transactions on Instrumentation and Measurement, 2025, accepted.
+
 J92. Xiangcheng Chen, Dong Yin, Siliang Lu, Jun Yang, Yang Zhang, Zhiwei Dai, De Nan, Bolin Cai, Shuping He, GelEvent_A Novel High-speed Tactile Sensor With Event Camera, IEEE Transactions on Instrumentation and Measurement, 2025, accepted.
 
 J91. Changbo He, Panpan Ma, Yali Zhi, Shaoliang Hu, Jinrui Wang, Zijian Qiao, Siliang Lu, Weak Fault Feature Extraction in Non-Gaussian Noise Interference Based on Adaptive Recombination Empirical Wavelet Transform Incorporated by Sparse Coding Shrinkage, Measurement Science and Technology, 2025, DOI: 10.1088/1361-6501/adaa92.
