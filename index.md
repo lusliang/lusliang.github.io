@@ -142,7 +142,7 @@ J93. Zhenyu Wu, Jianxiong Tao, Yongbin Liu, Tao He, Siliang Lu#, Detection of St
 
 J92. Xiangcheng Chen, Dong Yin, Siliang Lu, Jun Yang, Yang Zhang, Zhiwei Dai, De Nan, Bolin Cai, Shuping He, GelEvent_A Novel High-speed Tactile Sensor With Event Camera, IEEE Transactions on Instrumentation and Measurement, 2025, accepted. 
 
-J91. Jun Zhu, Yuanfan Wang, Hao Yan, Siliang Lu, A New Weighted Mechanism-based Partial Transfer Fault Diagnosis Method For Voltage Source Inverter, IEEE Transactions on Transportation Electrification, 2025, DOI: 10.1109/TTE.2025.3529764.
+J91. Jun Zhu, Yuanfan Wang, Hao Yan, Kejia Hu, Siliang Lu, Weilin Li, A New Weighted Mechanism-based Partial Transfer Fault Diagnosis Method For Voltage Source Inverter, IEEE Transactions on Transportation Electrification, 2025, DOI: 10.1109/TTE.2025.3529764.
 
 J90. Juncai Song, Fei Li, Jiwen Zhao, Lijun Wang, Xiaoxian Wang, Yu Zhang, Siliang Lu#, DPMSLM Demagnetization Fault Diagnosis Based on Deep Feature Fusion of External Stray Flux Signal, IEEE Transactions on Industrial Informatics, 2024, DOI: 10.1109/TII.2024.3495770.
 
