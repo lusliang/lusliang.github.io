@@ -138,6 +138,8 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2025:
 
+J94. Jingfeng Lu, Siliang Lu, Jiawen Xu, Ruqiang Yan, Unknown Fault Diagnosis of Motors Based on Incremental Learning and Edge Computing, IEEE Internet of Things Journal, 2025, accepted.
+
 J93. Zhenyu Wu, Jianxiong Tao, Yongbin Liu, Tao He, Siliang Lu#, Detection of Structure Deformation and Insulation Condition for Transformer Windings Based on High-voltage Oscillating Wave, IEEE Transactions on Instrumentation and Measurement, 2025, accepted.
 
 J92. Xiangcheng Chen, Dong Yin, Siliang Lu, Jun Yang, Yang Zhang, Zhiwei Dai, De Nan, Bolin Cai, Shuping He, GelEvent_A Novel High-speed Tactile Sensor With Event Camera, IEEE Transactions on Instrumentation and Measurement, 2025, accepted. 
