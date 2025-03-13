@@ -138,15 +138,15 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2025:
 
-J94. Jingfeng Lu, Siliang Lu, Jiawen Xu, Ruqiang Yan, Unknown Fault Diagnosis of Motors Based on Incremental Learning and Edge Computing, IEEE Internet of Things Journal, 2025, accepted.
+J94. Jingfeng Lu, Siliang Lu, Jiawen Xu, Ruqiang Yan, Unknown Fault Diagnosis of Motors Based on Incremental Learning and Edge Computing, IEEE Internet of Things Journal, 2025, accepted, DOI: 10.1109/JIOT.2025.3550928.
 
-J93. Zhenyu Wu, Jianxiong Tao, Yongbin Liu, Tao He, Siliang Lu#, Detection of Structure Deformation and Insulation Condition for Transformer Windings Based on High-voltage Oscillating Wave, IEEE Transactions on Instrumentation and Measurement, 2025, accepted.
+J93. Xiangcheng Chen, Dong Yin, Siliang Lu, Jun Yang, Yang Zhang, Zhiwei Dai, De Nan, Bolin Cai, Shuping He, GelEvent_A Novel High-speed Tactile Sensor With Event Camera, IEEE Transactions on Instrumentation and Measurement, 2025, accepted, DOI: 10.1109/TIM.2025.3551440. 
 
-J92. Xiangcheng Chen, Dong Yin, Siliang Lu, Jun Yang, Yang Zhang, Zhiwei Dai, De Nan, Bolin Cai, Shuping He, GelEvent_A Novel High-speed Tactile Sensor With Event Camera, IEEE Transactions on Instrumentation and Measurement, 2025, accepted. 
+J92. Jun Zhu, Yuanfan Wang, Hao Yan, Kejia Hu, Siliang Lu, Weilin Li, A New Weighted Mechanism-based Partial Transfer Fault Diagnosis Method For Voltage Source Inverter, IEEE Transactions on Transportation Electrification, 2025, DOI: 10.1109/TTE.2025.3529764.
 
-J91. Jun Zhu, Yuanfan Wang, Hao Yan, Kejia Hu, Siliang Lu, Weilin Li, A New Weighted Mechanism-based Partial Transfer Fault Diagnosis Method For Voltage Source Inverter, IEEE Transactions on Transportation Electrification, 2025, DOI: 10.1109/TTE.2025.3529764.
+J91. Juncai Song, Jiyu Cao, Jiwen Zhao, Lijun Wang, Xianhong Wu, Xiaoxian Wang, Siliang Lu#, Accurate Detection and Evaluation of the Airgap Asymmetry Fault in DS-PMSLM Based on OSVT and ECA-ENet, IEEE Transactions on Transportation Electrification, 2024, DOI: 10.1109/TTE.2024.3495980.
 
-J90. Juncai Song, Jiyu Cao, Jiwen Zhao, Lijun Wang, Xianhong Wu, Xiaoxian Wang, Siliang Lu#, Accurate Detection and Evaluation of the Airgap Asymmetry Fault in DS-PMSLM Based on OSVT and ECA-ENet, IEEE Transactions on Transportation Electrification, 2024, DOI: 10.1109/TTE.2024.3495980.
+J90. Zhenyu Wu, Jianxiong Tao, Yongbin Liu, Tao He, Siliang Lu#, Detection of Structure Deformation and Insulation Condition for Transformer Windings Based on High-voltage Oscillating Wave, IEEE Transactions on Instrumentation and Measurement, 2025, Vol. 74, pp: 3512112.
 
 J89. Juncai Song, Fei Li, Jiwen Zhao, Lijun Wang, Xiaoxian Wang, Yu Zhang, Siliang Lu#, DPMSLM Demagnetization Fault Diagnosis Based on Deep Feature Fusion of External Stray Flux Signal, IEEE Transactions on Industrial Informatics, 2025, Vol. 21, Issue 3, pp: 2214-2223.
 
