@@ -144,7 +144,7 @@ J93. Dong Yin, Siliang Lu, Jun Yang, Yang Zhang, Zhiwei Dai, De Nan, Bolin Cai, 
 
 J92. Jun Zhu, Yuanfan Wang, Hao Yan, Kejia Hu, Siliang Lu, Weilin Li, A New Weighted Mechanism-based Partial Transfer Fault Diagnosis Method For Voltage Source Inverter, IEEE Transactions on Transportation Electrification, 2025, DOI: 10.1109/TTE.2025.3529764.
 
-J91. Juncai Song, Jiyu Cao, Jiwen Zhao, Lijun Wang, Xianhong Wu, Xiaoxian Wang, Siliang Lu#, Accurate Detection and Evaluation of the Airgap Asymmetry Fault in DS-PMSLM Based on OSVT and ECA-ENet, IEEE Transactions on Transportation Electrification, 2024, DOI: 10.1109/TTE.2024.3495980.
+J91. Juncai Song, Jiyu Cao, Jiwen Zhao, Lijun Wang, Xianhong Wu, Xiaoxian Wang, Siliang Lu#, Accurate Detection and Evaluation of the Airgap Asymmetry Fault in DS-PMSLM Based on OSVT and ECA-ENet, IEEE Transactions on Transportation Electrification, 2025, Vol. 11, Issue: 2, pp: 5999-6011.
 
 J90. Zhenyu Wu, Jianxiong Tao, Yongbin Liu, Tao He, Siliang Lu#, Detection of Structure Deformation and Insulation Condition for Transformer Windings Based on High-voltage Oscillating Wave, IEEE Transactions on Instrumentation and Measurement, 2025, Vol. 74, pp: 3512112.
 
