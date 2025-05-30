@@ -140,11 +140,11 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2025:
 
-J95. Xiaoxian Wang, Yinan Sun, Anglong Li, Jingfeng Lu, Juncai Song, and Siliang Lu#, Three-step Strategy for Pattern Recognition and Rotation Angle Estimation of Rectangular Workpieces, IEEE Sensors Journal, 2025, accepted.
+J95. Xiaoxian Wang, Yinan Sun, Anglong Li, Jingfeng Lu, Juncai Song, and Siliang Lu#, Three-step Strategy for Pattern Recognition and Rotation Angle Estimation of Rectangular Workpieces, IEEE Sensors Journal, 2025, accepted, DOI: 10.1109/JSEN.2025.3564001.
 
 J94. Jingfeng Lu, Siliang Lu, Jiawen Xu, Ruqiang Yan, Unknown Fault Diagnosis of Motors Based on Incremental Learning and Edge Computing, IEEE Internet of Things Journal, 2025, accepted, DOI: 10.1109/JIOT.2025.3550928.
 
-J93. Jun Zhu, Yuanfan Wang, Hao Yan, Kejia Hu, Siliang Lu, Weilin Li, A New Weighted Mechanism-based Partial Transfer Fault Diagnosis Method For Voltage Source Inverter, IEEE Transactions on Transportation Electrification, 2025, DOI: 10.1109/TTE.2025.3529764.
+J93. Jun Zhu, Yuanfan Wang, Hao Yan, Siliang Lu, Weilin Li, A New Weighted Mechanism-based Partial Transfer Fault Diagnosis Method For Voltage Source Inverter, IEEE Transactions on Transportation Electrification, Vol. 11, Issue: 3, pp: 7588-7598.
 
 J92. Dong Yin, Siliang Lu, Jun Yang, Yang Zhang, Zhiwei Dai, De Nan, Bolin Cai, Shuping He, Xiangcheng Chen, GelEvent-A Novel High-speed Tactile Sensor With Event Camera, IEEE Transactions on Instrumentation and Measurement, 2025, Vol. 74, pp: 9511413. 
 
