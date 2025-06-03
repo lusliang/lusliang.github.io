@@ -140,6 +140,8 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2025:
 
+J96. Xiaoxian Wang, Yanping Wu, Miao He, Juncai Song, Xianhong Wu, Zhiyong Hu, Siliang Lu, Fault Diagnosis of Linear Motion Guide System in PMSLM via STFC-RN Implemented on Edge Computing Node, IEEE Transactions on Instrumentation and Measurement, 2025, accepted.
+
 J95. Xiaoxian Wang, Yinan Sun, Anglong Li, Jingfeng Lu, Juncai Song, and Siliang Lu#, Three-step Strategy for Pattern Recognition and Rotation Angle Estimation of Rectangular Workpieces, IEEE Sensors Journal, 2025, accepted, DOI: 10.1109/JSEN.2025.3564001.
 
 J94. Jingfeng Lu, Siliang Lu, Jiawen Xu, Ruqiang Yan, Unknown Fault Diagnosis of Motors Based on Incremental Learning and Edge Computing, IEEE Internet of Things Journal, 2025, accepted, DOI: 10.1109/JIOT.2025.3550928.
