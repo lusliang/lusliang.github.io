@@ -142,7 +142,7 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 J97. Yi Ji, Yongyuan Zhu, Siliang Lu, Lixia Yang, Alan Wee-Chung Liew, WTC-iPST: A deep learning framework for short-term electric load forecasting with multi-scale feature extraction, Knowledge-Based Systems, 2025, Vol. 324, pp: 113907.
 
-J96. Xiaoxian Wang, Yanping Wu, Miao He, Juncai Song, Xianhong Wu, Zhiyong Hu, Siliang Lu, Fault Diagnosis of Linear Motion Guide System in PMSLM via STFC-RN Implemented on Edge Computing Node, IEEE Transactions on Instrumentation and Measurement, 2025, accepted, DOI: 10.1109/TIM.2025.3579827.
+J96. Xiaoxian Wang, Yanping Wu, Miao He, Juncai Song, Xianhong Wu, Zhiyong Hu, Siliang Lu, Fault Diagnosis of Linear Motion Guide System in PMSLM via STFC-RN Implemented on Edge Computing Node, IEEE Transactions on Instrumentation and Measurement, 2025, Vol. 74, pp: 3544815.
 
 J95. Xiaoxian Wang, Yinan Sun, Anglong Li, Jingfeng Lu, Juncai Song, and Siliang Lu#, Three-step Strategy for Pattern Recognition and Rotation Angle Estimation of Rectangular Workpieces, IEEE Sensors Journal, 2025, Vol. 25, Issue: 11, pp: 20272-20284.
 
