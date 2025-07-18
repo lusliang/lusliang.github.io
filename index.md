@@ -140,6 +140,8 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2025:
 
+J99. Zhiyong Hu, Haiyang Liang, Jiawei Xu, Juncai Song, Xiaoxian Wang, Siliang Lu, Network-assisted Super-resolution Imaging of Magnetic Fields Under Noisy Conditions, IEEE Sensors Journal, 2025, accepted.
+
 J98. Juncai Song, Fei Li, Jiwen Zhao, Lijun Wang, Buyun Liu, Xiaoxian Wang, Siliang Lu, PMSLM Demagnetization Fault Detection Based on Multi-Sensor Signal Fusion and Enhanced Graph Neural Network, IEEE Transactions on Transportation Electrification, 2025, accepted.
 
 J97. Yi Ji, Yongyuan Zhu, Siliang Lu, Lixia Yang, Alan Wee-Chung Liew, WTC-iPST: A deep learning framework for short-term electric load forecasting with multi-scale feature extraction, Knowledge-Based Systems, 2025, Vol. 324, pp: 113907.
@@ -359,6 +361,8 @@ J1. Siliang Lu, Qingbo He, Haibin Zhang, Shangbin Zhang, Fanrang Kong. Note: Sig
 
 
 中文论文：
+
+J25. 吴振宇，屈先锋，王慧，刘永斌，陆思良, 基于电磁场特征蒸馏的无刷直流电机匝间短路智能辨识，仪器仪表学报，2025，接收。
 
 J24. 韩厚宏，宋俊材，陆思良，王骁贤，Convformer-NSE融合多源信号的开关磁阻电机故障诊断，机械科学与技术，2023，接收。
 
