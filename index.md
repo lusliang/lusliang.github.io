@@ -140,6 +140,8 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2025:
 
+J100. Ziheng Xu,Siliang Lu, Yanmei Kang, Jun Jiang, Intelligent fault classification exploration inspired by suprathreshold stochastic resonance, IEEE Transactions on Instrumentation and Measurement, 2025, accepted.
+
 J99. Zhiyong Hu, Haiyang Liang, Jiawei Xu, Juncai Song, Xiaoxian Wang, Siliang Lu, Network-assisted Super-resolution Imaging of Magnetic Fields Under Noisy Conditions, IEEE Sensors Journal, 2025, accepted.
 
 J98. Juncai Song, Fei Li, Jiwen Zhao, Lijun Wang, Buyun Liu, Xiaoxian Wang, Siliang Lu, PMSLM Demagnetization Fault Detection Based on Multi-Sensor Signal Fusion and Enhanced Graph Neural Network, IEEE Transactions on Transportation Electrification, 2025, accepted.
