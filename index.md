@@ -152,7 +152,7 @@ J100. Ziheng Xu, Siliang Lu, Yanmei Kang, Jun Jiang, Intelligent fault classific
 
 J99. Zhiyong Hu, Haiyang Liang, Jiawei Xu, Juncai Song, Xiaoxian Wang, Siliang Lu, Network-assisted Super-resolution Imaging of Magnetic Fields Under Noisy Conditions, IEEE Sensors Journal, 2025, Vol. 25(17): 33620-33632.
 
-J98. Juncai Song, Fei Li, Jiwen Zhao, Lijun Wang, Buyun Liu, Xiaoxian Wang, Siliang Lu, PMSLM Demagnetization Fault Detection Based on Multi-Sensor Signal Fusion and Enhanced Graph Neural Network, IEEE Transactions on Transportation Electrification, 2025, accepted.
+J98. Juncai Song, Fei Li, Jiwen Zhao, Lijun Wang, Buyun Liu, Xiaoxian Wang, Siliang Lu, PMSLM Demagnetization Fault Detection Based on Multi-Sensor Signal Fusion and Enhanced Graph Neural Network, IEEE Transactions on Transportation Electrification, 2025, Vol. 11(5), pp: 12428-12440.
 
 J97. Yi Ji, Yongyuan Zhu, Siliang Lu, Lixia Yang, Alan Wee-Chung Liew, WTC-iPST: A deep learning framework for short-term electric load forecasting with multi-scale feature extraction, Knowledge-Based Systems, 2025, Vol. 324, pp: 113907.
 
