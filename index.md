@@ -146,7 +146,7 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 J103. Wenxiang Cao, Zhi Peng, Kun Yu, Siliang Lu, Lei Mao, Brushless DC Motor Fault Diagnosis on the Basis of Complementary Fusion of Multiple-Channel Signals, IEEE Sensors Journal, accepted.
 
-J102. Juncai Song, Yuting Wang, Yuan Gao, Hong Ye, Dengzhou Fang, Xiaoxian Wang, Zhiyong Hu, Siliang Lu, Power Quality Disturbances Recognition Via Lightweight Deep Learning Framework Integrated with Time–Frequency Analysis Embedded, IEEE Transactions on Instrumentation and Measurement, 2025, accepted.
+J102. Juncai Song, Yuting Wang, Yuan Gao, Hong Ye, Dengzhou Fang, Xiaoxian Wang, Zhiyong Hu, Siliang Lu, Power Quality Disturbances Recognition Via Lightweight Deep Learning Framework Integrated with Time–Frequency Analysis Embedded, IEEE Transactions on Instrumentation and Measurement, 2025, Vol. 74, pp: 3560914.
 
 J101. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Yongbin Liu, Siliang Lu, and Shihao Gao, Accurate Torque Modeling for SphericalReluctance Motor Based on BPNN and Fourier Series, IEEE/ASME Transactions on Mechatronics, 2025, accepted.
 
