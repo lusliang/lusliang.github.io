@@ -148,7 +148,7 @@ J106. Changbo He, Zengyang Fu, Peng Chen, Xuefang Xu, Alessandro Paolo Daga, Sil
 
 2025:
 
-J105. Xianhong Wu, Xiaoxian Wang, Juncai Song, Zhiyong Hu, Jiawei Xu, Siliang Lu, Low-Power Analog Circuit-Based Physical Neural Networks for Motor Fault Diagnosis, Energy (Elsevier), 2025, accepted.
+J105. Xianhong Wu, Xiaoxian Wang, Juncai Song, Zhiyong Hu, Jiawei Xu, Siliang Lu, Low-Power Analog Circuit-Based Physical Neural Networks for Motor Fault Diagnosis, Energy (Elsevier), 2025, Vol. 340: 139186.
 
 J104. Xianhong Wu, Xiaoxian Wang, Juncai Song, Zhiyong Hu, Fei Li, Siliang Lu, Demagnetization Fault Diagnosis of a Permanent Magnet Synchronous Linear Motor Based on Noisy-KAN on an Edge Computing System, IEEE Transactions on Transportation Electrification, 2025, accepted.
 
