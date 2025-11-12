@@ -144,9 +144,11 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2026:
 
-J106. Changbo He, Zengyang Fu, Peng Chen, Xuefang Xu, Alessandro Paolo Daga, Siliang Lu#, A confident cross-domain mixup–based network with dynamic label-distribution-aware margin regularization for bearing fault diagnosis under variable working conditions, Engineering Applications of Artificial Intelligence, 2026, Vol. 163, pp: 112964.
+J107. Changbo He, Zengyang Fu, Peng Chen, Xuefang Xu, Alessandro Paolo Daga, Siliang Lu#, A confident cross-domain mixup–based network with dynamic label-distribution-aware margin regularization for bearing fault diagnosis under variable working conditions, Engineering Applications of Artificial Intelligence, 2026, Vol. 163, pp: 112964.
 
 2025:
+
+J106. Linhao Peng, et al. Kurtosis-Based Spectral Index Guided Adaptive Speed Estimation for Bearing Fault Diagnosis Under Nonstationary Conditions, IEEE Transactions on Instrumentation and Measurement, 2025, accepted.
 
 J105. Xianhong Wu, Xiaoxian Wang, Juncai Song, Zhiyong Hu, Jiawei Xu, Siliang Lu, Low-Power Analog Circuit-Based Physical Neural Networks for Motor Fault Diagnosis, Energy (Elsevier), 2025, Vol. 340: 139186.
 
