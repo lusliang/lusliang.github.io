@@ -148,7 +148,7 @@ J108. Changbo He, Zengyang Fu, Peng Chen, Xuefang Xu, Alessandro Paolo Daga, Sil
 
 2025:
 
-J107. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Yongbin Liu, Siliang Lu, and Shihao Gao, Accurate Torque Modeling for Spherical Reluctance Motor Based on BPNN and Fourier Series, IEEE/ASME Transactions on Mechatronics, 2025, accepted.
+J107. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Yongbin Liu, Siliang Lu, and Shihao Gao, Accurate Torque Modeling for Spherical Reluctance Motor Based on BPNN and Fourier Series, IEEE/ASME Transactions on Mechatronics, 2025, accepted. 
 
 J106. Xianhong Wu, Xiaoxian Wang, Juncai Song, Zhiyong Hu, Fei Li, Siliang Lu, Demagnetization Fault Diagnosis of a Permanent Magnet Synchronous Linear Motor Based on Noisy-KAN on an Edge Computing System, IEEE Transactions on Transportation Electrification, 2025, accepted.
 
