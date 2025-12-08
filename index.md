@@ -144,9 +144,11 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2026:
 
-J108. Changbo He, Zengyang Fu, Peng Chen, Xuefang Xu, Alessandro Paolo Daga, Siliang Lu#, A confident cross-domain mixup–based network with dynamic label-distribution-aware margin regularization for bearing fault diagnosis under variable working conditions, Engineering Applications of Artificial Intelligence, 2026, Vol. 163, pp: 112964.
+J109. Changbo He, Zengyang Fu, Peng Chen, Xuefang Xu, Alessandro Paolo Daga, Siliang Lu#, A confident cross-domain mixup–based network with dynamic label-distribution-aware margin regularization for bearing fault diagnosis under variable working conditions, Engineering Applications of Artificial Intelligence, 2026, Vol. 163, pp: 112964.
 
 2025:
+
+J108. Bin Ju, et al. Design and analysis of micro-scale ultrasonic transducers with active-backing structures, Sensors and Actuators: A. Physical, 2025, accepted.
 
 J107. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Yongbin Liu, Siliang Lu, and Shihao Gao, Accurate Torque Modeling for Spherical Reluctance Motor Based on BPNN and Fourier Series, IEEE/ASME Transactions on Mechatronics, 2025, accepted. 
 
