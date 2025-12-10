@@ -148,7 +148,7 @@ J109. Changbo He, Zengyang Fu, Peng Chen, Xuefang Xu, Alessandro Paolo Daga, Sil
 
 2025:
 
-J108. Bin Ju, et al. Design and analysis of micro-scale ultrasonic transducers with active-backing structures, Sensors and Actuators A: Physical, 2025, accepted.
+J108. Huanying Kan, Changquan Li, Bin Ju, Xiao Zheng, Wenjie Xue, Chao Tian, Weiwei Shao, Siliang Lu, Yongbin Liu. Design and analysis of micro-scale ultrasonic transducers with active-backing structures, Sensors and Actuators A: Physical, 2025, accepted.
 
 J107. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Yongbin Liu, Siliang Lu, and Shihao Gao, Accurate Torque Modeling for Spherical Reluctance Motor Based on BPNN and Fourier Series, IEEE/ASME Transactions on Mechatronics, 2025, accepted. 
 
