@@ -592,55 +592,56 @@ T1. 电机故障诊断，苏州大学轨道交通学院，2016年。
 
 1.	IEEE Transactions on Industrial Electronics
 2.	IEEE Transactions on Industrial Informatics
-3.	IEEE Transactions on Power Electronics
-4.	IEEE Transactions on Circuits and Systems I: Regular Papers
-5.	IEEE/ASME Transactions on Mechatronics
-6.	IEEE Transactions on Reliability
-7.	IEEE Transactions on Instrumentation and Measurement
-8.	IEEE Transactions on Systems, Man and Cybernetics: Systems
-9.	IEEE Transactions on Industry Applications
-10.	IEEE Transactions on Neural Networks and Learning Systems
-11.	IEEE Transactions on Transportation Electrification
-12.	IEEE Journal of Emerging and Selected Topics in Power Electronics
-13.	IEEE Journal of Biomedical and Health Informatics
-14.	IEEE Internet of Things Journal
-15.	IEEE Systems Journal
-16.	IEEE Sensors Journal
-17.	IEEE Geoscience and Remote Sensing Letters
-18.	IET Signal Processing 
-19.	IET Science, Measurement & Technology
-20.	Mechanical Systems and Signal Processing, Elsevier 
-21.	Journal of Sound and Vibration, Elsevier
-22.	Expert Systems With Applications, Elsevier 
-23.	ISA Transactions, Elsevier
-24.	Information Fusion, Elsevier
-25.	Chaos, Solitons and Fractals, Elsevier 
-26.	Reliability Engineering and System Safety, Elsevier
-27.	Engineering Applications of Artificial Intelligence, Elsevier
-28.	Applied Acoustics, Elsevier
-29.	Engineering Failure Analysis, Elsevier
-30.	Computers & Electrical Engineering, Elsevier
-31.	Chinese Journal of Physics, Elsevier
-32.	Optics and Laser Technology, Elsevier
-33.	Measurement, Elsevier
-34.	Advanced Engineering Informatics, Elsevier
-35.	Sensors and Actuators: A. Physical, Elsevier
-36.	Physica A: Statistical Mechanics and its Applications, Elsevier
-37.	Internet of Things, Elsevier
-38.	Alexandria Engineering Journal, Elsevier
-39.	Applied Mathematical Modelling, Elsevier
-40.	Applied Soft Computing, Elsevier
-41.	IFAC Mechatronics, Elsevier
-42.	Structural Health Monitoring, Sage
-43.	Journal of Vibration and Control, Sage
-44.	PIME, Part C: Journal of Mechanical Engineering Science, Sage
-45.	PIME, Part F: Journal of Rail and Rapid Transit, Sage
-46.	International Journal of Advanced Manufacturing Technology, Springer
-47.	Journal of Mechanical Science and Technology, Springer
-48.	Journal of Intelligent Manufacturing, Springer
-49.	Journal of Vibration Engineering & Technologies, Springer
-50.	Measurement Science and Technology, IoP
-51.	Energy Science & Engineering, Wiley
-52.	Journal of Food Process Engineering, Wiley
-53.	CSEE Journal of Power and Energy Systems
-54.	Research, a Science Partner Journal
+3.	IEEE Transactions on Automation Science and Engineering
+4.	IEEE Transactions on Power Electronics
+5.	IEEE Transactions on Circuits and Systems I: Regular Papers
+6.	IEEE/ASME Transactions on Mechatronics
+7.	IEEE Transactions on Reliability
+8.	IEEE Transactions on Instrumentation and Measurement
+9.	IEEE Transactions on Systems, Man and Cybernetics: Systems
+10.	IEEE Transactions on Industry Applications
+11.	IEEE Transactions on Neural Networks and Learning Systems
+12.	IEEE Transactions on Transportation Electrification
+13.	IEEE Journal of Emerging and Selected Topics in Power Electronics
+14.	IEEE Journal of Biomedical and Health Informatics
+15.	IEEE Internet of Things Journal
+16.	IEEE Systems Journal
+17.	IEEE Sensors Journal
+18.	IEEE Geoscience and Remote Sensing Letters
+19.	IET Signal Processing 
+20.	IET Science, Measurement & Technology
+21.	Mechanical Systems and Signal Processing, Elsevier 
+22.	Journal of Sound and Vibration, Elsevier
+23.	Expert Systems With Applications, Elsevier 
+24.	ISA Transactions, Elsevier
+25.	Information Fusion, Elsevier
+26.	Chaos, Solitons and Fractals, Elsevier 
+27.	Reliability Engineering and System Safety, Elsevier
+28.	Engineering Applications of Artificial Intelligence, Elsevier
+29.	Applied Acoustics, Elsevier
+30.	Engineering Failure Analysis, Elsevier
+31.	Computers & Electrical Engineering, Elsevier
+32.	Chinese Journal of Physics, Elsevier
+33.	Optics and Laser Technology, Elsevier
+34.	Measurement, Elsevier
+35.	Advanced Engineering Informatics, Elsevier
+36.	Sensors and Actuators: A. Physical, Elsevier
+37.	Physica A: Statistical Mechanics and its Applications, Elsevier
+38.	Internet of Things, Elsevier
+39.	Alexandria Engineering Journal, Elsevier
+40.	Applied Mathematical Modelling, Elsevier
+41.	Applied Soft Computing, Elsevier
+42.	IFAC Mechatronics, Elsevier
+43.	Structural Health Monitoring, Sage
+44.	Journal of Vibration and Control, Sage
+45.	PIME, Part C: Journal of Mechanical Engineering Science, Sage
+46.	PIME, Part F: Journal of Rail and Rapid Transit, Sage
+47.	International Journal of Advanced Manufacturing Technology, Springer
+48.	Journal of Mechanical Science and Technology, Springer
+49.	Journal of Intelligent Manufacturing, Springer
+50.	Journal of Vibration Engineering & Technologies, Springer
+51.	Measurement Science and Technology, IoP
+52.	Energy Science & Engineering, Wiley
+53.	Journal of Food Process Engineering, Wiley
+54.	CSEE Journal of Power and Energy Systems
+55.	Research, a Science Partner Journal
