@@ -144,11 +144,13 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2026:
 
-J109. Changbo He, Zengyang Fu, Peng Chen, Xuefang Xu, Alessandro Paolo Daga, Siliang Lu#, A confident cross-domain mixup–based network with dynamic label-distribution-aware margin regularization for bearing fault diagnosis under variable working conditions, Engineering Applications of Artificial Intelligence, 2026, Vol. 163, pp: 112964.
+J110. Changbo He, Zengyang Fu, Peng Chen, Xuefang Xu, Alessandro Paolo Daga, Siliang Lu#, A confident cross-domain mixup–based network with dynamic label-distribution-aware margin regularization for bearing fault diagnosis under variable working conditions, Engineering Applications of Artificial Intelligence, 2026, Vol. 163, pp: 112964.
 
-J108. Huanying Kan, Changquan Li, Bin Ju, Xiao Zheng, Wenjie Xue, Chao Tian, Weiwei Shao, Siliang Lu, Yongbin Liu. Design and analysis of micro-scale ultrasonic transducers with active-backing structures, Sensors and Actuators A: Physical, 2026, Vol. 399, pp: 117373.
+J109. Huanying Kan, Changquan Li, Bin Ju, Xiao Zheng, Wenjie Xue, Chao Tian, Weiwei Shao, Siliang Lu, Yongbin Liu. Design and analysis of micro-scale ultrasonic transducers with active-backing structures, Sensors and Actuators A: Physical, 2026, Vol. 399, pp: 117373.
 
 2025:
+
+J108. Juncai Song, Jiyu Cao, Jiwen Zhao, Lijun Wang, Buyun Liu, Xiaoxian Wang, Zhiyong Hu, Siliang Lu#, Air-Gap Asymmetry Fault Diagnosis of PMSLM Based on External Magnetic Field Data and Few-Shot Learning Framework, IEEE/ASME Transactions on Mechatronics, 2025, accepted.
 
 J107. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Yongbin Liu, Siliang Lu, and Shihao Gao, Accurate Torque Modeling for Spherical Reluctance Motor Based on BPNN and Fourier Series, IEEE/ASME Transactions on Mechatronics, 2025, accepted. 
 
