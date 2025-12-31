@@ -144,11 +144,13 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2026:
 
-J111. Changbo He, Zengyang Fu, Peng Chen, Xuefang Xu, Alessandro Paolo Daga, Siliang Lu#, A confident cross-domain mixup–based network with dynamic label-distribution-aware margin regularization for bearing fault diagnosis under variable working conditions, Engineering Applications of Artificial Intelligence, 2026, Vol. 163, pp: 112964.
+J112. Changbo He, Zengyang Fu, Peng Chen, Xuefang Xu, Alessandro Paolo Daga, Siliang Lu#, A confident cross-domain mixup–based network with dynamic label-distribution-aware margin regularization for bearing fault diagnosis under variable working conditions, Engineering Applications of Artificial Intelligence, 2026, Vol. 163, pp: 112964.
 
-J110. Huanying Kan, Changquan Li, Bin Ju, Xiao Zheng, Wenjie Xue, Chao Tian, Weiwei Shao, Siliang Lu, Yongbin Liu. Design and analysis of micro-scale ultrasonic transducers with active-backing structures, Sensors and Actuators A: Physical, 2026, Vol. 399, pp: 117373.
+J111. Huanying Kan, Changquan Li, Bin Ju, Xiao Zheng, Wenjie Xue, Chao Tian, Weiwei Shao, Siliang Lu, Yongbin Liu. Design and analysis of micro-scale ultrasonic transducers with active-backing structures, Sensors and Actuators A: Physical, 2026, Vol. 399, pp: 117373.
 
 2025:
+
+J110. Xiaoxian Wang, Benhao Yang, Anglong Li, Siliang Lu, Yu Zhang, Juncai Song, PMSM High-Resistance Connection Fault Diagnosis via Deep Feature Fusion of Multi-Sensor Signals, IEEE Sensors Journal, 2025, accepted.
 
 J109. Zhiyong Hu, Jiawei Xu, Haiyang Liang, Xiaoxian Wang, Juncai Song, Siliang Lu, Physics-embedded Neural Network for the Acquisition of High-resolution 2D Magnetic Fields, IEEE Transactions on Instrumentation and Measurement, 2025, accepted.
 
