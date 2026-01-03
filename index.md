@@ -160,9 +160,9 @@ J107. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Yongbin Liu, Siliang Lu, and Shih
 
 J106. Xianhong Wu, Xiaoxian Wang, Juncai Song, Zhiyong Hu, Fei Li, Siliang Lu, Demagnetization Fault Diagnosis of a Permanent Magnet Synchronous Linear Motor Based on Noisy-KAN on an Edge Computing System, IEEE Transactions on Transportation Electrification, 2025, accepted.
 
-J105. Yijun Ren, Ling Zheng, Junyan Zhu, Xiaoxian Wang, Juncai Song, Zhiyong Hu, Yu Zhang, Siliang Lu#, Motor Signal Processing and Fault Diagnosis Based on an Analog Circuit Inspired by a Machine Learning Algorithm, IEEE Transactions on Instrumentation and Measurement, 2025, accepted.
+J105. Linhao Peng, Fang Liu, Yongjian Sun, Siliang Lu, Yongbin Liu. Kurtosis-Based Spectral Index Guided Adaptive Speed Estimation for Bearing Fault Diagnosis Under Nonstationary Conditions, IEEE Transactions on Instrumentation and Measurement, 2025, accepted.
 
-J104. Linhao Peng, Fang Liu, Yongjian Sun, Siliang Lu, Yongbin Liu. Kurtosis-Based Spectral Index Guided Adaptive Speed Estimation for Bearing Fault Diagnosis Under Nonstationary Conditions, IEEE Transactions on Instrumentation and Measurement, 2025, accepted.
+J104. Yijun Ren, Ling Zheng, Junyan Zhu, Xiaoxian Wang, Juncai Song, Zhiyong Hu, Yu Zhang, Siliang Lu#, Motor Signal Processing and Fault Diagnosis Based on an Analog Circuit Inspired by a Machine Learning Algorithm, IEEE Transactions on Instrumentation and Measurement, 2025, Vol. 74, pp: 3571015.
 
 J103. Xianhong Wu, Xiaoxian Wang, Juncai Song, Zhiyong Hu, Jiawei Xu, Siliang Lu, Low-Power Analog Circuit-Based Physical Neural Networks for Motor Fault Diagnosis, Energy (Elsevier), 2025, Vol. 340: 139186.
 
