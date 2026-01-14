@@ -146,6 +146,8 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2026:
 
+J113. Zhiyong Hu, Zixian Wu, Xiaoxian Wang, Juncai Song, Siliang Lu#, SOH Estimation and Prediction of Lithium-ion Batteries Based on a Physically Constrained Hybrid Neural Network, Journal of Energy Storage, 2026, accepted.
+
 J112. Changbo He, Zengyang Fu, Peng Chen, Xuefang Xu, Alessandro Paolo Daga, Siliang Lu#, A confident cross-domain mixup–based network with dynamic label-distribution-aware margin regularization for bearing fault diagnosis under variable working conditions, Engineering Applications of Artificial Intelligence, 2026, Vol. 163, pp: 112964.
 
 J111. Huanying Kan, Changquan Li, Bin Ju, Xiao Zheng, Wenjie Xue, Chao Tian, Weiwei Shao, Siliang Lu, Yongbin Liu. Design and analysis of micro-scale ultrasonic transducers with active-backing structures, Sensors and Actuators A: Physical, 2026, Vol. 399, pp: 117373.
