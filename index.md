@@ -158,11 +158,11 @@ J111. Huanying Kan, Changquan Li, Bin Ju, Xiao Zheng, Wenjie Xue, Chao Tian, Wei
 
 J110. Xianhong Wu, Xiaoxian Wang, Juncai Song, Zhiyong Hu, Fei Li, Siliang Lu, Demagnetization Fault Diagnosis of a Permanent Magnet Synchronous Linear Motor Based on Noisy-KAN on an Edge Computing System, IEEE Transactions on Transportation Electrification, 2026, Vol. 12, Issue: 1, pp: 811 - 824.
 
+J109. Zhiyong Hu, Jiawei Xu, Haiyang Liang, Xiaoxian Wang, Juncai Song, Siliang Lu, Physics-embedded Neural Network for the Acquisition of High-resolution 2-D Magnetic Fields, IEEE Transactions on Instrumentation and Measurement, 2026, Vol. 75, pp: 6502511.
+
 2025:
 
-J109. Xiaoxian Wang, Benhao Yang, Anglong Li, Siliang Lu, Yu Zhang, Juncai Song, PMSM High-Resistance Connection Fault Diagnosis via Deep Feature Fusion of Multi-Sensor Signals, IEEE Sensors Journal, 2025, accepted.
-
-J108. Zhiyong Hu, Jiawei Xu, Haiyang Liang, Xiaoxian Wang, Juncai Song, Siliang Lu, Physics-embedded Neural Network for the Acquisition of High-resolution 2D Magnetic Fields, IEEE Transactions on Instrumentation and Measurement, 2025, accepted.
+J108. Xiaoxian Wang, Benhao Yang, Anglong Li, Siliang Lu, Yu Zhang, Juncai Song, PMSM High-Resistance Connection Fault Diagnosis via Deep Feature Fusion of Multi-Sensor Signals, IEEE Sensors Journal, 2025, accepted.
 
 J107. Juncai Song, Jiyu Cao, Jiwen Zhao, Lijun Wang, Buyun Liu, Xiaoxian Wang, Zhiyong Hu, Siliang Lu#, Air-Gap Asymmetry Fault Diagnosis of PMSLM Based on External Magnetic Field Data and Few-Shot Learning Framework, IEEE/ASME Transactions on Mechatronics, 2025, accepted.
 
