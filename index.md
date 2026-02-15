@@ -592,6 +592,8 @@ P1. 陆思良，周天昊，苏杰，张扬，一种冒泡排序算法演示装�
 
 ### 受邀学术报告
 
+T13. 物理神经网络，中国矿业大学机电工程学院，2026年1月。
+
 T12. DISTINGUISHED RESEARCH SEMINAR SERIES: Edge computing-enabled machine signal processing and fault diagnosis, Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University, Hong Kong SAR, Dec. 2025.
 
 T11. Edge computing-enabled machine signal processing and fault diagnosis, Department of Aeronautical and Automotive Engineering, Loughborough University, U.K., Aug. 2025.
