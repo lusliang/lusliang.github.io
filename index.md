@@ -164,11 +164,11 @@ J109. Zhiyong Hu, Jiawei Xu, Haiyang Liang, Xiaoxian Wang, Juncai Song, Siliang 
 
 J108. Xiaoxian Wang, Benhao Yang, Anglong Li, Siliang Lu, Yu Zhang, Juncai Song, PMSM High-Resistance Connection Fault Diagnosis via Deep Feature Fusion of Multi-Sensor Signals, IEEE Sensors Journal, 2026, Vol. 26(4): 6021-6032.
 
+J107. Juncai Song, Jiyu Cao, Jiwen Zhao, Lijun Wang, Buyun Liu, Xiaoxian Wang, Zhiyong Hu, Siliang Lu#, Air-Gap Asymmetry Fault Diagnosis of PMSLM Based on External Magnetic Field Data and Few-Shot Learning Framework, IEEE/ASME Transactions on Mechatronics, 2026, accepted.
+
+J106. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Yongbin Liu, Siliang Lu, and Shihao Gao, Accurate Torque Modeling for Spherical Reluctance Motor Based on BPNN and Fourier Series, IEEE/ASME Transactions on Mechatronics, 2026, Vol. 31, Issue 1, pp: 921-931. 
+
 2025:
-
-J107. Juncai Song, Jiyu Cao, Jiwen Zhao, Lijun Wang, Buyun Liu, Xiaoxian Wang, Zhiyong Hu, Siliang Lu#, Air-Gap Asymmetry Fault Diagnosis of PMSLM Based on External Magnetic Field Data and Few-Shot Learning Framework, IEEE/ASME Transactions on Mechatronics, 2025, accepted.
-
-J106. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Yongbin Liu, Siliang Lu, and Shihao Gao, Accurate Torque Modeling for Spherical Reluctance Motor Based on BPNN and Fourier Series, IEEE/ASME Transactions on Mechatronics, 2025, accepted. 
 
 J105. Linhao Peng, Fang Liu, Yongjian Sun, Siliang Lu, Yongbin Liu. Kurtosis-Based Spectral Index Guided Adaptive Speed Estimation for Bearing Fault Diagnosis Under Nonstationary Conditions, IEEE Transactions on Instrumentation and Measurement, 2025, Vol. 74, pp: 3569111.
 
