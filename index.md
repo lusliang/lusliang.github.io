@@ -166,7 +166,7 @@ J108. Xiaoxian Wang, Benhao Yang, Anglong Li, Siliang Lu, Yu Zhang, Juncai Song,
 
 J107. Juncai Song, Jiyu Cao, Jiwen Zhao, Lijun Wang, Buyun Liu, Xiaoxian Wang, Zhiyong Hu, Siliang Lu#, Air-Gap Asymmetry Fault Diagnosis of PMSLM Based on External Magnetic Field Data and Few-Shot Learning Framework, IEEE/ASME Transactions on Mechatronics, 2026, accepted.
 
-J106. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Yongbin Liu, Siliang Lu, and Shihao Gao, Accurate Torque Modeling for Spherical Reluctance Motor Based on BPNN and Fourier Series, IEEE/ASME Transactions on Mechatronics, 2026, Vol. 31, Issue 1, pp: 921-931. 
+J106. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Shihao Gao, Yongbin Liu, Siliang Lu, Accurate Torque Modeling for Spherical Reluctance Motor Based on BPNN and Fourier Series, IEEE/ASME Transactions on Mechatronics, 2026, Vol. 31, Issue 1, pp: 921-931. 
 
 2025:
 
