@@ -152,6 +152,8 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2026:
 
+J115. Changbo He, Zehua Fan, Lanyu Xiong, Siliang Lu, Zhixiong Li, Ming Fu, Zhibo Yang, A feature fusion model based on Convolutional Sparse Transformer with convolutional recurrent gated unit for remaining useful life prediction. Nondestructive Testing and Evaluation, 2026, accepted, https://doi.org/10.1080/10589759.2026.2635564.
+
 J114. Siliang Lu, Junyan Zhu, Ling Zheng, Juncai Song, Zhiyong Hu, Xiaoxian Wang, Dong Wang, Real-Time Classification and Fault Diagnosis of Machine Signals via a Novel Decision-Tree-Inspired Analog Circuit Classifier, Mechanical Systems and Signal Processing, 2026, Vol. 249, pp: 114074.
 
 J113. Zhiyong Hu, Zixian Wu, Xiaoxian Wang, Juncai Song, Siliang Lu#, SOH Estimation and Prediction of Lithium-ion Batteries Based on a Physically Constrained Hybrid Neural Network, Journal of Energy Storage, 2026, Vol. 151, pp: 120587.
