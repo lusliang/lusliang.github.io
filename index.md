@@ -152,6 +152,8 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2026:
 
+J116. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Shihao Gao, Yongbin Liu, Siliang Lu, Torque Calculation Error Compensation for Spherical Reluctance Motor Based on Dynamic Weighted PSO-GWO, IEEE Transactions on Energy Conversion, 2026, accepted.
+
 J115. Changbo He, Zehua Fan, Lanyu Xiong, Siliang Lu, Zhixiong Li, Ming Fu, Zhibo Yang, A feature fusion model based on Convolutional Sparse Transformer with convolutional recurrent gated unit for remaining useful life prediction. Nondestructive Testing and Evaluation, 2026, accepted, https://doi.org/10.1080/10589759.2026.2635564.
 
 J114. Siliang Lu, Junyan Zhu, Ling Zheng, Juncai Song, Zhiyong Hu, Xiaoxian Wang, Dong Wang, Real-Time Classification and Fault Diagnosis of Machine Signals via a Novel Decision-Tree-Inspired Analog Circuit Classifier, Mechanical Systems and Signal Processing, 2026, Vol. 249, pp: 114074.
