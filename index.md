@@ -152,6 +152,8 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2026:
 
+J117. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Yongbin Liu, Siliang Lu, Shihao Gao, Accurate Rotor Position Estimation for Spherical Reluctance Motor Based on Improved Segmentation Strategy, IEEE Transactions on Industrial Electronics, 2026, accepted.
+
 J116. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Shihao Gao, Yongbin Liu, Siliang Lu, Torque Calculation Error Compensation for Spherical Reluctance Motor Based on Dynamic Weighted PSO-GWO, IEEE Transactions on Energy Conversion, 2026, accepted.
 
 J115. Changbo He, Zehua Fan, Lanyu Xiong, Siliang Lu, Zhixiong Li, Ming Fu, Zhibo Yang, A feature fusion model based on Convolutional Sparse Transformer with convolutional recurrent gated unit for remaining useful life prediction. Nondestructive Testing and Evaluation, 2026, accepted, https://doi.org/10.1080/10589759.2026.2635564.
@@ -409,6 +411,8 @@ J1. Siliang Lu, Qingbo He, Haibin Zhang, Shangbin Zhang, Fanrang Kong. Note: Sig
 
 
 中文论文：
+
+J26. 胡智勇，陈文越，宋俊才，陆思良，王骁贤, 基于多尺度信息补全网络的高分辨率磁场数据快速采集方法研究，仪器仪表学报, 2026, 接收.
 
 J25. 吴振宇，屈先锋，王慧，刘永斌，陆思良, 基于电磁场特征蒸馏的无刷直流电机匝间短路智能辨识，仪器仪表学报,2025,46(10):107-119.
 
