@@ -152,6 +152,8 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2026:
 
+J118. Zhihong Chen, Songlin Li, Jun Zhu, Siliang Lu, Lei Mao, Haowei Wang, A degradation-enhanced physics-informed neural network for state of health estimation of lithium-ion batteries, Reliability Engineering & System Safety, 2026, pp: 112784.
+
 J117. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Yongbin Liu, Siliang Lu, Shihao Gao, Accurate Rotor Position Estimation for Spherical Reluctance Motor Based on Improved Segmentation Strategy, IEEE Transactions on Industrial Electronics, 2026, accepted.
 
 J116. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Shihao Gao, Yongbin Liu, Siliang Lu, Torque Calculation Error Compensation for Spherical Reluctance Motor Based on Dynamic Weighted PSO-GWO, IEEE Transactions on Energy Conversion, 2026, accepted.
