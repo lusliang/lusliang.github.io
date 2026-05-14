@@ -152,6 +152,8 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2026:
 
+J119. Juncai Song, Qianqian Jiang, Zhongyue He, Zijie Wen, Zhi Peng, Zhiyong Hu, Xiaoxian Wang, Siliang Lu, Power Quality Disturbance Recognition Based on Lightweight Deep Neural Network Deployed in Edge Computing System, IEEE Sensors Journal, 2026, accepted.
+
 J118. Zhihong Chen, Songlin Li, Jun Zhu, Siliang Lu, Lei Mao, Haowei Wang, A degradation-enhanced physics-informed neural network for state of health estimation of lithium-ion batteries, Reliability Engineering & System Safety, 2026, Vol. 275 (Part 2), pp: 112784.
 
 J117. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Yongbin Liu, Siliang Lu, Shihao Gao, Accurate Rotor Position Estimation for Spherical Reluctance Motor Based on Improved Segmentation Strategy, IEEE Transactions on Industrial Electronics, 2026, accepted.
