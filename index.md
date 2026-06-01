@@ -154,7 +154,7 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 J121. Zhenyu Wu, Fei Yao, Hui Wang, Yongbin Liu, Cungang Hu, Siliang Lu#, Interturn Short-Circuit Fault Diagnosis of A BLDC Hub Motor Via Graph Neural Networks with Multiscale Feature Distillation, IEEE Transactions on Energy Conversion, 2026, accepted.
 
-J120. Juncai Song, Qianqian Jiang, Jing Wu, Zhi Peng, Zhangling Duan, Linsheng Huang, Xiaoxian Wang, Siliang Lu, Power quality disturbances classification based on pattern image deep fusion on edge computing node, Measurement, 2026, accepted.
+J120. Juncai Song, Qianqian Jiang, Jing Wu, Zhi Peng, Zhangling Duan, Linsheng Huang, Xiaoxian Wang, Siliang Lu, Power quality disturbances classification based on pattern image deep fusion on edge computing node, Measurement, 2026, Vol. 282, pp: 122026.
 
 J119. Juncai Song, Qianqian Jiang, Zhongyue He, Zijie Wen, Zhi Peng, Zhiyong Hu, Xiaoxian Wang, Siliang Lu, Power Quality Disturbance Recognition Based on Lightweight Deep Neural Network Deployed in Edge Computing System, IEEE Sensors Journal, 2026, accepted.
 
