@@ -154,10 +154,10 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2026:
 
-J123. Juncai Song, Buyun Liu, Jiwen Zhao, Lijun Wang, Zhiyong Hu, Yu Zhang, Xiaoxian Wang, Siliang Lu, Edge Computing-Oriented Demagnetization Fault Diagnosis of PMSLM Using Multi-Scale Feature Fusion Network, IEEE/ASME Transactions on Mechatronics, 2026, accepted.
+J123. Juncai Song, Buyun Liu, Jiwen Zhao, Lijun Wang, Zhiyong Hu, Yu Zhang, Xiaoxian Wang, Siliang Lu, Edge Computing-Oriented Demagnetization Fault Diagnosis of PMSLM Using Multi-Scale Feature Fusion Network, IEEE/ASME Transactions on Mechatronics, 2026, accepted, DOI: 10.1109/TMECH.2026.3705010.
 
 J122. Siliang Lu, Xu Zhou, Jian Kong, Zhi Peng, Hairen Shi, Juncai Song, Motor Resolver Eccentricity Detection Based on
-Improved Lightweight Feature Fusion Model, IEEE Transactions on Reliability, 2026, accepted.
+Improved Lightweight Feature Fusion Model, IEEE Transactions on Reliability, 2026, accepted, DOI: 10.1109/TR.2026.3705073.
 
 J121. Zhenyu Wu, Fei Yao, Hui Wang, Yongbin Liu, Cungang Hu, Siliang Lu#, Interturn Short-Circuit Fault Diagnosis of A BLDC Hub Motor Via Graph Neural Networks with Multiscale Feature Distillation, IEEE Transactions on Energy Conversion, 2026, accepted.
 
