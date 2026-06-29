@@ -154,6 +154,8 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2026:
 
+J124. Zhangliang Xiong, Xiaoxian Wang, Zongze Qiu, Zhiyong Hu, Juncai Song, Haibin Zhang, Hairen Shi, Siliang Lu, Position optimization and signal feature fusion of a magnetic sensor array for noise reconstruction and elimination, IEEE Sensors Journal, 2026, accepted.
+
 J123. Juncai Song, Buyun Liu, Jiwen Zhao, Lijun Wang, Zhiyong Hu, Yu Zhang, Xiaoxian Wang, Siliang Lu, Edge Computing-Oriented Demagnetization Fault Diagnosis of PMSLM Using Multi-Scale Feature Fusion Network, IEEE/ASME Transactions on Mechatronics, 2026, accepted, DOI: 10.1109/TMECH.2026.3705010.
 
 J122. Siliang Lu, Xu Zhou, Jian Kong, Zhi Peng, Hairen Shi, Juncai Song, Motor Resolver Eccentricity Detection Based on
