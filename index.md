@@ -154,24 +154,24 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2026:
 
-J124. Zhangliang Xiong, Xiaoxian Wang, Zongze Qiu, Zhiyong Hu, Juncai Song, Haibin Zhang, Hairen Shi, Siliang Lu, Position optimization and signal feature fusion of a magnetic sensor array for noise reconstruction and elimination, IEEE Sensors Journal, 2026, accepted.
+J124. Zhangliang Xiong, Xiaoxian Wang, Zongze Qiu, Zhiyong Hu, Juncai Song, Haibin Zhang, Hairen Shi, Siliang Lu, Position optimization and signal feature fusion of a magnetic sensor array for noise reconstruction and elimination, IEEE Sensors Journal, 2026, accepted, DOI: 10.1109/JSEN.2026.3709118.
 
 J123. Juncai Song, Buyun Liu, Jiwen Zhao, Lijun Wang, Zhiyong Hu, Yu Zhang, Xiaoxian Wang, Siliang Lu, Edge Computing-Oriented Demagnetization Fault Diagnosis of PMSLM Using Multi-Scale Feature Fusion Network, IEEE/ASME Transactions on Mechatronics, 2026, accepted, DOI: 10.1109/TMECH.2026.3705010.
 
 J122. Siliang Lu, Xu Zhou, Jian Kong, Zhi Peng, Hairen Shi, Juncai Song, Motor Resolver Eccentricity Detection Based on
 Improved Lightweight Feature Fusion Model, IEEE Transactions on Reliability, 2026, accepted, DOI: 10.1109/TR.2026.3705073.
 
-J121. Zhenyu Wu, Fei Yao, Hui Wang, Yongbin Liu, Cungang Hu, Siliang Lu#, Interturn Short-Circuit Fault Diagnosis of A BLDC Hub Motor Via Graph Neural Networks with Multiscale Feature Distillation, IEEE Transactions on Energy Conversion, 2026, accepted.
+J121. Zhenyu Wu, Fei Yao, Hui Wang, Yongbin Liu, Cungang Hu, Siliang Lu#, Interturn Short-Circuit Fault Diagnosis of A BLDC Hub Motor Via Graph Neural Networks with Multiscale Feature Distillation, IEEE Transactions on Energy Conversion, 2026, accepted, DOI: 10.1109/TEC.2026.3698150.
 
 J120. Juncai Song, Qianqian Jiang, Jing Wu, Zhi Peng, Zhangling Duan, Linsheng Huang, Xiaoxian Wang, Siliang Lu, Power quality disturbances classification based on pattern image deep fusion on edge computing node, Measurement, 2026, Vol. 282, pp: 122026.
 
-J119. Juncai Song, Qianqian Jiang, Zhongyue He, Zijie Wen, Zhi Peng, Zhiyong Hu, Xiaoxian Wang, Siliang Lu, Power Quality Disturbance Recognition Based on Lightweight Deep Neural Network Deployed in Edge Computing System, IEEE Sensors Journal, 2026, accepted.
+J119. Juncai Song, Qianqian Jiang, Zhongyue He, Zijie Wen, Zhi Peng, Zhiyong Hu, Xiaoxian Wang, Siliang Lu, Power Quality Disturbance Recognition Based on Lightweight Deep Neural Network Deployed in Edge Computing System, IEEE Sensors Journal, 2026, accepted, DOI: 10.1109/JSEN.2026.3694913.
 
 J118. Zhihong Chen, Songlin Li, Jun Zhu, Siliang Lu, Lei Mao, Haowei Wang, A degradation-enhanced physics-informed neural network for state of health estimation of lithium-ion batteries, Reliability Engineering & System Safety, 2026, Vol. 275 (Part 2), pp: 112784.
 
-J117. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Yongbin Liu, Siliang Lu, Shihao Gao, Accurate Rotor Position Estimation for Spherical Reluctance Motor Based on Improved Segmentation Strategy, IEEE Transactions on Industrial Electronics, 2026, accepted.
+J117. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Yongbin Liu, Siliang Lu, Shihao Gao, Accurate Rotor Position Estimation for Spherical Reluctance Motor Based on Improved Segmentation Strategy, IEEE Transactions on Industrial Electronics, 2026, accepted, DOI: 10.1109/TIE.2026.3682373.
 
-J116. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Shihao Gao, Yongbin Liu, Siliang Lu, Torque Calculation Error Compensation for Spherical Reluctance Motor Based on Dynamic Weighted PSO-GWO, IEEE Transactions on Energy Conversion, 2026, accepted.
+J116. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Shihao Gao, Yongbin Liu, Siliang Lu, Torque Calculation Error Compensation for Spherical Reluctance Motor Based on Dynamic Weighted PSO-GWO, IEEE Transactions on Energy Conversion, 2026, accepted, DOI: 10.1109/TEC.2026.3677403.
 
 J115. Changbo He, Zehua Fan, Lanyu Xiong, Siliang Lu, Zhixiong Li, Ming Fu, Zhibo Yang, A feature fusion model based on Convolutional Sparse Transformer with convolutional recurrent gated unit for remaining useful life prediction. Nondestructive Testing and Evaluation, 2026, accepted, https://doi.org/10.1080/10589759.2026.2635564.
 
@@ -189,7 +189,7 @@ J109. Zhiyong Hu, Jiawei Xu, Haiyang Liang, Xiaoxian Wang, Juncai Song, Siliang 
 
 J108. Xiaoxian Wang, Benhao Yang, Anglong Li, Siliang Lu, Yu Zhang, Juncai Song, PMSM High-Resistance Connection Fault Diagnosis via Deep Feature Fusion of Multi-Sensor Signals, IEEE Sensors Journal, 2026, Vol. 26(4): 6021-6032.
 
-J107. Juncai Song, Jiyu Cao, Jiwen Zhao, Lijun Wang, Buyun Liu, Xiaoxian Wang, Zhiyong Hu, Siliang Lu#, Air-Gap Asymmetry Fault Diagnosis of PMSLM Based on External Magnetic Field Data and Few-Shot Learning Framework, IEEE/ASME Transactions on Mechatronics, 2026, accepted.
+J107. Juncai Song, Jiyu Cao, Jiwen Zhao, Lijun Wang, Buyun Liu, Xiaoxian Wang, Zhiyong Hu, Siliang Lu#, Air-Gap Asymmetry Fault Diagnosis of PMSLM Based on External Magnetic Field Data and Few-Shot Learning Framework, IEEE/ASME Transactions on Mechatronics, 2026, accepted, DOI: 10.1109/TMECH.2025.3649913.
 
 J106. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Shihao Gao, Yongbin Liu, Siliang Lu, Accurate Torque Modeling for Spherical Reluctance Motor Based on BPNN and Fourier Series, IEEE/ASME Transactions on Mechatronics, 2026, Vol. 31, Issue 1, pp: 921-931. 
 
