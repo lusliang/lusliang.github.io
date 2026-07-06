@@ -154,6 +154,8 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2026:
 
+J125. Xiaoxian Wang, Zongze Qiu, Zhangliang Xiong, JuncaiSong, Siliang Lu, Hairen Shi, Changbo He, Magnetic Noise Reconstruction and Signal Denoising via a Central-Satellite Sensor Array and Attention-Enhanced Conditional GAN, IEEE Transactions on Instrumentation and Measurement, 2026, accepted.
+
 J124. Zhangliang Xiong, Xiaoxian Wang, Zongze Qiu, Zhiyong Hu, Juncai Song, Haibin Zhang, Hairen Shi, Siliang Lu, Position optimization and signal feature fusion of a magnetic sensor array for noise reconstruction and elimination, IEEE Sensors Journal, 2026, accepted, DOI: 10.1109/JSEN.2026.3709118.
 
 J123. Juncai Song, Buyun Liu, Jiwen Zhao, Lijun Wang, Zhiyong Hu, Yu Zhang, Xiaoxian Wang, Siliang Lu, Edge Computing-Oriented Demagnetization Fault Diagnosis of PMSLM Using Multi-Scale Feature Fusion Network, IEEE/ASME Transactions on Mechatronics, 2026, accepted, DOI: 10.1109/TMECH.2026.3705010.
