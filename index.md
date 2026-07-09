@@ -160,8 +160,7 @@ J124. Zhangliang Xiong, Xiaoxian Wang, Zongze Qiu, Zhiyong Hu, Juncai Song, Haib
 
 J123. Juncai Song, Buyun Liu, Jiwen Zhao, Lijun Wang, Zhiyong Hu, Yu Zhang, Xiaoxian Wang, Siliang Lu, Edge Computing-Oriented Demagnetization Fault Diagnosis of PMSLM Using Multi-Scale Feature Fusion Network, IEEE/ASME Transactions on Mechatronics, 2026, accepted, DOI: 10.1109/TMECH.2026.3705010.
 
-J122. Siliang Lu, Xu Zhou, Jian Kong, Zhi Peng, Hairen Shi, Juncai Song, Motor Resolver Eccentricity Detection Based on
-Improved Lightweight Feature Fusion Model, IEEE Transactions on Reliability, 2026, accepted, DOI: 10.1109/TR.2026.3705073.
+J122. Siliang Lu, Xu Zhou, Jian Kong, Zhi Peng, Hairen Shi, Juncai Song, Motor Resolver Eccentricity Detection Based on Improved Lightweight Feature Fusion Model, IEEE Transactions on Reliability, 2026, Vol. 75, pp: 2432-2445.
 
 J121. Zhenyu Wu, Fei Yao, Hui Wang, Yongbin Liu, Cungang Hu, Siliang Lu#, Interturn Short-Circuit Fault Diagnosis of A BLDC Hub Motor Via Graph Neural Networks with Multiscale Feature Distillation, IEEE Transactions on Energy Conversion, 2026, accepted, DOI: 10.1109/TEC.2026.3698150.
 
@@ -191,7 +190,7 @@ J109. Zhiyong Hu, Jiawei Xu, Haiyang Liang, Xiaoxian Wang, Juncai Song, Siliang 
 
 J108. Xiaoxian Wang, Benhao Yang, Anglong Li, Siliang Lu, Yu Zhang, Juncai Song, PMSM High-Resistance Connection Fault Diagnosis via Deep Feature Fusion of Multi-Sensor Signals, IEEE Sensors Journal, 2026, Vol. 26(4): 6021-6032.
 
-J107. Juncai Song, Jiyu Cao, Jiwen Zhao, Lijun Wang, Buyun Liu, Xiaoxian Wang, Zhiyong Hu, Siliang Lu#, Air-Gap Asymmetry Fault Diagnosis of PMSLM Based on External Magnetic Field Data and Few-Shot Learning Framework, IEEE/ASME Transactions on Mechatronics, 2026, accepted, DOI: 10.1109/TMECH.2025.3649913.
+J107. Juncai Song, Jiyu Cao, Jiwen Zhao, Lijun Wang, Buyun Liu, Xiaoxian Wang, Zhiyong Hu, Siliang Lu#, Air-Gap Asymmetry Fault Diagnosis of PMSLM Based on External Magnetic Field Data and Few-Shot Learning Framework, IEEE/ASME Transactions on Mechatronics, 2026, Vol. 31, Issue 3, pp: 3665-3676.
 
 J106. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Shihao Gao, Yongbin Liu, Siliang Lu, Accurate Torque Modeling for Spherical Reluctance Motor Based on BPNN and Fourier Series, IEEE/ASME Transactions on Mechatronics, 2026, Vol. 31, Issue 1, pp: 921-931. 
 
