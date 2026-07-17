@@ -166,7 +166,7 @@ J121. Zhenyu Wu, Fei Yao, Hui Wang, Yongbin Liu, Cungang Hu, Siliang Lu#, Intert
 
 J120. Juncai Song, Qianqian Jiang, Jing Wu, Zhi Peng, Zhangling Duan, Linsheng Huang, Xiaoxian Wang, Siliang Lu, Power quality disturbances classification based on pattern image deep fusion on edge computing node, Measurement, 2026, Vol. 282, pp: 122026.
 
-J119. Juncai Song, Qianqian Jiang, Zhongyue He, Zijie Wen, Zhi Peng, Zhiyong Hu, Xiaoxian Wang, Siliang Lu, Power Quality Disturbance Recognition Based on Lightweight Deep Neural Network Deployed in Edge Computing System, IEEE Sensors Journal, 2026, accepted, DOI: 10.1109/JSEN.2026.3694913.
+J119. Juncai Song, Qianqian Jiang, Zhongyue He, Zijie Wen, Zhi Peng, Zhiyong Hu, Xiaoxian Wang, Siliang Lu, Power Quality Disturbance Recognition Based on Lightweight Deep Neural Network Deployed in Edge Computing System, IEEE Sensors Journal, 2026, Vol. 26, Issue: 14, pp: 21243 - 21253.
 
 J118. Zhihong Chen, Songlin Li, Jun Zhu, Siliang Lu, Lei Mao, Haowei Wang, A degradation-enhanced physics-informed neural network for state of health estimation of lithium-ion batteries, Reliability Engineering & System Safety, 2026, Vol. 275 (Part 2), pp: 112784.
 
