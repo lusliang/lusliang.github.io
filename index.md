@@ -154,7 +154,7 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 2026:
 
-J126. Hang Wang, Baoshuan Qiao, Xiaoxian Wang, Zhiyong Hu, Zhongping Zhai, Yongbin Liu, Siliang Lu, State of Health Estimation for Lithium-Ion Batteries Using Graph-Structured Micro-Voltage Segments, Journal of Energy Storage, 2026, accepted. 
+J126. Hang Wang, Baoshuan Qiao, Xiaoxian Wang, Zhiyong Hu, Zhongping Zhai, Yongbin Liu, Siliang Lu, State of health estimation for lithium-ion batteries using graph-structured micro-voltage segments, Journal of Energy Storage, 2026, Vol. 178, Part C, pp: 123797. 
 
 J125. Xiaoxian Wang, Zongze Qiu, Zhangliang Xiong, Juncai Song, Siliang Lu, Hairen Shi, Changbo He, Magnetic Noise Reconstruction and Signal Denoising via a Central-Satellite Sensor Array and Attention-Enhanced Conditional GAN, IEEE Transactions on Instrumentation and Measurement, 2026, accepted.
 
