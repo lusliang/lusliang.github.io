@@ -156,7 +156,7 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 J126. Hang Wang, Baoshuan Qiao, Xiaoxian Wang, Zhiyong Hu, Zhongping Zhai, Yongbin Liu, Siliang Lu, State of health estimation for lithium-ion batteries using graph-structured micro-voltage segments, Journal of Energy Storage, 2026, Vol. 178, Part C, pp: 123797. 
 
-J125. Xiaoxian Wang, Zongze Qiu, Zhangliang Xiong, Juncai Song, Siliang Lu, Hairen Shi, Changbo He, Magnetic Noise Reconstruction and Signal Denoising via a Central-Satellite Sensor Array and Attention-Enhanced Conditional GAN, IEEE Transactions on Instrumentation and Measurement, 2026, accepted.
+J125. Xiaoxian Wang, Zongze Qiu, Zhangliang Xiong, Juncai Song, Siliang Lu, Hairen Shi, Changbo He, Magnetic Noise Reconstruction and Signal Denoising via a Central-Satellite Sensor Array and Attention-Enhanced Conditional GAN, IEEE Transactions on Instrumentation and Measurement, 2026, accepted, DOI: 10.1109/TIM.2026.3716487.
 
 J124. Zhangliang Xiong, Xiaoxian Wang, Zongze Qiu, Zhiyong Hu, Juncai Song, Haibin Zhang, Hairen Shi, Siliang Lu, Position optimization and signal feature fusion of a magnetic sensor array for noise reconstruction and elimination, IEEE Sensors Journal, 2026, accepted, DOI: 10.1109/JSEN.2026.3709118.
 
