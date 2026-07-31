@@ -154,6 +154,8 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 Accepted: 
 
+Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Shihao Gao, Yongbin Liu, Siliang Lu, A Hybrid Modeling Approach for Multi-Coil Torque Prediction of Spherical Reluctance Motor, IEEE/ASME Transactions on Mechatronics, 2026, accepted.
+
 Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Yongbin Liu, Siliang Lu, Shihao Gao, Accurate Rotor Position Estimation for Spherical Reluctance Motor Based on Improved Segmentation Strategy, IEEE Transactions on Industrial Electronics, 2026, accepted, DOI: 10.1109/TIE.2026.3682373.
 
 Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Shihao Gao, Yongbin Liu, Siliang Lu, Torque Calculation Error Compensation for Spherical Reluctance Motor Based on Dynamic Weighted PSO-GWO, IEEE Transactions on Energy Conversion, 2026, accepted, DOI: 10.1109/TEC.2026.3677403.
