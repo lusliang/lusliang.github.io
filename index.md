@@ -170,9 +170,11 @@ Juncai Song, Buyun Liu, Jiwen Zhao, Lijun Wang, Zhiyong Hu, Yu Zhang, Xiaoxian W
 
 Zhenyu Wu, Fei Yao, Hui Wang, Yongbin Liu, Cungang Hu, Siliang Lu#, Interturn Short-Circuit Fault Diagnosis of A BLDC Hub Motor Via Graph Neural Networks with Multiscale Feature Distillation, IEEE Transactions on Energy Conversion, 2026, accepted, DOI: 10.1109/TEC.2026.3698150.
 
-Zhangliang Xiong, Xiaoxian Wang, Zongze Qiu, Zhiyong Hu, Juncai Song, Haibin Zhang, Hairen Shi, Siliang Lu, Position optimization and signal feature fusion of a magnetic sensor array for noise reconstruction and elimination, IEEE Sensors Journal, 2026, accepted, DOI: 10.1109/JSEN.2026.3709118.
+
 
 2026:
+
+J121. Zhangliang Xiong, Xiaoxian Wang, Zongze Qiu, Zhiyong Hu, Juncai Song, Haibin Zhang, Hairen Shi, Siliang Lu, Position optimization and signal feature fusion of a magnetic sensor array for noise reconstruction and elimination, IEEE Sensors Journal, 2026, Volume: 26, pp: 24550-24564.
 
 J120. Xiaoxian Wang, Zongze Qiu, Zhangliang Xiong, Juncai Song, Siliang Lu, Hairen Shi, Changbo He, Magnetic Noise Reconstruction and Signal Denoising via a Central-Satellite Sensor Array and Attention-Enhanced Conditional GAN, IEEE Transactions on Instrumentation and Measurement, 2026, Vol. 75, pp: 3520516.
 
