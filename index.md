@@ -154,8 +154,6 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 Accepted: 
 
-Yi Ji, Yongyuan Zhu, Siliang Lu, Lixia Yang, Xiang Ji, Alan Wee-Chung Liew, HGTFNet: A Hybrid Graph-enhanced Time-Frequency Network for Multivariate Short-Term Electric Load Forecasting, Knowledge-Based Systems, 2026, accepted. 
-
 Xianhong Wu, Xiaoxian Wang, Juncai Song, Zhenyu Wu, Zhongping Zhai, Siliang Lu#, Cloud–Edge Collaborative Motor Fault Diagnosis via Dimensionality-Reduced Signal Transmission and Chaotic Operator Enhancement, Chaos, Solitons and Fractals, 2026, accepted.
 
 Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Shihao Gao, Yongbin Liu, Siliang Lu, A Hybrid Modeling Approach for Multi-Coil Torque Prediction of Spherical Reluctance Motor, IEEE/ASME Transactions on Mechatronics, 2026, accepted.
@@ -173,6 +171,8 @@ Zhenyu Wu, Fei Yao, Hui Wang, Yongbin Liu, Cungang Hu, Siliang Lu#, Interturn Sh
 
 
 2026:
+
+J122. Yi Ji, Yongyuan Zhu, Siliang Lu, Lixia Yang, Xiang Ji, Alan Wee-Chung Liew, HGTFNet: A hybrid graph-enhanced time-frequency network for multivariate short-term electric load forecasting, Knowledge-Based Systems, 2026, Volume 351, Part C, pp: 116843.
 
 J121. Zhangliang Xiong, Xiaoxian Wang, Zongze Qiu, Zhiyong Hu, Juncai Song, Haibin Zhang, Hairen Shi, Siliang Lu, Position optimization and signal feature fusion of a magnetic sensor array for noise reconstruction and elimination, IEEE Sensors Journal, 2026, Volume: 26, pp: 24550-24564.
 
