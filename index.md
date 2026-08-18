@@ -156,7 +156,7 @@ Accepted:
 
 Xianhong Wu, Xiaoxian Wang, Juncai Song, Zhenyu Wu, Zhongping Zhai, Siliang Lu#, Cloud–Edge Collaborative Motor Fault Diagnosis via Dimensionality-Reduced Signal Transmission and Chaotic Operator Enhancement, Chaos, Solitons and Fractals, 2026, accepted.
 
-Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Shihao Gao, Yongbin Liu, Siliang Lu, A Hybrid Modeling Approach for Multi-Coil Torque Prediction of Spherical Reluctance Motor, IEEE/ASME Transactions on Mechatronics, 2026, accepted.
+Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Shihao Gao, Yongbin Liu, Siliang Lu, A Hybrid Modeling Approach for Multi-Coil Torque Prediction of Spherical Reluctance Motor, IEEE/ASME Transactions on Mechatronics, 2026, accepted, DOI: 10.1109/TMECH.2026.3720363.
 
 Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Yongbin Liu, Siliang Lu, Shihao Gao, Accurate Rotor Position Estimation for Spherical Reluctance Motor Based on Improved Segmentation Strategy, IEEE Transactions on Industrial Electronics, 2026, accepted, DOI: 10.1109/TIE.2026.3682373.
 
