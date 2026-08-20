@@ -168,7 +168,7 @@ Zhenyu Wu, Fei Yao, Hui Wang, Yongbin Liu, Cungang Hu, Siliang Lu#, Interturn Sh
 
 2026:
 
-J123. Xianhong Wu, Xiaoxian Wang, Juncai Song, Zhenyu Wu, Zhongping Zhai, Siliang Lu#, Cloud–Edge Collaborative Motor Fault Diagnosis via Dimensionality-Reduced Signal Transmission and Chaotic Operator Enhancement, Chaos, Solitons and Fractals, 2026, Volume 212, Part 2, 118955.
+J123. Xianhong Wu, Xiaoxian Wang, Juncai Song, Zhenyu Wu, Zhongping Zhai, Siliang Lu#, Cloud–Edge Collaborative Motor Fault Diagnosis via Dimensionality-Reduced Signal Transmission and Chaotic Operator Enhancement, Chaos, Solitons and Fractals, 2026, Volume 212, Part 2, pp: 118955.
 
 J122. Yi Ji, Yongyuan Zhu, Siliang Lu, Lixia Yang, Xiang Ji, Alan Wee-Chung Liew, HGTFNet: A hybrid graph-enhanced time-frequency network for multivariate short-term electric load forecasting, Knowledge-Based Systems, 2026, Volume 351, Part C, pp: 116843.
 
