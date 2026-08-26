@@ -158,8 +158,6 @@ Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Shihao Gao, Yongbin Liu, Siliang Lu, Hy
 
 Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Yongbin Liu, Siliang Lu, Shihao Gao, Accurate Rotor Position Estimation for Spherical Reluctance Motor Based on Improved Segmentation Strategy, IEEE Transactions on Industrial Electronics, 2026, accepted, DOI: 10.1109/TIE.2026.3682373.
 
-Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Shihao Gao, Yongbin Liu, Siliang Lu, Torque Calculation Error Compensation for Spherical Reluctance Motor Based on Dynamic Weighted PSO-GWO, IEEE Transactions on Energy Conversion, 2026, accepted, DOI: 10.1109/TEC.2026.3677403.
-
 Changbo He, Zehua Fan, Lanyu Xiong, Siliang Lu, Zhixiong Li, Ming Fu, Zhibo Yang, A feature fusion model based on Convolutional Sparse Transformer with convolutional recurrent gated unit for remaining useful life prediction. Nondestructive Testing and Evaluation, 2026, accepted, https://doi.org/10.1080/10589759.2026.2635564.
 
 Juncai Song, Buyun Liu, Jiwen Zhao, Lijun Wang, Zhiyong Hu, Yu Zhang, Xiaoxian Wang, Siliang Lu, Edge Computing-Oriented Demagnetization Fault Diagnosis of PMSLM Using Multi-Scale Feature Fusion Network, IEEE/ASME Transactions on Mechatronics, 2026, accepted, DOI: 10.1109/TMECH.2026.3705010.
@@ -167,6 +165,8 @@ Juncai Song, Buyun Liu, Jiwen Zhao, Lijun Wang, Zhiyong Hu, Yu Zhang, Xiaoxian W
 Zhenyu Wu, Fei Yao, Hui Wang, Yongbin Liu, Cungang Hu, Siliang Lu#, Interturn Short-Circuit Fault Diagnosis of A BLDC Hub Motor Via Graph Neural Networks with Multiscale Feature Distillation, IEEE Transactions on Energy Conversion, 2026, accepted, DOI: 10.1109/TEC.2026.3698150.
 
 2026:
+
+J124. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Shihao Gao, Yongbin Liu, Siliang Lu, Torque Calculation Error Compensation for Spherical Reluctance Motor Based on Dynamic Weighted PSO-GWO, IEEE Transactions on Energy Conversion, 2026, Volume: 41, Issue: 3, pp: 2558 - 2569.
 
 J123. Xianhong Wu, Xiaoxian Wang, Juncai Song, Zhenyu Wu, Zhongping Zhai, Siliang Lu#, Cloud–Edge Collaborative Motor Fault Diagnosis via Dimensionality-Reduced Signal Transmission and Chaotic Operator Enhancement, Chaos, Solitons and Fractals, 2026, Volume 212, Part 2, pp: 118955.
 
