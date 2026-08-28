@@ -154,7 +154,7 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 Accepted: 
 
-Zhenyu Wu, Chengzhen Meng, Hui Wang, Yongbin Liu, Siliang Lu#, A Hierarchical Differential Transfer Learning Network for BLDCM Fault Diagnosis Across Complex Conditions, IEEE Transactions on Transportation Electrification, 2026, accepted.
+Zhenyu Wu, Chengzhen Meng, Hui Wang, Yongbin Liu, Siliang Lu#, A Hierarchical Differential Transfer Learning Network for BLDCM Fault Diagnosis Across Complex Conditions, IEEE Transactions on Transportation Electrification, 2026, accepted, DOI: 10.1109/TTE.2026.3728894.
 
 Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Shihao Gao, Yongbin Liu, Siliang Lu, Hybrid Modeling Approach for Multicoil Torque Prediction of Spherical Reluctance Motor, IEEE/ASME Transactions on Mechatronics, 2026, accepted, DOI: 10.1109/TMECH.2026.3720363.
 
