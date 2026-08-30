@@ -654,17 +654,19 @@ P1. 陆思良，周天昊，苏杰，张扬，一种冒泡排序算法演示装�
 
 ### 受邀学术报告
 
-T15. 面向状态在线监测的电路实现模拟域物理神经网络，中国振动工程学会动态测试专业委员会2026年学术年会大会主题报告，2026年8月，江西·南昌。
+T16. 面向状态在线监测的电路实现模拟域物理神经网络，中国振动工程学会动态测试专业委员会2026年学术年会大会主题报告，2026年8月，江西·南昌。
 
-T14. 模拟电路实现物理神经网络，第17届全国转子动力学学术大会（ROTDYN2026）暨中国振动工程学会青年学者论坛（2026-1）大会特邀报告（优秀青年），2026年5月，广州。
+T15. 模拟电路实现物理神经网络，第17届全国转子动力学学术大会（ROTDYN2026）暨中国振动工程学会青年学者论坛（2026-1）大会特邀报告（优秀青年），2026年5月，广州。
 
-T13. 物理神经网络，中国矿业大学机电工程学院，2026年1月。
+T14. 物理神经网络，中国矿业大学机电工程学院，2026年1月。
 
-T12. DISTINGUISHED RESEARCH SEMINAR SERIES: Edge computing-enabled machine signal processing and fault diagnosis, Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University, Hong Kong SAR, Dec. 2025.
+T13. DISTINGUISHED RESEARCH SEMINAR SERIES: Edge computing-enabled machine signal processing and fault diagnosis, Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University, Hong Kong SAR, Dec. 2025.
 
-T11. Edge computing-enabled machine signal processing and fault diagnosis, Department of Aeronautical and Automotive Engineering, Loughborough University, U.K., Aug. 2025.
+T12. Edge computing-enabled machine signal processing and fault diagnosis, Department of Aeronautical and Automotive Engineering, Loughborough University, U.K., Aug. 2025.
 
-T10. 噪声增强效应及智能诊断应用，广西大学机械工程学院，2024年。
+T11. 噪声增强效应及智能诊断应用，广西大学机械工程学院，2024年。
+
+T10.中国振动工程学会动态测试专业委员会2024年学术年会主题邀请报告，噪声增强效应及应用，2024年8月，中国·上海。
 
 T9. 边缘智能驱动的设备状态实时监测与控制，南京信息工程大学自动化学院，2023年。
 
