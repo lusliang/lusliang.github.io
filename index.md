@@ -654,6 +654,10 @@ P1. 陆思良，周天昊，苏杰，张扬，一种冒泡排序算法演示装�
 
 ### 受邀学术报告
 
+T15. 面向状态在线监测的电路实现模拟域物理神经网络，中国振动工程学会动态测试专业委员会2026年学术年会大会主题报告，2026年8月，江西·南昌。
+
+T14. 模拟电路实现物理神经网络，第17届全国转子动力学学术大会（ROTDYN2026）暨中国振动工程学会青年学者论坛（2026-1）大会特邀报告（优秀青年），2026年5月，广州。
+
 T13. 物理神经网络，中国矿业大学机电工程学院，2026年1月。
 
 T12. DISTINGUISHED RESEARCH SEMINAR SERIES: Edge computing-enabled machine signal processing and fault diagnosis, Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University, Hong Kong SAR, Dec. 2025.
