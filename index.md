@@ -582,6 +582,8 @@ P1. 陆思良，周天昊，苏杰，张扬，一种冒泡排序算法演示装�
 
 2024年获安徽省大学生创新大赛（2024)总决赛中省赛银奖（指导教师）
 
+2024年中国国际大学生创新大赛荣获铜奖（团队老师指导）
+
 2023年获Outstanding Associate Editor for IEEE Transactions on Instrumentation and Measurement
 
 2023年指导“基于准直驱直流无刷电机的机器人五杆腿的构建和控制（胡江涛）”获安徽省机器人学会优秀本科毕业论文。
