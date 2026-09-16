@@ -156,6 +156,8 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 Accepted: 
 
+Juncai Song, Yuting Wang, Xiaoxian Wang, Cungang Hu, Qiujie Wu, Siliang Lu#, Three-Phase Power Quality Disturbance Localization and Identification Based on Phase-Aware Multi-Modal Network, Measurement, 2026, accepted.
+
 Zhi Peng, Juncai Song, Xiaoxian Wang, Zhiyong Hu, Hairen Shi, Yong Gui, Siliang Lu, Complex Power Quality Disturbance Detection Across Edge and High-Performance Platforms via Embedded Feature Coding and Feature Fusion, IEEE Transactions on Instrumentation and Measurement, 2026, accepted.
 
 Maokang Zheng, Hao Yan, Xinrui Guo, Changbo He, Ming Fu, Siliang Lu, WO-AMNAD：A novel angular deconvolution approach for bearing fault identification under time-varying speed conditions, IEEE Transactions on Instrumentation and Measurement, 2026, accepted.
