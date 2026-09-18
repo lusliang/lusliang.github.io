@@ -168,7 +168,7 @@ Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Yongbin Liu, Siliang Lu, Shihao Gao, Ac
 
 Changbo He, Zehua Fan, Lanyu Xiong, Siliang Lu, Zhixiong Li, Ming Fu, Zhibo Yang, A feature fusion model based on Convolutional Sparse Transformer with convolutional recurrent gated unit for remaining useful life prediction. Nondestructive Testing and Evaluation, 2026, accepted, https://doi.org/10.1080/10589759.2026.2635564.
 
-Juncai Song, Buyun Liu, Jiwen Zhao, Lijun Wang, Zhiyong Hu, Yu Zhang, Xiaoxian Wang, Siliang Lu, Edge Computing-Oriented Demagnetization Fault Diagnosis of PMSLM Using Multi-Scale Feature Fusion Network, IEEE/ASME Transactions on Mechatronics, 2026, accepted, DOI: 10.1109/TMECH.2026.3705010.
+Juncai Song, Buyun Liu, Jiwen Zhao, Lijun Wang, Zhiyong Hu, Yu Zhang, Xiaoxian Wang#, Siliang Lu, Edge Computing-Oriented Demagnetization Fault Diagnosis of PMSLM Using Multi-Scale Feature Fusion Network, IEEE/ASME Transactions on Mechatronics, 2026, accepted, DOI: 10.1109/TMECH.2026.3705010.
 
 Zhenyu Wu, Fei Yao, Hui Wang, Yongbin Liu, Cungang Hu, Siliang Lu#, Interturn Short-Circuit Fault Diagnosis of A BLDC Hub Motor Via Graph Neural Networks with Multiscale Feature Distillation, IEEE Transactions on Energy Conversion, 2026, accepted, DOI: 10.1109/TEC.2026.3698150.
 
@@ -182,7 +182,7 @@ J123. Xianhong Wu, Xiaoxian Wang, Juncai Song, Zhenyu Wu, Zhongping Zhai, Silian
 
 J122. Yi Ji, Yongyuan Zhu, Siliang Lu, Lixia Yang, Xiang Ji, Alan Wee-Chung Liew, HGTFNet: A hybrid graph-enhanced time-frequency network for multivariate short-term electric load forecasting, Knowledge-Based Systems, 2026, Volume 351, Part C, pp: 116843.
 
-J121. Zhangliang Xiong, Xiaoxian Wang, Zongze Qiu, Zhiyong Hu, Juncai Song, Haibin Zhang, Hairen Shi, Siliang Lu, Position optimization and signal feature fusion of a magnetic sensor array for noise reconstruction and elimination, IEEE Sensors Journal, 2026, Volume: 26, pp: 24550-24564.
+J121. Zhangliang Xiong, Xiaoxian Wang#, Zongze Qiu, Zhiyong Hu, Juncai Song, Haibin Zhang, Hairen Shi, Siliang Lu, Position optimization and signal feature fusion of a magnetic sensor array for noise reconstruction and elimination, IEEE Sensors Journal, 2026, Volume: 26, pp: 24550-24564.
 
 J120. Xiaoxian Wang, Zongze Qiu, Zhangliang Xiong, Juncai Song, Siliang Lu, Hairen Shi, Changbo He, Magnetic Noise Reconstruction and Signal Denoising via a Central-Satellite Sensor Array and Attention-Enhanced Conditional GAN, IEEE Transactions on Instrumentation and Measurement, 2026, Vol. 75, pp: 3520516.
 
@@ -192,11 +192,11 @@ J118. Siliang Lu, Xu Zhou, Jian Kong, Zhi Peng, Hairen Shi, Juncai Song, Motor R
 
 J117. Juncai Song, Qianqian Jiang, Jing Wu, Zhi Peng, Zhangling Duan, Linsheng Huang, Xiaoxian Wang, Siliang Lu, Power quality disturbances classification based on pattern image deep fusion on edge computing node, Measurement, 2026, Vol. 282, pp: 122026.
 
-J116. Juncai Song, Qianqian Jiang, Zhongyue He, Zijie Wen, Zhi Peng, Zhiyong Hu, Xiaoxian Wang, Siliang Lu, Power Quality Disturbance Recognition Based on Lightweight Deep Neural Network Deployed in Edge Computing System, IEEE Sensors Journal, 2026, Vol. 26, Issue: 14, pp: 21243 - 21253.
+J116. Juncai Song, Qianqian Jiang, Zhongyue He, Zijie Wen, Zhi Peng, Zhiyong Hu, Xiaoxian Wang#, Siliang Lu, Power Quality Disturbance Recognition Based on Lightweight Deep Neural Network Deployed in Edge Computing System, IEEE Sensors Journal, 2026, Vol. 26, Issue: 14, pp: 21243 - 21253.
 
 J115. Zhihong Chen, Songlin Li, Jun Zhu, Siliang Lu, Lei Mao, Haowei Wang, A degradation-enhanced physics-informed neural network for state of health estimation of lithium-ion batteries, Reliability Engineering & System Safety, 2026, Vol. 275 (Part 2), pp: 112784.
 
-J114. Siliang Lu, Junyan Zhu, Ling Zheng, Juncai Song, Zhiyong Hu, Xiaoxian Wang, Dong Wang, Real-Time Classification and Fault Diagnosis of Machine Signals via a Novel Decision-Tree-Inspired Analog Circuit Classifier, Mechanical Systems and Signal Processing, 2026, Vol. 249, pp: 114074.
+J114. Siliang Lu, Junyan Zhu, Ling Zheng, Juncai Song, Zhiyong Hu, Xiaoxian Wang#, Dong Wang, Real-Time Classification and Fault Diagnosis of Machine Signals via a Novel Decision-Tree-Inspired Analog Circuit Classifier, Mechanical Systems and Signal Processing, 2026, Vol. 249, pp: 114074.
 
 J113. Zhiyong Hu, Zixian Wu, Xiaoxian Wang, Juncai Song, Siliang Lu#, SOH Estimation and Prediction of Lithium-ion Batteries Based on a Physically Constrained Hybrid Neural Network, Journal of Energy Storage, 2026, Vol. 151, pp: 120587.
 
@@ -204,9 +204,9 @@ J112. Changbo He, Zengyang Fu, Peng Chen, Xuefang Xu, Alessandro Paolo Daga, Sil
 
 J111. Huanying Kan, Changquan Li, Bin Ju, Xiao Zheng, Wenjie Xue, Chao Tian, Weiwei Shao, Siliang Lu, Yongbin Liu. Design and analysis of micro-scale ultrasonic transducers with active-backing structures, Sensors and Actuators A: Physical, 2026, Vol. 399, pp: 117373.
 
-J110. Xianhong Wu, Xiaoxian Wang, Juncai Song, Zhiyong Hu, Fei Li, Siliang Lu, Demagnetization Fault Diagnosis of a Permanent Magnet Synchronous Linear Motor Based on Noisy-KAN on an Edge Computing System, IEEE Transactions on Transportation Electrification, 2026, Vol. 12, Issue: 1, pp: 811 - 824.
+J110. Xianhong Wu, Xiaoxian Wang#, Juncai Song, Zhiyong Hu, Fei Li, Siliang Lu, Demagnetization Fault Diagnosis of a Permanent Magnet Synchronous Linear Motor Based on Noisy-KAN on an Edge Computing System, IEEE Transactions on Transportation Electrification, 2026, Vol. 12, Issue: 1, pp: 811 - 824.
 
-J109. Zhiyong Hu, Jiawei Xu, Haiyang Liang, Xiaoxian Wang, Juncai Song, Siliang Lu, Physics-embedded Neural Network for the Acquisition of High-resolution 2-D Magnetic Fields, IEEE Transactions on Instrumentation and Measurement, 2026, Vol. 75, pp: 6502511.
+J109. Zhiyong Hu, Jiawei Xu, Haiyang Liang, Xiaoxian Wang#, Juncai Song, Siliang Lu, Physics-embedded Neural Network for the Acquisition of High-resolution 2-D Magnetic Fields, IEEE Transactions on Instrumentation and Measurement, 2026, Vol. 75, pp: 6502511.
 
 J108. Xiaoxian Wang, Benhao Yang, Anglong Li, Siliang Lu, Yu Zhang, Juncai Song, PMSM High-Resistance Connection Fault Diagnosis via Deep Feature Fusion of Multi-Sensor Signals, IEEE Sensors Journal, 2026, Vol. 26(4): 6021-6032.
 
@@ -220,17 +220,17 @@ J105. Linhao Peng, Fang Liu, Yongjian Sun, Siliang Lu, Yongbin Liu. Kurtosis-Bas
 
 J104. Yijun Ren, Ling Zheng, Junyan Zhu, Xiaoxian Wang, Juncai Song, Zhiyong Hu, Yu Zhang, Siliang Lu#, Motor Signal Processing and Fault Diagnosis Based on an Analog Circuit Inspired by a Machine Learning Algorithm, IEEE Transactions on Instrumentation and Measurement, 2025, Vol. 74, pp: 3571015.
 
-J103. Xianhong Wu, Xiaoxian Wang, Juncai Song, Zhiyong Hu, Jiawei Xu, Siliang Lu, Low-Power Analog Circuit-Based Physical Neural Networks for Motor Fault Diagnosis, Energy (Elsevier), 2025, Vol. 340: 139186.
+J103. Xianhong Wu, Xiaoxian Wang#, Juncai Song, Zhiyong Hu, Jiawei Xu, Siliang Lu, Low-Power Analog Circuit-Based Physical Neural Networks for Motor Fault Diagnosis, Energy (Elsevier), 2025, Vol. 340: 139186.
 
 J102. Wenxiang Cao, Zhi Peng, Kun Yu, Siliang Lu, Lei Mao, Brushless DC Motor Fault Diagnosis on the Basis of Complementary Fusion of Multiple-Channel Signals, IEEE Sensors Journal, 2025, Vol. 25, pp: 43051-43061.
 
-J101. Juncai Song, Yuting Wang, Yuan Gao, Hong Ye, Dengzhou Fang, Xiaoxian Wang, Zhiyong Hu, Siliang Lu, Power Quality Disturbances Recognition Via Lightweight Deep Learning Framework Integrated with Time–Frequency Analysis Embedded, IEEE Transactions on Instrumentation and Measurement, 2025, Vol. 74, pp: 3560914.
+J101. Juncai Song, Yuting Wang, Yuan Gao, Hong Ye, Dengzhou Fang, Xiaoxian Wang#, Zhiyong Hu, Siliang Lu, Power Quality Disturbances Recognition Via Lightweight Deep Learning Framework Integrated with Time–Frequency Analysis Embedded, IEEE Transactions on Instrumentation and Measurement, 2025, Vol. 74, pp: 3560914.
 
 J100. Ziheng Xu, Siliang Lu, Yanmei Kang, Jun Jiang, Intelligent fault classification exploration inspired by suprathreshold stochastic resonance, IEEE Transactions on Instrumentation and Measurement, 2025, Vol. 74, pp: 3554615.
 
 J99. Zhiyong Hu, Haiyang Liang, Jiawei Xu, Juncai Song, Xiaoxian Wang, Siliang Lu, Network-assisted Super-resolution Imaging of Magnetic Fields Under Noisy Conditions, IEEE Sensors Journal, 2025, Vol. 25(17): 33620-33632.
 
-J98. Juncai Song, Fei Li, Jiwen Zhao, Lijun Wang, Buyun Liu, Xiaoxian Wang, Siliang Lu, PMSLM Demagnetization Fault Detection Based on Multi-Sensor Signal Fusion and Enhanced Graph Neural Network, IEEE Transactions on Transportation Electrification, 2025, Vol. 11(5), pp: 12428-12440.
+J98. Juncai Song, Fei Li, Jiwen Zhao, Lijun Wang, Buyun Liu, Xiaoxian Wang#, Siliang Lu, PMSLM Demagnetization Fault Detection Based on Multi-Sensor Signal Fusion and Enhanced Graph Neural Network, IEEE Transactions on Transportation Electrification, 2025, Vol. 11(5), pp: 12428-12440.
 
 J97. Yi Ji, Yongyuan Zhu, Siliang Lu, Lixia Yang, Alan Wee-Chung Liew, WTC-iPST: A deep learning framework for short-term electric load forecasting with multi-scale feature extraction, Knowledge-Based Systems, 2025, Vol. 324, pp: 113907.
 
