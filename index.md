@@ -156,7 +156,7 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 Accepted: 
 
-Siliang Lu, Mengxuan Tang, Juncai Song, Xiaoxian Wang, Zhiyong Hu, Zhi Peng, Lijun Wang, A Lightweight Model Based on Time-Frequency Enhancement and Multi-Sensor Fusion for Motor Fault Diagnosis, IEEE Sensors Journal, 2026, accepted.
+Siliang Lu, Mengxuan Tang, Juncai Song, Xiaoxian Wang, Zhiyong Hu, Zhi Peng, Lijun Wang, A Lightweight Model Based on Time-Frequency Enhancement and Multi-Sensor Fusion for Motor Fault Diagnosis, IEEE Sensors Journal, 2026, accepted, DOI: 10.1109/JSEN.2026.3736558.
 
 Zhi Peng, Juncai Song, Xiaoxian Wang, Zhiyong Hu, Hairen Shi, Yong Gui, Siliang Lu, Complex Power Quality Disturbance Detection Across Edge and High-Performance Platforms via Embedded Feature Coding and Feature Fusion, IEEE Transactions on Instrumentation and Measurement, 2026, accepted.
 
