@@ -158,8 +158,6 @@ Accepted:
 
 Siliang Lu, Mengxuan Tang, Juncai Song, Xiaoxian Wang, Zhiyong Hu, Zhi Peng, Lijun Wang, A Lightweight Model Based on Time-Frequency Enhancement and Multi-Sensor Fusion for Motor Fault Diagnosis, IEEE Sensors Journal, 2026, accepted.
 
-Juncai Song, Yuting Wang, Xiaoxian Wang, Cungang Hu, Qiujie Wu, Siliang Lu#, Three-Phase Power Quality Disturbance Localization and Identification Based on Phase-Aware Multi-Modal Network, Measurement, 2026, accepted.
-
 Zhi Peng, Juncai Song, Xiaoxian Wang, Zhiyong Hu, Hairen Shi, Yong Gui, Siliang Lu, Complex Power Quality Disturbance Detection Across Edge and High-Performance Platforms via Embedded Feature Coding and Feature Fusion, IEEE Transactions on Instrumentation and Measurement, 2026, accepted.
 
 Maokang Zheng, Hao Yan, Xinrui Guo, Changbo He, Ming Fu, Siliang Lu, WO-AMNAD：A novel angular deconvolution approach for bearing fault identification under time-varying speed conditions, IEEE Transactions on Instrumentation and Measurement, 2026, accepted.
@@ -175,6 +173,8 @@ Juncai Song, Buyun Liu, Jiwen Zhao, Lijun Wang, Zhiyong Hu, Yu Zhang, Xiaoxian W
 Zhenyu Wu, Fei Yao, Hui Wang, Yongbin Liu, Cungang Hu, Siliang Lu#, Interturn Short-Circuit Fault Diagnosis of A BLDC Hub Motor Via Graph Neural Networks with Multiscale Feature Distillation, IEEE Transactions on Energy Conversion, 2026, accepted, DOI: 10.1109/TEC.2026.3698150.
 
 2026:
+
+J126. Juncai Song, Yuting Wang, Xiaoxian Wang, Cungang Hu, Qiujie Wu, Siliang Lu#, Three-Phase Power Quality Disturbance Localization and Identification Based on Phase-Aware Multi-Modal Network, Measurement, 2026, Vol. 292, Part A, pp: 123223.
 
 J125. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Shihao Gao, Yongbin Liu, Siliang Lu, A Hybrid Modeling Approach for Multicoil Torque Prediction of Spherical Reluctance Motor, IEEE/ASME Transactions on Mechatronics, 2026, Volume: 31, Issue: 4, pp: 4319 - 4330.
 
