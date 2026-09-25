@@ -160,7 +160,7 @@ Siliang Lu, Mengxuan Tang, Juncai Song, Xiaoxian Wang, Zhiyong Hu, Zhi Peng, Lij
 
 Zhi Peng, Juncai Song, Xiaoxian Wang, Zhiyong Hu, Hairen Shi, Yong Gui, Siliang Lu, Complex Power Quality Disturbance Detection Across Edge and High-Performance Platforms via Embedded Feature Coding and Feature Fusion, IEEE Transactions on Instrumentation and Measurement, 2026, accepted.
 
-Maokang Zheng, Hao Yan, Xinrui Guo, Changbo He, Ming Fu, Siliang Lu, WO-AMNAD：A novel angular deconvolution approach for bearing fault identification under time-varying speed conditions, IEEE Transactions on Instrumentation and Measurement, 2026, accepted.
+Maokang Zheng, Hao Yan, Xinrui Guo, Changbo He, Ming Fu, Siliang Lu, WO-AMNAD：A novel angular deconvolution approach for bearing fault identification under time-varying speed conditions, IEEE Transactions on Instrumentation and Measurement, 2026, accepted, DOI: 10.1109/TIM.2026.3738220.
 
 Zhenyu Wu, Chengzhen Meng, Hui Wang, Yongbin Liu, Siliang Lu#, A Hierarchical Differential Transfer Learning Network for BLDCM Fault Diagnosis Across Complex Conditions, IEEE Transactions on Transportation Electrification, 2026, accepted, DOI: 10.1109/TTE.2026.3728894.
 
