@@ -144,6 +144,8 @@ Pr1. 基于机器视觉技术的算法演示机器人系统设计，大学生创
 
 ### Published Book
 
+机械工程实训教程（安徽省一流课程教材，安徽省高等学校省级质量工程项目（教材建设）），主编：谢峰，副主编：陆思良，杨琦，王龙，廖磊，合肥：安徽大学出版社，2026.5，ISBN：978-7-5664-3218-6
+
 Advanced Sensors and Sensing Technologies for Electric Vehicles, Edited by Wenping Cao and Siliang Lu, AIP Publishing LLC, Melville, New York, ISBN: 978-0-7354-2519-4 (Online), 2022.
 
 Also contribute to 2 chapters:
