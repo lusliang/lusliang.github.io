@@ -162,7 +162,7 @@ Zhi Peng, Juncai Song, Zhiyong Hu, Zhongping Zhai, Siliang Lu, Xiaoxian Wang, MS
 
 Siliang Lu, Mengxuan Tang, Juncai Song, Xiaoxian Wang, Zhiyong Hu, Zhi Peng, Lijun Wang, A Lightweight Model Based on Time-Frequency Enhancement and Multi-Sensor Fusion for Motor Fault Diagnosis, IEEE Sensors Journal, 2026, accepted, DOI: 10.1109/JSEN.2026.3736558.
 
-Zhi Peng, Juncai Song, Xiaoxian Wang, Zhiyong Hu, Hairen Shi, Yong Gui, Siliang Lu, Complex Power Quality Disturbance Detection Across Edge and High-Performance Platforms via Embedded Feature Coding and Feature Fusion, IEEE Transactions on Instrumentation and Measurement, 2026, accepted.
+Zhi Peng, Juncai Song, Xiaoxian Wang, Zhiyong Hu, Hairen Shi, Yong Gui, Siliang Lu, Complex Power Quality Disturbance Detection Across Edge and High-Performance Platforms via Embedded Feature Coding and Feature Fusion, IEEE Transactions on Instrumentation and Measurement, 2026, accepted, DOI: 10.1109/TIM.2026.3742071.
 
 Maokang Zheng, Hao Yan, Xinrui Guo, Changbo He, Ming Fu, Siliang Lu, WO-AMNAD：A novel angular deconvolution approach for bearing fault identification under time-varying speed conditions, IEEE Transactions on Instrumentation and Measurement, 2026, accepted, DOI: 10.1109/TIM.2026.3738220.
 
