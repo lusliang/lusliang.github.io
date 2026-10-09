@@ -156,7 +156,7 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 Accepted: 
 
-Xianhong Wu, Zhiyong Hu, Mengxin Wang, Juncai Song, Xiaoxian Wang, Hairen Shi, Dong Wang, and Siliang Lu, Edge Computing-Enabled Machine Fault Diagnosis Based on a Multi-Spike Encoded Lightweight Transformer, IEEE Transactions on Transportation Electrification, 2026, accepted.
+Xianhong Wu, Zhiyong Hu, Mengxin Wang, Juncai Song, Xiaoxian Wang, Hairen Shi, Dong Wang, and Siliang Lu, Edge Computing-Enabled Machine Fault Diagnosis Based on a Multi-Spike Encoded Lightweight Transformer, IEEE Transactions on Transportation Electrification, 2026, accepted, DOI: 10.1109/TTE.2026.3742510.
 
 Zhi Peng, Juncai Song, Zhiyong Hu, Zhongping Zhai, Siliang Lu, Xiaoxian Wang, MSTF-SNN: A Brain-Inspired Low-Power Spiking Neural Network for Demagnetization Fault Diagnosis of PMSLMs in Industrial Internet of Things, IEEE Internet of Things Journal, 2026, accepted, DOI: 10.1109/JIOT.2026.3739762.
 
