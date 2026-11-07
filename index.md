@@ -172,9 +172,11 @@ Juncai Song, Buyun Liu, Jiwen Zhao, Lijun Wang, Zhiyong Hu, Yu Zhang, Xiaoxian W
 
 Zhenyu Wu, Fei Yao, Hui Wang, Yongbin Liu, Cungang Hu, Siliang Lu#, Interturn Short-Circuit Fault Diagnosis of A BLDC Hub Motor Via Graph Neural Networks with Multiscale Feature Distillation, IEEE Transactions on Energy Conversion, 2026, accepted, DOI: 10.1109/TEC.2026.3698150.
 
-2026:
+2027:
 
-J130. Yawei Hu, Xiang Fang, Xizuo Dan, Siliang Lu, Yongbin Liu, A diffusion model-enhanced deep state-space model for RUL prediction, Reliability Engineering and System Safety, 2026, Vol. xx, pp: 113707.
+J130. Yawei Hu, Xiang Fang, Xizuo Dan, Siliang Lu, Yongbin Liu, A diffusion model-enhanced deep state-space model for RUL prediction, Reliability Engineering and System Safety, 2027, Vol. 279, pp: 113707.
+
+2026:
 
 J129. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Yongbin Liu, Siliang Lu, Shihao Gao, Accurate Rotor Position Estimation for Spherical Reluctance Motor Based on Improved Segmentation Strategy, IEEE Transactions on Industrial Electronics, 2026, Volume: 73, Issue: 10, pp: 15017 - 15027.
 
