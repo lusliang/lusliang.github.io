@@ -162,8 +162,6 @@ Xianhong Wu, Zhiyong Hu, Mengxin Wang, Juncai Song, Xiaoxian Wang, Hairen Shi, D
 
 Zhi Peng, Juncai Song, Zhiyong Hu, Zhongping Zhai, Siliang Lu, Xiaoxian Wang, MSTF-SNN: A Brain-Inspired Low-Power Spiking Neural Network for Demagnetization Fault Diagnosis of PMSLMs in Industrial Internet of Things, IEEE Internet of Things Journal, 2026, accepted, DOI: 10.1109/JIOT.2026.3739762.
 
-Siliang Lu, Mengxuan Tang, Juncai Song, Xiaoxian Wang, Zhiyong Hu, Zhi Peng, Lijun Wang, A Lightweight Model Based on Time-Frequency Enhancement and Multi-Sensor Fusion for Motor Fault Diagnosis, IEEE Sensors Journal, 2026, accepted, DOI: 10.1109/JSEN.2026.3736558.
-
 Zhenyu Wu, Chengzhen Meng, Hui Wang, Yongbin Liu, Siliang Lu#, A Hierarchical Differential Transfer Learning Network for BLDCM Fault Diagnosis Across Complex Conditions, IEEE Transactions on Transportation Electrification, 2026, accepted, DOI: 10.1109/TTE.2026.3728894.
 
 Changbo He, Zehua Fan, Lanyu Xiong, Siliang Lu, Zhixiong Li, Ming Fu, Zhibo Yang, A feature fusion model based on Convolutional Sparse Transformer with convolutional recurrent gated unit for remaining useful life prediction. Nondestructive Testing and Evaluation, 2026, accepted, https://doi.org/10.1080/10589759.2026.2635564.
@@ -177,6 +175,8 @@ Zhenyu Wu, Fei Yao, Hui Wang, Yongbin Liu, Cungang Hu, Siliang Lu#, Interturn Sh
 J130. Yawei Hu, Xiang Fang, Xizuo Dan, Siliang Lu, Yongbin Liu, A diffusion model-enhanced deep state-space model for RUL prediction, Reliability Engineering and System Safety, 2027, Vol. 279, pp: 113707.
 
 2026:
+
+J130. Siliang Lu, Mengxuan Tang, Juncai Song, Xiaoxian Wang, Zhiyong Hu, Zhi Peng, Lijun Wang, A Lightweight Model Based on Time-Frequency Enhancement and Multi-Sensor Fusion for Motor Fault Diagnosis, IEEE Sensors Journal, 2026, Vol. 26, Issue: 22, pp: 34468 - 34481.
 
 J129. Mingfeng Shi, Qunjing Wang, Huanyu Zhao, Yongbin Liu, Siliang Lu, Shihao Gao, Accurate Rotor Position Estimation for Spherical Reluctance Motor Based on Improved Segmentation Strategy, IEEE Transactions on Industrial Electronics, 2026, Volume: 73, Issue: 10, pp: 15017 - 15027.
 
