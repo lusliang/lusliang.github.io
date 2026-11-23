@@ -158,6 +158,8 @@ C2 Qingyun Zhu, Xiaoxian Wang, Hui Wang, Min Xia, Wenping Cao, and Siliang Lu, R
 
 Accepted: 
 
+Xiaoxian Wang, Benhao Yang, Siliang Lu, HairenShi, Juncai Song, Interpretable Rotor-Bar Fault Diagnosis of Squirrel-Cage Induction Motors Based on Polynomial Temporal Convolutional Network, 2026, accepted.
+
 Xianhong Wu, Zhiyong Hu, Mengxin Wang, Juncai Song, Xiaoxian Wang, Hairen Shi, Dong Wang, and Siliang Lu, Edge Computing-Enabled Machine Fault Diagnosis Based on a Multi-Spike Encoded Lightweight Transformer, IEEE Transactions on Transportation Electrification, 2026, accepted, DOI: 10.1109/TTE.2026.3742510.
 
 Zhenyu Wu, Chengzhen Meng, Hui Wang, Yongbin Liu, Siliang Lu#, A Hierarchical Differential Transfer Learning Network for BLDCM Fault Diagnosis Across Complex Conditions, IEEE Transactions on Transportation Electrification, 2026, accepted, DOI: 10.1109/TTE.2026.3728894.
