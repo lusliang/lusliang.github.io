@@ -162,19 +162,17 @@ Xiaoxian Wang, Benhao Yang, Siliang Lu, Hairen Shi, Juncai Song, Interpretable R
 
 Xianhong Wu, Zhiyong Hu, Mengxin Wang, Juncai Song, Xiaoxian Wang, Hairen Shi, Dong Wang, and Siliang Lu, Edge Computing-Enabled Machine Fault Diagnosis Based on a Multi-Spike Encoded Lightweight Transformer, IEEE Transactions on Transportation Electrification, 2026, accepted, DOI: 10.1109/TTE.2026.3742510.
 
-
-
 Changbo He, Zehua Fan, Lanyu Xiong, Siliang Lu, Zhixiong Li, Ming Fu, Zhibo Yang, A feature fusion model based on Convolutional Sparse Transformer with convolutional recurrent gated unit for remaining useful life prediction. Nondestructive Testing and Evaluation, 2026, accepted, https://doi.org/10.1080/10589759.2026.2635564.
 
 Juncai Song, Buyun Liu, Jiwen Zhao, Lijun Wang, Zhiyong Hu, Yu Zhang, Xiaoxian Wang#, Siliang Lu, Edge Computing-Oriented Demagnetization Fault Diagnosis of PMSLM Using Multi-Scale Feature Fusion Network, IEEE/ASME Transactions on Mechatronics, 2026, accepted, DOI: 10.1109/TMECH.2026.3705010.
-
-Zhenyu Wu, Fei Yao, Hui Wang, Yongbin Liu, Cungang Hu, Siliang Lu#, Interturn Short-Circuit Fault Diagnosis of A BLDC Hub Motor Via Graph Neural Networks with Multiscale Feature Distillation, IEEE Transactions on Energy Conversion, 2026, accepted, DOI: 10.1109/TEC.2026.3698150.
 
 2027:
 
 J133. Yawei Hu, Xiang Fang, Xizuo Dan, Siliang Lu, Yongbin Liu, A diffusion model-enhanced deep state-space model for RUL prediction, Reliability Engineering and System Safety, 2027, Vol. 279, pp: 113707.
 
 2026:
+
+Zhenyu Wu, Fei Yao, Hui Wang, Yongbin Liu, Cungang Hu, Siliang Lu#, Interturn Short-Circuit Fault Diagnosis of A BLDC Hub Motor Via Graph Neural Networks with Multiscale Feature Distillation, IEEE Transactions on Energy Conversion, 2026, Volume: 41, Issue: 4, pp: 3270-3285.
 
 J132. Zhenyu Wu, Chengzhen Meng, Hui Wang, Yongbin Liu, Siliang Lu#, A Hierarchical Differential Transfer Learning Network for BLDCM Fault Diagnosis Across Complex Conditions, IEEE Transactions on Transportation Electrification, 2026, Volume: 12, Issue: 6, pp: 9631 - 9644.
 
@@ -525,6 +523,8 @@ J2. 廖雨翔，陆思良，张海滨，张尚斌，孔凡让，高尔夫收球�
 J1. 黄铭，陆思良，孔凡让，魔方还原机器人的视觉子系统设计与实现，机械与电子，2013(05):60-64.
 
 ### 发明专利
+
+P29. 王骁贤，谢婷婷，陆思良，胡智勇，张海滨，翟中平，一种基于电路实现模拟域神经网络的电机故障诊断方法及系统，CN202611883389.8，受理。
 
 P28. 王骁贤，宋忠杰，陆思良，胡智勇，宋俊材，一种新能源汽车直流快速充电桩故障诊断方法，CN202611811904.1，受理。
 
