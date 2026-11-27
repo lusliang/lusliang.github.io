@@ -172,7 +172,7 @@ J133. Yawei Hu, Xiang Fang, Xizuo Dan, Siliang Lu, Yongbin Liu, A diffusion mode
 
 2026:
 
-Zhenyu Wu, Fei Yao, Hui Wang, Yongbin Liu, Cungang Hu, Siliang Lu#, Interturn Short-Circuit Fault Diagnosis of A BLDC Hub Motor Via Graph Neural Networks with Multiscale Feature Distillation, IEEE Transactions on Energy Conversion, 2026, Volume: 41, Issue: 4, pp: 3270-3285.
+J133. Zhenyu Wu, Fei Yao, Hui Wang, Yongbin Liu, Cungang Hu, Siliang Lu#, Interturn Short-Circuit Fault Diagnosis of A BLDC Hub Motor Via Graph Neural Networks with Multiscale Feature Distillation, IEEE Transactions on Energy Conversion, 2026, Volume: 41, Issue: 4, pp: 3270-3285.
 
 J132. Zhenyu Wu, Chengzhen Meng, Hui Wang, Yongbin Liu, Siliang Lu#, A Hierarchical Differential Transfer Learning Network for BLDCM Fault Diagnosis Across Complex Conditions, IEEE Transactions on Transportation Electrification, 2026, Volume: 12, Issue: 6, pp: 9631 - 9644.
 
